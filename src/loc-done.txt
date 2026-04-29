@@ -1,0 +1,1014 @@
+{
+    "code": "BPA_SEARCH_PAGE_TITLE",
+    "message": "Search Application",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_BASIC_DETAILS_SCRUTINY_NO_LABEL",
+    "message": "eDCR Number",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_BASIC_DETAILS_SCRUTINY_NUMBER_LABEL",
+    "message": "eDCR Number",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_CITY_LABEL",
+    "message": "ULB",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "EDCR_NOT_ACCEPTED",
+    "message": "eDCR not accepted",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "EDCR_ACCEPTED",
+    "message": "eDCR accepted",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  
+  {
+    "code": "BPA_EDCR_NO_LABEL",
+    "message": "eDCR Number",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TIME_TAKEN",
+    "message": "Time Taken",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "ACTION_TEST_EDCR_SCRUTINY_HOME",
+    "message": "Online Building Plan Approval System",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "OBPS",
+    "message": "Online Building Plan Approval System",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_EDCR_SCRUTINY",
+    "message": "Online Building Plan Approval System",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPLICATION_STATUS",
+    "message": "Application Status",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPLICATION_NUMBER",
+    "message": "Application Number",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "ES_COMMON_OBPS_INBOX_TITLE",
+    "message": "OBPAS Inbox",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_INBOX_RISK_TYPE",
+    "message": "Is Self Certification",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_LOW_LABEL",
+    "message": "Yes",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_LABEL",
+    "message": "No",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_EDCR_SEARCH_RESULTS_FOR_APP",
+    "message": "Search Results For eDCR Applications",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "EDCR_ACKNOWLEDGEMENT_REJECTED_MESSAGE_LABEL",
+    "message": "New Building Plan eDCR is Rejected",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "DCR_ACKNOWLEDGEMENT_REJECTED_MESSAGE_LABEL",
+    "message": "New building plan eDCR is rejected.",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BILLINGSERVICE_BUSINESSSERVICE_BPA.NC_SAN_FEE",
+    "message": "Pay 2 Fee",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_LOW_SANC_FEES",
+    "message": "Pay 2 Fee",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "BPA_SAN_FEE_RECEIPT",
+    "message": "Pay 2 fee receipt",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "MODULE_BPA_NC_SAN_FEE",
+    "message": "Pay 2 Fee",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TAXHEADCODE_BPA_SANC_FEES",
+    "message": "Pay 2 Fee",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TAXHEADCODE_BPA_SANC_FEES",
+    "message": "PAY 2 Fee",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SANC_FEE",
+    "message": "PAY 2 Fee",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "BPA_STATUS_DOC_PENDINGSANCTIONPAYMENT",
+    "message": "Pending PAY 2 Fee Payment",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  }
+
+  {
+            "code": "COMMON_BOTTOM_NAVIGATION_HOME",
+            "message": "Home",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACTION_TEST_EDCR_SCRUTINY",
+            "message": "Online Building Plan Approval System",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ACTION_TEST_EDCR_SCRUTINY_HOME",
+            "message": "Online Building Plan Approval System",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "SITEPHOTOGRAPH_ONE",
+            "message": "Site Photograph I",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BPA_DOC_PHOTOGRAPH",
+            "message": "Site Photograph I",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BPA_LOC_SITE_PHOTOGRAPH_2",
+            "message": "Upload Site Photograph II",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "SITEPHOTOGRAPH_TWO",
+            "message": "Site Photograph II",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BPA_EDCR_NO_LABEL",
+            "message": "EDCR Number",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BPA_ALLOWED_PROVIDED_FAR",
+            "message": "Allowed Purchasable FAR",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EDCR_IS_PURCHASABLEFAR",
+            "message": "Purchasable FAR",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BPA_PURCHASED_FAR_LABEL",
+            "message": "Purchased FAR",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "OWNER_OWNERVALIDID",
+            "message": "Owner's Valid ID Copy",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "DOCUMENTFILE",
+            "message": "Valid ID",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BPA_RESTRICTED_AREA",
+            "message": "Restricted Area",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BPA_CATEGORY_APPLIED_FOR_CLU_LABEL",
+            "message": "Category For Which CLU Apply",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BPA_NET_TOTAL_AREA_LABEL",
+            "message": "Total Area In Sq M",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BPA_AREA_LEFT_FOR_ROAD_WIDENING_LABEL",
+            "message": "Area Left For Road Widening In Sq M",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BPA_NET_PLOT_AREA_AFTER_WIDENING_LABEL",
+            "message": "Net Plot Area After Widening in Sq M",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "OWNER_NONENCUMBRANCECERTIFICATE",
+            "message": "Non-Encumbrance certificate from Tehsildar",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CORE_COMMON_GO_TO_OBPS",
+            "message": "Go to OBPAS Home",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BPA_LOWINITIATED_DONE",
+            "message": "Application Initiated",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CMN_NOOPTION",
+            "message": "No Option",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CMN_NOOPTION",
+            "message": "No Option",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        }
+        {
+            "code": "BPA_SEARCH_PAGE_TITLE",
+            "message": "Search Application",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BPA_BASIC_DETAILS_SCRUTINY_NO_LABEL",
+            "message": "eDCR Number",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BPA_BASIC_DETAILS_SCRUTINY_NUMBER_LABEL",
+            "message": "eDCR Number",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BPA_CITY_LABEL",
+            "message": "ULB",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EDCR_NOT_ACCEPTED",
+            "message": "eDCR not accepted",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EDCR_ACCEPTED",
+            "message": "eDCR accepted",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        
+        {
+            "code": "BPA_EDCR_NO_LABEL",
+            "message": "eDCR Number",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TIME_TAKEN",
+            "message": "Time Taken",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+
+        {
+            "code": "ACTION_TEST_EDCR_SCRUTINY_HOME",
+            "message": "Online Building Plan Approval System",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+
+        {
+            "code": "ES_PTR_COMMON_STATUS_SEND_TO_CITIZEN_NOT_DONE",
+            "message": "Initiated",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_BPA_NP_SEND_TO_CITIZEN",
+            "message": "Initiated",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        }
+        ,
+
+        {
+    "code": "WF_STATE_BPA_LOW_CITIZEN_APPROVAL_INPROCESS",
+    "message": "Citizen Approval Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_STATE_BPA_LOW_INITIATE",
+    "message": "Pending with Professionals",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_STATE_BPA_LOW_PENDING_APPL_FEE",
+    "message": "Pay-1 Fee: Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_BASIC_DETAILS_SCRUTINY_NO_LABEL",
+    "message": "eDCR Number",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "WF_ARCHITECT_UPGRADE_REJECTED",
+    "message": "Rejected",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  }
+
+
+,
+
+  {
+    "code": "WF_STATE_BPA_LOW_CITIZEN_APPROVAL_INPROCESS",
+    "message": "Citizen Approval Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_STATE_BPA_LOW_INITIATE",
+    "message": "Pending with Professionals",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_STATE_BPA_LOW_PENDING_APPL_FEE",
+    "message": "Pay-1 Fee: Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_BASIC_DETAILS_SCRUTINY_NO_LABEL",
+    "message": "eDCR Number",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "WF_ARCHITECT_UPGRADE_REJECTED",
+    "message": "Rejected",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_LOW_PENDING_APPL_FEE_PAYMENT",
+    "message": "Pay 1 Fee: Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_LOW_PENDING_FEE_PAYMENT",
+    "message": "Pay 1 Fee: Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_PENDING_APPL_FEE_PAYMENT",
+    "message": "Pay 1 Fee: Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_OC_PENDING_FEE_PAYMENT",
+    "message": "Pay 1 Fee: Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "Application Date",
+    "message": "Application Creation Date",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_APPROVAL_PENDING",
+    "message": "Pending For Stakeholders Update",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PENDING_FOR_STAKEHOLDERS_UPDATE",
+    "message": "Pending with Professional",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_LOW_PENDING_APPL_FEE",
+    "message": "Pay 1 Fee: Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_APPROVAL_PENDING",
+    "message": "Pending For Stakeholders Update",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_HIGH_SEND_TO_CITIZEN",
+    "message": "Initiated",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_APPROVAL_PENDING",
+    "message": "Approval Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_VERIFICATION_PENDING",
+    "message": "MC Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_BLOCKED",
+    "message": "Application is Blocked",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_PULLED_BACK",
+    "message": "Application Pulled Back",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_VERIFICATION_PENDING",
+    "message": "MC Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_EO_VERIFICATION_PENDING",
+    "message": "EO Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+  "code": "WF_BPA_ATPHQ_APPROVAL_PENDING",
+  "message": "ATP-HQ Approval Pending",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MTPHQ_APPROVAL_PENDING",
+  "message": "MTP-HQ Approval Pending",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_STPHQ_APPROVAL_PENDING",
+  "message": "STP-HQ Approval Pending",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "CLU_APPLICATION_NUMBER",
+  "message": "Application Number",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "CLU_APPLICATION_STATUS",
+  "message": "Application Status",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_POST_PAYMENT_CITIZEN_APPROVAL_PENDING",
+  "message": "Citizen Approval Pending",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_POST_PAYMENT_INPROGRESS",
+  "message": "Application In Progress",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_LEVEL3_VERIFICATION_PENDING",
+  "message": "Level 3 Verification Pending",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_LEVEL4_VERIFICATION_PENDING",
+  "message": "Level 4 Verification Pending",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+
+{
+    "code": "WF_BPA_BUILDING_PLAN_SCRUTINY",
+    "message": "Building Plan",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+ 
+  
+  {
+    "code": "WF_BPA_SEND_TO_CITIZEN",
+    "message": "Sent Back to Professional",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  
+
+  
+
+
+  {
+            "code": "WFSTATE_SEND_TO_CITIZEN",
+            "message": "Saved As Draft",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_BPA_INITIATED",
+            "message": "Saved As Draft",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        
+                
+        
+        {
+            "code": "WF_BPA_INPROGRESS",
+            "message": "Professional submission pending",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+
+         {
+            "code": "WF_BPA_LOW_INPROGRESS",
+            "message": "Professional submission pending",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+
+         {
+            "code": "WF_BPA_OC_INPROGRESS",
+            "message": "Professional submission pending",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_NEWBPA_LOW_INPROGRESS",
+            "message": "Professional submission pending",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        
+  {
+    "code": "WF_BPA_OC_SEND_TO_CITIZEN",
+    "message": "Sent back to professional",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_SEND_TO_CITIZEN",
+    "message": "Sent back to professional",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WfState : SEND_TO_CITIZEN",
+    "message": "Sent back to professional",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_INITIATED",
+    "message": "Initiated",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_LOW_INITIATED",
+    "message": "Initiated",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_LOW_SEND_TO_CITIZEN",
+    "message": "Sent back to professional ",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "WF_BPA_MC_SEND_TO_CITIZEN",
+    "message": "Saved as draft",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_NET_TOTAL_AREA_LABEL",
+    "message": "Total Plot Area In Sq M",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_NET_PLOT_AREA_AFTER_WIDENING_LABEL",
+    "message": "Net Plot Area After Road Widening In Sq M",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_AREA_LEFT_FOR_ROAD_WIDENING_LABEL",
+    "message": "Area Left for Road Widening In Sq M",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  
+  {
+    "code": "BPA_APPLICANT_ULB_LIST",
+    "message": "ULB Name",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_NOC_ULB_NAME",
+    "message": "ULB Name",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_ULB_NAME",
+    "message": "ULB Name",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_ULB_NAME_LABEL",
+    "message": "ULB Name / Town Name",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "EDCR_ULB_NAME",
+    "message": "ULB Name",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NOC_ULB_NAME_LABEL",
+    "message": "ULB Name",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_ULB_TYPE",
+    "message": "ULB Type",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "WF_BPA_MC_LEVEL4_VERIFICATION_PENDING",
+    "message": "MTP Verification Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_HIGH_HIGH_LEVEL4_VERIFICATION_PENDING",
+    "message": "MTP Verification Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_LEVEL3_VERIFICATION_PENDING",
+    "message": "ATP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_LEVEL4_VERIFICATION_PENDING",
+    "message": "MTP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "Professinal Undertaking is not Agreed",
+    "message": "Professional Undertaking is not Agreed",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "Professinal Undertaking is not Uploaded",
+    "message": "Professional Undertaking is not Uploaded",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_HIGH_HIGH_LEVEL3_VERIFICATION_PENDING",
+    "message": "ATP Verification Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_LEVEL3_VERIFICATION_PENDING",
+    "message": "ATP Verification Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_HIGH_LEVEL3_VERIFICATION_PENDING",
+    "message": "ATP Verification Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_LEVEL3_VERIFICATION_PENDING",
+    "message": "ATP Verification Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_HIGH_HIGH_LEVEL3_VERIFICATION_PENDING",
+    "message": "ATP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_LEVEL3_VERIFICATION_PENDING",
+    "message": "ATP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_HIGH_LEVEL3_VERIFICATION_PENDING",
+    "message": "ATP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_LEVEL3_VERIFICATION_PENDING",
+    "message": "ATP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_LEVEL4_VERIFICATION_PENDING",
+    "message": "MTP Verification Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_HIGH_LEVEL4_VERIFICATION_PENDING",
+    "message": "MTP Verification Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_HIGH_LEVEL4_VERIFICATION_PENDING",
+    "message": "MTP Verification Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_HIGH_LEVEL4_VERIFICATION_PENDING",
+    "message": "MTP Verification Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_LEVEL4_VERIFICATION_PENDING",
+    "message": "MTP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_HIGH_LEVEL4_VERIFICATION_PENDING",
+    "message": "MTP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_HIGH_LEVEL4_VERIFICATION_PENDING",
+    "message": "MTP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_HIGH_LEVEL4_VERIFICATION_PENDING",
+    "message": "MTP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_SEND_FOR_JE_VERIFICATION_JE_VERIFICATION_PENDING",
+    "message": "Application Sent for Inspection Successfully.",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_SEND_FOR_JE_VERIFICATION_APPLICATION",
+    "message": "Field Inspection in Progress",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_LOW_SEND_FOR_JE_VERIFICATION",
+    "message": "Send for JE Verification",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "SEND_FOR_JE_VERIFICATION",
+    "message": "Send for Field Inspection",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_LOW_SEND_FOR_INSPECTION",
+    "message": "Send for  Field Inspection",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_LOW_SEND_FORINSPECTION",
+    "message": "Send for For Inspection",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_LOW_SENDFORINSPECTION",
+    "message": "Send for For Inspection",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_LOW_JE_VERIFICATION_PENDING",
+    "message": "Field Inspection in progress",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_SEND_FOR_JE_VERIFICATION_JE_VERIFICATION_PENDING",
+    "message": "Application Sent for Inspection Successfully.",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_SEND_FOR_JE_VERIFICATION_APPLICATION",
+    "message": "Field Inspection in Progress",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_LOW_SEND_FOR_JE_VERIFICATION",
+    "message": "Send for JE Verification",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "SEND_FOR_JE_VERIFICATION",
+    "message": "Send for Field Inspection",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_LOW_SEND_FOR_INSPECTION",
+    "message": "Send for  Field Inspection",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_LOW_SEND_FORINSPECTION",
+    "message": "Send for For Inspection",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_LOW_SENDFORINSPECTION",
+    "message": "Send for For Inspection",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_LOW_JE_VERIFICATION_PENDING",
+    "message": "Field Inspection in progress",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  
+
+
+        

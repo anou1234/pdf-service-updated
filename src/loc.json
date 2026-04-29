@@ -1,0 +1,14 @@
+[
+  {
+    "code": "BPA_FEES_UNDERTAKING",
+    "message": "I hereby declare that I have verified all calculations related to the Pay 2 amount to the best of my knowledge.",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_FEES_UNDERTAKINGCOMMON_DAY",
+    "message": "I hereby declare that I have verified all calculations related to the Pay 2 amount to the best of my knowledge.",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  }
+]

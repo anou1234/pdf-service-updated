@@ -1,0 +1,8 @@
+[
+  {
+    "code": "DOWNLOAD_CERTIFICATE",
+    "message": "Certificate",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  }
+]

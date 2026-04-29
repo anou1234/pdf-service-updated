@@ -1,0 +1,240 @@
+{
+    "code": "ADS_REGISTRATION_APPLICATION",
+    "message": "Advertisement and Hoarding Application",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_VIEW_AVAILIBILITY",
+    "message": "View Availability",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "GREEN_PARK",
+    "message": "Green Park",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "HAUZ_KHAS",
+    "message": "Hauz Khas",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BOOKING_EXPIRED",
+    "message": "Booking Expired",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_SLOTS_EXPIRED",
+    "message": "Slots Expired",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "APPLICANT_ADVERTISEMENT_SAMPLE_DOC",
+    "message": "Sample Advertisement Document",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TRACKING_STATUS",
+    "message": "Tracking Status",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_YES",
+    "message": "Yes",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BOOKING_CREATED",
+    "message": "Booking Created Successfully",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_ADS_CANCEL",
+    "message": "Cancel",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_BOOKING_NO",
+    "message": "Booking Number",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_APPLICANT_NAME",
+    "message": "Applicant Name",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "AD_TYPE",
+    "message": "Advertisement Type",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BOOKING_STATUS",
+    "message": "Booking Status",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_DATE",
+    "message": "Date",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_FACE_AREA",
+    "message": "Face Area",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_LOCATION",
+    "message": "Location",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_SERVICE",
+    "message": "Advertisement and Hoarding Service",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_TYPE",
+    "message": "Advertisement Type",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_NIGHT_LIGHT",
+    "message": "Night Lighting",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CS_COMMON_INBOX",
+    "message": "Inbox",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_APP_OVER_VIEW_HEADER",
+    "message": "Application Overview",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_APPLICANT_DETAILS",
+    "message": "Applicant Details",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_SEARCH_BOOKING_MOBILE_NO",
+    "message": "Search by Mobile Number",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADV_BOOKING_NUMBER",
+    "message": "Booking Number",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_ADS_COMMON_STATUS_INITIATED",
+    "message": "Initiated",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_ADS_COMMON_STATUS_BOOKED",
+    "message": "Booked",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_ADS_COMMON_STATUS_PENDING_FOR_INSPECTION",
+    "message": "Pending for Inspection",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_ADS_COMMON_STATUS_PENDING_FOR_PAYMENT",
+    "message": "Pending for Payment",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_ADS",
+    "message": "Advertisement and Hoarding",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_MY_BOOKING",
+    "message": "My Bookings",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_BOOK",
+    "message": "Book",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_SITE_NAME_LABEL",
+    "message": "Site Name",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_APPLICANT_DETAILS",
+    "message": "Applicant Details",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_START_DATE_TIME",
+    "message": "Start Date & Time",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_END_DATE_TIME",
+    "message": "End Date & Time",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_GUIDE_WEEKLY",
+    "message": "Weekly Advertisement Guide",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_SHOW_MORE",
+    "message": "Show More",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_SHOW_LESS",
+    "message": "Show Less",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  }
