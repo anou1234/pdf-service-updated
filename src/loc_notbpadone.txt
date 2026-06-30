@@ -237,4 +237,2381 @@
     "message": "Show Less",
     "module": "rainmaker-common",
     "locale": "en_IN"
+  },
+  {
+    "code": "ADS_VIEW_AVAILIBILITY",
+    "message": "View Availability",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_AVAILIBILITY_FOR",
+    "message": "View Availability For",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_ADD_TO_CART",
+    "message": "Add to Cart",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CORE_Mobile_Number",
+    "message": "Mobile Number",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CORE_EMAIL_ID",
+    "message": "Email ID",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CS_ACTION_SUBMIT",
+    "message": "Submit",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_YOUR_CART",
+    "message": "Your Cart",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "MODULE_ADV_SERVICES",
+    "message": "Advertisement Services",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PERIOD_BOOKING",
+    "message": "Booking Period",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_COST",
+    "message": "Cost",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_REMOVE",
+    "message": "Remove",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_DETAILS",
+    "message": "Advertisement Details",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_IN_CART",
+    "message": "Advertisements in Cart",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PDF_STATIC_LABEL_SITE_ID",
+    "message": "Site ID",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ONE_DAY_ADV_PRICE",
+    "message": "One Day Advertisement Price",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_APPLICANT_DETAILS",
+    "message": "Applicant Details",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PTR_PINCODE_MIN_LENGTH",
+    "message": "Pincode must be of at least 6 digits",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_APPROVAL_NUMBER",
+    "message": "Advertisement Approval Number",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CORE_COMMON_GO_TO_ADS",
+    "message": "Go to Advertisement Services",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "GC_ROUND_OFF",
+    "message": "Round Off Amount",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "GC_CHARGE",
+    "message": "Garbage Collection Charge",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PROPERTYTAX_BILLING_SLAB_NONRESIDENTIAL_INDUSTRIAL",
+    "message": "Industrial",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PROPERTYTAX_BILLING_SLAB_NONRESIDENTIAL_COMMERCIAL",
+    "message": "Commercial",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PROPERTYTAX_BILLING_SLAB_NONRESIDENTIAL_INSTITUTIONAL",
+    "message": "Institutional",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_DISCHARGE_CHARGES",
+    "message": "Discharge Charges",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WS_PROPERTY_ADDRESS_LABEL",
+    "message": "Property Address",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  
+  {
+    "code": "CORE_COMMON_DOB",
+    "message": "Date of Birth",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CS_COMMON_ALREADY_HAVE_ACCOUNT",
+    "message": "Already have an account?",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_CANCEL_SUCCESS",
+    "message": "Your application booking has been successfully cancelled. To collect your refund, please contact the MSeva office.",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PDF_BILL_GC_CONNECTION_NO",
+    "message": "Connection No.",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_NO_SIGNATURE_GC",
+    "message": "This is a computer generated receipt. Signature is not required.",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "RENT_LEASE_FEE",
+    "message": "Rent / Lease Fee",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "RL_FEE_ROUND_OFF",
+    "message": "Round Off",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "RL_CGST_FEE",
+    "message": "CGST",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "RL_SGST_FEE",
+    "message": "SGST",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "RL_COWCESS_FEE",
+    "message": "Cow Cess",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "RL_SECURITY_DEPOSIT_FEE",
+    "message": "Security Deposit",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "RL_PENALTY_FEE",
+    "message": "Penalty",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "RL_ARREAR_FEE",
+    "message": "Arrears",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "GC_FORM_FEE",
+    "message": "Application Fee",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "GC_FEE_ROUND_OFF",
+    "message": "Round Off",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "GC_CGST_FEE",
+    "message": "CGST",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "GC_SGST_FEE",
+    "message": "SGST",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "GC_COWCESS_FEE",
+    "message": "Cow Cess",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "GC_SECURITY_DEPOSIT_FEE",
+    "message": "Security Deposit",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "GC_PENALTY_FEE",
+    "message": "Penalty",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_CANCEL_SUCCESS",
+    "message": "Your application booking has been successfully cancelled. To collect your refund, please contact the concern ULB .",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "GC_CONNECTION_FEE",
+    "message": "Connection Fee",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CHB_HALL_NUMBER",
+    "message": "Venue Number",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FOR_ELECTION_PURPOSE",
+    "message": "For Election Purpose",
+    "module": "rainmaker-ndc",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FOR_ELECTION_PURPOSE",
+    "message": "For Election Purpose",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "FOR_ELECTION_PURPOSE",
+    "message": "For Election Purpose",
+    "module": "rainmaker-ndc",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "FOR_ELECTION_PURPOSE",
+    "message": "For Election Purpose",
+    "module": "rainmaker-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "ADS_VIEW_AVAILIBILITY",
+    "message": "View Availability",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_BOOKED_HEADER",
+    "message": "Advertisement Booking Initiated Successfully",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_BOOKED_SUB_HEADER",
+    "message": "Advertisment Booking Initiated Successfully",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "ADS_CANCEL_SUCCESS",
+    "message": "Your application booking has been successfully cancelled. To collect your refund, please contact the concern ULB .",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+   {
+    "code": "ADS_CANCEL_SUCCESS",
+    "message": "Your application booking has been successfully cancelled. To collect your refund, please contact the concern ULB .",
+    "module": "rainmaker-ads",
+    "locale": "en_IN"
+  },
+  {
+    "code": "RENT_LEASE_FEE",
+    "message": "Rent / Lease Fee",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "RL_FEE_ROUND_OFF",
+    "message": "Round Off",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "RL_CGST_FEE",
+    "message": "CGST",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "RL_SGST_FEE",
+    "message": "SGST",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "RL_COWCESS_FEE",
+    "message": "Cow Cess",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "RL_SECURITY_DEPOSIT_FEE",
+    "message": "Security Deposit",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "RL_PENALTY_FEE",
+    "message": "Penalty",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "RL_ARREAR_FEE",
+    "message": "Arrears",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "GC_FORM_FEE",
+    "message": "Application Fee",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "GC_FEE_ROUND_OFF",
+    "message": "Round Off",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "GC_CGST_FEE",
+    "message": "CGST",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "GC_SGST_FEE",
+    "message": "SGST",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "GC_COWCESS_FEE",
+    "message": "Cow Cess",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "GC_SECURITY_DEPOSIT_FEE",
+    "message": "Security Deposit",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "GC_PENALTY_FEE",
+    "message": "Penalty",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "GC_CONNECTION_FEE",
+    "message": "Connection Fee",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+ {
+    "code": "ES_APPLICANT_DETAILA",
+    "message": "Applicant Details",
+    "module": "rainmaker-ads",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_MOBILE_NUMBER",
+    "message": "Mobile Number",
+    "module": "rainmaker-ads",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_EMAIL_ID",
+    "message": "Email ID",
+    "module": "rainmaker-ads",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_ADDRESS_PINCODE",
+    "message": "Address Pincode",
+    "module": "rainmaker-ads",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_DOCUMENTS_DETAILS",
+    "message": "Documents Details",
+    "module": "rainmaker-ads",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_APPLICANT_DETAILA",
+    "message": "Applicant Details",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_MOBILE_NUMBER",
+    "message": "Mobile Number",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_EMAIL_ID",
+    "message": "Email ID",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_ADDRESS_PINCODE",
+    "message": "Address Pincode",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ADS_DOCUMENTS_DETAILS",
+    "message": "Documents Details",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "FIRENOC_OWNER_INSTALL_FIRE_SAFETY_AS_PER_LAYOUT_PLAN",
+    "message": "Occupant/Owner must install/provide fire safety arrangements as per submitted fire layout plan/drawing during construction.",
+    "module": "rainmaker-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "FIRENOC_OWNER_INSTALL_FIRE_SAFETY_AS_PER_LAYOUT_PLAN_PB",
+    "message": "ਕਾਬਜਕਾਰ/ਮਾਲਕ ਵਲੋਂ ਜਮਾਂ ਕਰਵਾਏ ਗਏ ਲੇਆਊਟ ਪਲਾਨ/ਡਰਾਇੰਗ ਅਨੁਸਾਰ ਫਾਇਰ ਸੇਫਟੀ ਦੇ ਪਬੰਧ ਕਰਨੇ ਲਾਜਮੀ ਹੋਣਗੇ।",
+    "module": "rainmaker-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "FIRENOC_OWNER_OBTAIN_FINAL_NOC_BEFORE_OCCUPANCY",
+    "message": "Occupant/Owner must obtain the final NOC from fire department on completion of building construction before occupancy.",
+    "module": "rainmaker-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "FIRENOC_OWNER_OBTAIN_FINAL_NOC_BEFORE_OCCUPANCY_PB",
+    "message": "ਕਾਬਜਕਾਰ/ਮਾਲਕ ਵਲੋਂ ਇਸ ਪ੍ਰੋਜੈਕਟ ਦੀ ਉਸਾਰੀ ਉਪਰੰਤ ਫਾਇਰ ਸੇਫਟੀ ਸਬੰਧੀ ਫਾਇਰ ਐਨ.ਓ.ਸੀ ਲੈਣਾ ਹੋਵੇਗਾ।",
+    "module": "rainmaker-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "FIRENOC_DEPARTMENT_MAY_REQUIRE_ADDITIONAL_FIRE_SAFETY",
+    "message": "Fire department may ask for additional arrangements (if necessary) after the completion of construction of building.",
+    "module": "rainmaker-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "FIRENOC_DEPARTMENT_MAY_REQUIRE_ADDITIONAL_FIRE_SAFETY_PB",
+    "message": "ਫਾਇਰ ਵਿਭਾਗ ਵਲੋਂ ਬਿਲਡਿੰਗ ਦੀ ਉਸਾਰੀ ਦਾ ਕੰਮ ਮੁਕੰਮਲ ਹੋਣ ਤੇ ਫਾਇਰ ਸੇਫਟੀ ਦਾ ਵਾਧੂ ਪ੍ਰਬੰਧ (ਜੇਕਰ ਲੋੜ ਹੋਵੇ) ਕਰਨ ਲਈ ਕਿਹਾ ਜਾ ਸਕਦਾ ਹੈ।",
+    "module": "rainmaker-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "FIRENOC_CONSTRUCTION_FIRE_SAFETY_AS_PER_NBC",
+    "message": "During construction, fire safety arrangements should be provided as per requirements of NBC.",
+    "module": "rainmaker-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "FIRENOC_CONSTRUCTION_FIRE_SAFETY_AS_PER_NBC_PB",
+    "message": "ਐਨ.ਬੀ.ਸੀ ਅਨੁਸਾਰ ਬਿਲਡਿੰਗ ਦੀ ਉਸਾਰੀ ਸਮੇਂ ਫਾਇਰ ਸੇਫਟੀ ਦੇ ਲੋੜੀਦੇ ਪ੍ਰਬੰਧ ਕਰਨੇ ਜਰੂਰੀ ਹੋਣਗੇ।",
+    "module": "rainmaker-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "FIRENOC_REAPPLY_PROVISIONAL_CERTIFICATE_ON_PLAN_CHANGE",
+    "message": "In case of any change/alteration in the building plan, owner/occupant must re-apply for the provisional certificate.",
+    "module": "rainmaker-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "FIRENOC_REAPPLY_PROVISIONAL_CERTIFICATE_ON_PLAN_CHANGE_PB",
+    "message": "ਜੇਕਰ ਕਾਬਜਕਾਰ/ਮਾਲਕ ਵਲੋਂ ਕੋਈ ਵੀ ਤਬਦੀਲੀ ਕੀਤੀ ਜਾਂਦੀ ਹੈ ਤਾਂ ਦੁਬਾਰਾ ਤੋਂ ਪ੍ਰੋਵੀਜਨਲ ਐਨ.ਓ.ਸੀ ਲਈ ਅਪਲਾਈ ਕਰਨਾ ਪਵੇਗਾ।",
+    "module": "rainmaker-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "FIRENOC_DEPARTMENT_RIGHT_TO_WITHDRAW_CERTIFICATE",
+    "message": "Fire department reserves the right to withdraw this issued certificate, if any change in fire/building layout plan is made without notice to fire department.",
+    "module": "rainmaker-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "FIRENOC_DEPARTMENT_RIGHT_TO_WITHDRAW_CERTIFICATE_PB",
+    "message": "ਜੇਕਰ ਕਾਬਜਕਾਰ/ਮਾਲਕ ਵਲੋਂ ਬਿਨਾ ਫਾਇਰ ਵਿਭਾਗ ਦੀ ਮਨਜ਼ੂਰੀ ਤੇ ਲੇਆਊਟ ਪਲਾਨ ਵਿੱਚ ਕੋਈ ਤਬਦੀਲੀ ਕੀਤੀ ਜਾਂਦੀ ਹੈ ਤਾਂ ਜਾਰੀ ਕੀਤਾ ਗਿਆ ਸਰਟੀਫਿਕੇਟ ਵਾਪਸ ਲੈਣ ਦਾ ਹੱਕ ਰਾਖਵਾਂ ਹੋਵੇਗਾ।",
+    "module": "rainmaker-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "FIRENOC_DETAILS_NOT_VALID_AS_OWNERSHIP_PROOF",
+    "message": "Above Details cannot be used as ownership proof.",
+    "module": "rainmaker-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "FIRENOC_DETAILS_NOT_VALID_AS_OWNERSHIP_PROOF_PB",
+    "message": "ਉਪਰੋਕਤ ਦਰਸਾਈ ਗਈ ਜਾਣਕਾਰੀ ਨੂੰ ਮਾਲਕਾਨਾ ਦੇ ਸਬੂਤ ਵਜੋਂ ਨਹੀਂ ਵਰਤਿਆ ਜਾਵੇਗਾ।",
+    "module": "rainmaker-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "FIRENOC_DIGITAL_CERTIFICATE_NO_SIGNATURE_REQUIRED",
+    "message": "This is digitally created certificate, no signature is needed.",
+    "module": "rainmaker-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "FIRENOC_DIGITAL_CERTIFICATE_NO_SIGNATURE_REQUIRED_PB",
+    "message": "ਇਹ ਡਿਜੀਟਲੀ (ਕੰਪਿਊਟਰਾਈਜ਼ਡ) ਤਿਆਰ ਕੀਤਾ ਗਿਆ ਸਰਟੀਫਿਕੇਟ ਹੈ, ਜਿਸ ਵਿੱਚ ਦਸਤਖਤ ਦੀ ਕੋਈ ਲੋੜ ਨਹੀਂ ਹੈ।",
+    "module": "rainmaker-common",
+    "locale": "pn_IN"
+  },
+  {
+    "code": "ADS_VIEW_AVAILIBILITY",
+    "message": "View Availability",
+    "module": "rainmaker-ads",
+    "locale": "en_IN"
+  },
+  {
+    "code": "AUDIT_DATE_LABEL",
+    "message": "Date",
+    "module": "rainmaker-common",
+    "locale": "pn_IN"
+  },
+
+  {
+    "code": "BPA_KHASRA_NO_LABEL",
+    "message": "Khasra No.",
+    "module": "rainmaker-common",
+    "locale": "pn_IN"
+  },
+  {
+            "code": "ADS_VIEW_AVAILABILITY",
+            "message": "View Availability",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        }
+        ,
+        {
+            "code": "ADV_TERM_1",
+            "message": "Advertisements must comply with all applicable laws and regulations.",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADV_TERM_10",
+            "message": "All advertisements are subject to the Provider’s final approval and may be modified as needed.",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADV_TERM_2",
+            "message": "The Provider reserves the right to approve or reject any advertisement submitted.",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADV_TERM_3",
+            "message": "Advertisements should not contain any offensive, illegal, or misleading content.",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADV_TERM_4",
+            "message": "Advertisers are responsible for ensuring their content does not infringe any intellectual property rights.",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADV_TERM_5",
+            "message": "Payment must be made in full at the time of booking.",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADV_TERM_6",
+            "message": "The advertisement placement is subject to availability and approval.",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADV_TERM_7",
+            "message": "The Advertiser will be charged a cancellation fee if the ad is canceled after booking.",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADV_TERM_8",
+            "message": "The Provider is not responsible for any losses caused by a delay in the advertisement placement.",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADV_TERM_9",
+            "message": "Advertisers must comply with local noise, safety, and health regulations.",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADS_AD_TYPE",
+            "message": "Ad Type",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADV_ACK_TEXT_1",
+            "message": "Please keep this acknowledgement for your records. You will be notified once your application is processed and approved. For any queries, please contact the Municipal Corporation office with your application number.",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ADV_ACK_TEXT_2",
+            "message": "This is to acknowledge that we have received your application for Advertisement and Hoarding Booking. Your application has been processed and the details are as follows:",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+    "code": "UNIPOLAR_12_X_8",
+    "message": "Unipolar 12 x 8",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "COMMON_MASTERS_DESIGNATION_DESIG_SK_OPR",
+    "message": "Sewa Kendra Operator",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "COMMON_MASTERS_DESIGNATION_DESIG_126",
+    "message": "Accounts Officer",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "COMMON_MASTERS_DESIGNATION_DESIG_129",
+    "message": "Assistant Trust engineer",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "COMMON_MASTERS_DESIGNATION_DESIG_130",
+    "message": "Trust engineer",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "COMMON_MASTERS_DESIGNATION_DESIG_131",
+    "message": "Joint Commissioner",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "COMMON_MASTERS_DESIGNATION_DESIG_132",
+    "message": "Municipal Commissioner",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "COMMON_MASTERS_DESIGNATION_DESIG_133",
+    "message": "Senior Town Planner Field",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "COMMON_MASTERS_DESIGNATION_DESIG_135",
+    "message": "Town Planner",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "COMMON_MASTERS_DESIGNATION_DESIG_136",
+    "message": "Tehsildar",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "COMMON_MASTERS_DESIGNATION_DESIG_138",
+    "message": "Chief Town Planner",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "COMMON_MASTERS_DESIGNATION_DESIG_139",
+    "message": "Assistant Town Planner (Head Quater)",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "COMMON_MASTERS_DESIGNATION_DESIG_140",
+    "message": "Municipal Town Planner  (Head Quater)",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "COMMON_MASTERS_DESIGNATION_DESIG_141",
+    "message": "Senior Town Planner  (Head Quater)",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "COMMON_MASTERS_DESIGNATION_LGM",
+    "message": "Local Government Minister",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "COMMON_MASTERS_DESIGNATION_PSLG",
+    "message": "Principal Secretry Local Government",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "COMMON_MASTERS_DESIGNATION_DLG",
+    "message": "Director Local Government",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "COMMON_MASTERS_DESIGNATION_HELPDESK",
+    "message": "HelpDesk",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "COMMON_MASTERS_DESIGNATION_PM",
+    "message": "Project Manager",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+            "code": "PT_APPLICATION",
+            "message": "PT Acknowledgment",
+            "module": "rainmaker-pt",
+            "locale": "en_IN"
+        },
+        [
+  {
+    "code": "ACTION_TEST_MISC_BUSINESS_SERVICE_COLLECTIONS_V2",
+    "message": "Miscellaneous Collections V2",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_MISCELLANEOUS_CANCELLED_RECEIPTS_V2",
+    "message": "Miscellaneous Cancelled Receipts V2",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_MISCELLANEOUS_CONSUMER_RECEIPTS_V2",
+    "message": "Miscellaneous Consumer Receipts",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_EMPLOYEE_WISE_COLLECTION_UC",
+    "message": "Employee Wise Collection UC",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_OFFICERS_WISE_PENDENCY_TREND_ANALYSIS__NOC",
+    "message": "Officers Wise Pendency Trend Analysis NOC",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_CATEGORY_WISE_PT_COUNT",
+    "message": "Category Wise PT Count",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_PENDING_PT_APPLICATIONS_REPORT",
+    "message": "Pending PT Applications Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_STATUS_REPORT",
+    "message": "Status Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_PROPERTY_AND_RECEIPT_COUNT",
+    "message": "Property And Receipt Count",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_DEFAULTERS_WITH_UNPAID_DEMAND",
+    "message": "Defaulters With Unpaid Demand",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_PROPERTY_LIST_REPORT",
+    "message": "Property List Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_WATER_DUMP_REPORT",
+    "message": "Water Dump Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_SEWERAGE_DUMP_REPORT",
+    "message": "Sewerage Dump Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_TL_PENDENCY_REPORT",
+    "message": "TL Pendency Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PTRECEIPTREGISTER 7 TO 10 SEPT 2020",
+    "message": "PT Receipt Register 7 To 10 Sept 2020",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_RECEIPT_REGISTER_SW_MSEVA",
+    "message": "Receipt Register Swacch Mseva",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_DEAD/DAMEGED_METER_REPORT",
+    "message": "Dead/Damaged Meter Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_DAILY_BILL_GENERATE_REPORT",
+    "message": "Daily Bill Generate Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+{
+            "code": "COMMON_OWNERSHIPPROOF_DESCRIPTION",
+            "message": "Only .jpg , .png and .pdf files. 5MB max file size.",
+            "module": "rainmaker-tl",
+            "locale": "en_IN"
+        },
+        {
+    "code": "ACTION_TEST_SWACH_REPORTS",
+    "message": "Swach Reports",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_AMRITSAR_SUMMARY_EMPLOYEE_REPORT",
+    "message": "Amritsar Summary Employee Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_CHALLAN_REPORTS",
+    "message": "Challan Reports",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_RECEIPT_REGISTER_CHALLAN",
+    "message": "Receipt Register Challan",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_CHALLAN_DEFAULTER_REPORT",
+    "message": "Challan Defaulter Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_CHALLAN_DETAIL_REPORT",
+    "message": "Challan Detail Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_PROPERTY_TAX_UPGRADE",
+    "message": "Property Tax Upgrade",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_FIRE_NOC_UPGRADE",
+    "message": "Fire NOC Upgrade",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_CREATE_PROPERTY",
+    "message": "Create Property",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_PROPERTY_INBOX",
+    "message": "Property Inbox",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_FIRE_NOC_INBOX",
+    "message": "Fire NOC Inbox",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_FIRE_NOC_CREATE_APPLICATION",
+    "message": "Fire NOC Create Application",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_FIRE_NOC_SEARCH_APPLICATION",
+    "message": "Fire NOC Search Application",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_SEARCH_PROP_APP",
+    "message": "Search Property Application",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_COMMON_STATUS_PENDINGAPPROVAL",
+    "message": "Pending Approval",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_SPECIAL_OWNER_CA",
+    "message": "Special Owner CA",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OWNER_PERCENTAGE",
+    "message": "Owner Percentage",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_ATTACH_FILE",
+    "message": "Attach File",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_ACTION_NO_FILEUPLOADED",
+    "message": "No File Uploaded",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_COMMON_CANCEL",
+    "message": "Cancel",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_EDIT_PROPERTY",
+    "message": "Edit Property",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_SELECT_FINANCIAL_YEAR",
+    "message": "Select Financial Year",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_ESTIMATE_DETAILS_HEADER",
+    "message": "Estimate Details",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_ADDRESS",
+    "message": "Address",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_TITLE_BILLING_PERIOD",
+    "message": "Billing Period",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_BILLING_DUE_DATE",
+    "message": "Billing Due Date",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_TAX_ESTIMATION_HEADER",
+    "message": "Tax Estimation",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_TITLE_TAX_HEADS",
+    "message": "Tax Heads",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_TITLE_AMOUNT",
+    "message": "Amount",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_TITLE_TOTAL_DUE_AMOUNT",
+    "message": "Total Due Amount",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_SEARCH_PROP_APP",
+    "message": "Search Property Application",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_COMMON_STATUS_PENDINGAPPROVAL",
+    "message": "Pending Approval",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_SPECIAL_OWNER_CA",
+    "message": "Special Owner CA",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OWNER_PERCENTAGE",
+    "message": "Owner Percentage",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_ATTACH_FILE",
+    "message": "Attach File",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_ACTION_NO_FILEUPLOADED",
+    "message": "No File Uploaded",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_COMMON_CANCEL",
+    "message": "Cancel",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_EDIT_PROPERTY",
+    "message": "Edit Property",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_SELECT_FINANCIAL_YEAR",
+    "message": "Select Financial Year",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_ESTIMATE_DETAILS_HEADER",
+    "message": "Estimate Details",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_ADDRESS",
+    "message": "Address",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_TITLE_BILLING_PERIOD",
+    "message": "Billing Period",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_BILLING_DUE_DATE",
+    "message": "Billing Due Date",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_TAX_ESTIMATION_HEADER",
+    "message": "Tax Estimation",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_TITLE_TAX_HEADS",
+    "message": "Tax Heads",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_TITLE_AMOUNT",
+    "message": "Amount",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_TITLE_TOTAL_DUE_AMOUNT",
+    "message": "Total Due Amount",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_NO_PROP_FOUND_MSG",
+    "message": "No Property Found",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT.CREATE_APPROVE_UPDATE_SUCCESS",
+    "message": "Property Updated Successfully",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_FORM3_TRANSGENDER",
+    "message": "Transgender",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_FORM3_MOTHER",
+    "message": "Mother",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_MUTATION_TRANSFEROR_TRANSFEREE_SAME_MOBILE_ERROR",
+    "message": "Transferor and Transferee cannot have the same Mobile Number",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_MUTATION_DOCUMENT_DETAILS_HEADER",
+    "message": "Mutation Document Details",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_PROPERTY_DOCUMENTS",
+    "message": "Property Documents",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OWNER.ADDRESSPROOF.AADHAR",
+    "message": "Aadhaar",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_COMMON_STATUS_PENDINGAPPROVAL",
+    "message": "Pending Approval",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CS_PAYMENT_CUSTOM_AMOUNT",
+    "message": "Custom Amount",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_ADHOC_PENALTY",
+    "message": "Adhoc Penalty",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_ADHOC_REBATE",
+    "message": "Adhoc Rebate",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_BILL_DETAILS_PT_DETAILS_HEADING",
+    "message": "Property Tax Details",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_APPLICATION_NUMBER_LABEL",
+    "message": "Application Number",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_APPLICATION_CHANNEL_LABEL",
+    "message": "Application Channel",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_FEE_AMOUNT",
+    "message": "Fee Amount",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_PAYMENT_STATUS",
+    "message": "Payment Status",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_APPLICATION_CHANNEL_CFC_COUNTER",
+    "message": "CFC Counter",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_DOOR_OR_HOUSE",
+    "message": "Door/House No.",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OWNER_SUB_HEADER",
+    "message": "Owner Details",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_MUTATION_PENDING_COURT",
+    "message": "Property Under Pending Court Case",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_DETAILS_COURT_CASE",
+    "message": "Court Case Details",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_PROP_UNDER_GOV_AQUISITION",
+    "message": "Property Under Government Acquisition",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_DETAILS_GOV_AQUISITION",
+    "message": "Government Acquisition Details",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_REGISTRATION_DETAILS",
+    "message": "Registration Details",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_REASON_PROP_TRANSFER",
+    "message": "Reason for Property Transfer",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_PROP_MARKET_VALUE",
+    "message": "Property Market Value",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_REG_NUMBER",
+    "message": "Registration Number",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_DOC_ISSUE_DATE",
+    "message": "Document Issue Date",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_REG_DOC_VALUE",
+    "message": "Registered Document Value",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_REMARKS",
+    "message": "Remarks",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_ADD_REBATE_PENALITY",
+    "message": "Add Rebate/Penalty",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_TITLE_TOTAL_DUE_AMOUNT",
+    "message": "Total Due Amount",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_TITLE_AMOUNT",
+    "message": "Amount",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_TITLE_TAX_HEADS",
+    "message": "Tax Heads",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_TAX_ESTIMATION_HEADER",
+    "message": "Tax Estimation",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_TITLE_BILLING_PERIOD",
+    "message": "Billing Period",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_BILLING_DUE_DATE",
+    "message": "Billing Due Date",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_ESTIMATE_DETAILS_HEADER",
+    "message": "Estimate Details",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_HEAD_AMT",
+    "message": "Head Amount",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_TX_HEADS",
+    "message": "Tax Heads",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_ADD_REBATE_PENALTY",
+    "message": "Add Rebate/Penalty",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_AD_PENALTY",
+    "message": "Additional Penalty",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_AD_REBATE",
+    "message": "Additional Rebate",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_ADD",
+    "message": "Add",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_SPECIAL_OWNER_CATEGORY",
+    "message": "Special Owner Category",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OWNER_PERCENTAGE",
+    "message": "Owner Percentage",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_NA",
+    "message": "N/A",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_RESPONSE_SUBMIT_ACTION",
+    "message": "Submit",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_RESPONSE_SUBMIT_DISPLAY",
+    "message": "Submitted Successfully",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_RESPONSE_SUBMIT_LABEL",
+    "message": "Submission Successful",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OWNERSHIP_CATEGORY_INDIVIDUAL_SINGLEOWNER",
+    "message": "Individual Single Owner",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_TITLE_MUTATE_PROPERTY",
+    "message": "Mutate Property",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_MUTATION_DOCUMENT_DETAILS_HEADER",
+    "message": "Mutation Document Details",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_TRANSFER_OWNERSHIP",
+    "message": "Transfer Ownership",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OWNER_ADDRESSPROFF.AADHAR",
+    "message": "Aadhaar",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OWNER_ADDRESSPROFF.VOTERID",
+    "message": "Voter ID",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OWNER_ADDRESSPROFF.DRIVING",
+    "message": "Driving License",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OWNER_ADDRESSPROFF.PASSPORT",
+    "message": "Passport",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_SEARCH_SURVEYID",
+    "message": "Search by Survey ID",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_SEARCH_ULB",
+    "message": "Search ULB",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_ADDRESS",
+    "message": "Address",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_TITLE_BILLING_PERIOD",
+    "message": "Billing Period",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_BILLING_DUE_DATE",
+    "message": "Billing Due Date",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_TAX_ESTIMATION_HEADER",
+    "message": "Tax Estimation",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_TITLE_TAX_HEADS",
+    "message": "Tax Heads",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_TITLE_AMOUNT",
+    "message": "Amount",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_TITLE_TOTAL_DUE_AMOUNT",
+    "message": "Total Due Amount",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_SELECT_FINANCIAL_YEAR",
+    "message": "Select Financial Year",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_SELECT",
+    "message": "Select",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_ATTACH_FILE",
+    "message": "Attach File",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_ACTION_NO_FILEUPLOADED",
+    "message": "No File Uploaded",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_COMMON_CANCEL",
+    "message": "Cancel",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_ALLOTMENT_DATE_ERROR",
+    "message": "Allotment Date shall be after Vasika Date",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_SINGLE_OWNER_PERCENTAGE_MUST_BE_100",
+    "message": "Single Owner Percentage Must Be 100",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_MUST_BE_A_VALID_NUMBER",
+    "message": "Must Be A Valid Number",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_PERCENTAGE_CANNOT_BE_NEGATIVE",
+    "message": "Percentage Cannot Be Negative",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_PERCENTAGE_CANNOT_EXCEED_100",
+    "message": "Percentage Cannot Exceed 100",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_PERCENTAGE_SUM_MUST_BE_100",
+    "message": "Percentage Sum Must Be 100",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_APP_TYPE",
+    "message": "Application Type",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OWNER.CONSTRUCTIONPROOF.BPACERTIFICATE",
+    "message": "BPA Certificate",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OWNER.REGISTRATIONPROOF.UNREGISTEREDWILLDEED",
+    "message": "Unregistered Will Deed",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_RESPONSE_SUBMIT_ACTION_ERROR",
+    "message": "Submit Failed",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_RESPONSE_SUBMIT_DISPLAY_ERROR",
+    "message": "Submission Failed",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_RESPONSE_SUBMIT_LABEL_ERROR",
+    "message": "Unable to Submit",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OWNERSHIP_CATEGORY_INDIVIDUAL.SINGLEOWNER",
+    "message": "Single Owner",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OWNERSHIP_CATEGORY_INDIVIDUAL.MULTIPLEOWNERS",
+    "message": "Multiple Owners",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OWNERSHIP_CATEGORY_INSTITUTIONALPRIVATE.PRIVATECOMPANY",
+    "message": "Private Company",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OWNERSHIP_CATEGORY_INSTITUTIONALPRIVATE.NGO",
+    "message": "NGO",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OWNERSHIP_CATEGORY_INSTITUTIONALPRIVATE.PRIVATETRUST",
+    "message": "Private Trust/Society",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OWNERSHIP_CATEGORY_INSTITUTIONALPRIVATE.PRIVATEBOARD",
+    "message": "Private Board",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OWNERSHIP_CATEGORY_INSTITUTIONALGOVERNMENT.ULBGOVERNMENT",
+    "message": "ULB Government",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OWNERSHIP_CATEGORY_INSTITUTIONALGOVERNMENT.STATEGOVERNMENT",
+    "message": "State Government",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OWNERSHIP_CATEGORY_INSTITUTIONALGOVERNMENT.CENTRALGOVERNMENT",
+    "message": "Central Government",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OWNERSHIP_CATEGORY_INSTITUTIONALPRIVATE.OTHERSPRIVATEINSTITUITION",
+    "message": "Others - Private Institution",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OWNERSHIP_CATEGORY_INSTITUTIONALGOVERNMENT.OTHERGOVERNMENTINSTITUITION",
+    "message": "Others - Government Institution",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_NO_PROP_FOUND_MSG",
+    "message": "No Property Found",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT.CREATE_APPROVE_UPDATE_SUCCESS",
+    "message": "Property Updated Successfully",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_FORM3_TRANSGENDER",
+    "message": "Transgender",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_FORM3_MOTHER",
+    "message": "Mother",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_MUTATION_TRANSFEROR_TRANSFEREE_SAME_MOBILE_ERROR",
+    "message": "Transferor and Transferee cannot have the same Mobile Number",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_MUTATION_DOCUMENT_DETAILS_HEADER",
+    "message": "Mutation Document Details",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_PROPERTY_DOCUMENTS",
+    "message": "Property Documents",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OWNER.ADDRESSPROOF.AADHAR",
+    "message": "Aadhaar",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_COMMON_STATUS_PENDINGAPPROVAL",
+    "message": "Pending Approval",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CS_PAYMENT_CUSTOM_AMOUNT",
+    "message": "Custom Amount",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_ADHOC_PENALTY",
+    "message": "Adhoc Penalty",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_ADHOC_REBATE",
+    "message": "Adhoc Rebate",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_BILL_DETAILS_PT_DETAILS_HEADING",
+    "message": "Property Tax Details",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_APPLICATION_NUMBER_LABEL",
+    "message": "Application Number",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_APPLICATION_CHANNEL_LABEL",
+    "message": "Application Channel",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_FEE_AMOUNT",
+    "message": "Fee Amount",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_PAYMENT_STATUS",
+    "message": "Payment Status",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_APPLICATION_DETAILS_APPLICATION_CHANNEL_CFC_COUNTER",
+    "message": "CFC Counter",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_DOOR_OR_HOUSE",
+    "message": "Door/House No.",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OWNER_SUB_HEADER",
+    "message": "Owner Details",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_MUTATION_PENDING_COURT",
+    "message": "Property Under Pending Court Case",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_DETAILS_COURT_CASE",
+    "message": "Court Case Details",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_PROP_UNDER_GOV_AQUISITION",
+    "message": "Property Under Government Acquisition",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_DETAILS_GOV_AQUISITION",
+    "message": "Government Acquisition Details",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_REGISTRATION_DETAILS",
+    "message": "Registration Details",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_REASON_PROP_TRANSFER",
+    "message": "Reason for Property Transfer",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_PROP_MARKET_VALUE",
+    "message": "Property Market Value",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_REG_NUMBER",
+    "message": "Registration Number",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_DOC_ISSUE_DATE",
+    "message": "Document Issue Date",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_REG_DOC_VALUE",
+    "message": "Registered Document Value",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_REMARKS",
+    "message": "Remarks",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_ADD_REBATE_PENALITY",
+    "message": "Add Rebate/Penalty",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_TITLE_TOTAL_DUE_AMOUNT",
+    "message": "Total Due Amount",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_TITLE_AMOUNT",
+    "message": "Amount",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_TITLE_TAX_HEADS",
+    "message": "Tax Heads",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_TAX_ESTIMATION_HEADER",
+    "message": "Tax Estimation",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_TITLE_BILLING_PERIOD",
+    "message": "Billing Period",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_BILLING_DUE_DATE",
+    "message": "Billing Due Date",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_ESTIMATE_DETAILS_HEADER",
+    "message": "Estimate Details",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_HEAD_AMT",
+    "message": "Head Amount",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_TX_HEADS",
+    "message": "Tax Heads",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_ADD_REBATE_PENALTY",
+    "message": "Add Rebate/Penalty",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_AD_PENALTY",
+    "message": "Additional Penalty",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_AD_REBATE",
+    "message": "Additional Rebate",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_ADD",
+    "message": "Add",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_SPECIAL_OWNER_CATEGORY",
+    "message": "Special Owner Category",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OWNER_PERCENTAGE",
+    "message": "Owner Percentage",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_NA",
+    "message": "N/A",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_RESPONSE_SUBMIT_ACTION",
+    "message": "Submit",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_RESPONSE_SUBMIT_DISPLAY",
+    "message": "Submitted Successfully",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_RESPONSE_SUBMIT_LABEL",
+    "message": "Submission Successful",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OWNERSHIP_CATEGORY_INDIVIDUAL_SINGLEOWNER",
+    "message": "Individual Single Owner",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_TITLE_MUTATE_PROPERTY",
+    "message": "Mutate Property",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_MUTATION_DOCUMENT_DETAILS_HEADER",
+    "message": "Mutation Document Details",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_TRANSFER_OWNERSHIP",
+    "message": "Transfer Ownership",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OWNER_ADDRESSPROFF.AADHAR",
+    "message": "Aadhaar",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OWNER_ADDRESSPROFF.VOTERID",
+    "message": "Voter ID",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OWNER_ADDRESSPROFF.DRIVING",
+    "message": "Driving License",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OWNER_ADDRESSPROFF.PASSPORT",
+    "message": "Passport",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_SEARCH_SURVEYID",
+    "message": "Search by Survey ID",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_SEARCH_ULB",
+    "message": "Search ULB",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_ADDRESS",
+    "message": "Address",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_TITLE_BILLING_PERIOD",
+    "message": "Billing Period",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_BILLING_DUE_DATE",
+    "message": "Billing Due Date",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_TAX_ESTIMATION_HEADER",
+    "message": "Tax Estimation",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_TITLE_TAX_HEADS",
+    "message": "Tax Heads",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_TITLE_AMOUNT",
+    "message": "Amount",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_TITLE_TOTAL_DUE_AMOUNT",
+    "message": "Total Due Amount",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_SELECT_FINANCIAL_YEAR",
+    "message": "Select Financial Year",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_SELECT",
+    "message": "Select",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_ATTACH_FILE",
+    "message": "Attach File",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_ACTION_NO_FILEUPLOADED",
+    "message": "No File Uploaded",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_COMMON_CANCEL",
+    "message": "Cancel",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_ALLOTMENT_DATE_ERROR",
+    "message": "Allotment Date shall be after Vasika Date",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_SINGLE_OWNER_PERCENTAGE_MUST_BE_100",
+    "message": "Single Owner Percentage Must Be 100",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_MUST_BE_A_VALID_NUMBER",
+    "message": "Must Be A Valid Number",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_PERCENTAGE_CANNOT_BE_NEGATIVE",
+    "message": "Percentage Cannot Be Negative",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_PERCENTAGE_CANNOT_EXCEED_100",
+    "message": "Percentage Cannot Exceed 100",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_PERCENTAGE_SUM_MUST_BE_100",
+    "message": "Percentage Sum Must Be 100",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_APP_TYPE",
+    "message": "Application Type",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OWNER.CONSTRUCTIONPROOF.BPACERTIFICATE",
+    "message": "BPA Certificate",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OWNER.REGISTRATIONPROOF.UNREGISTEREDWILLDEED",
+    "message": "Unregistered Will Deed",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_RESPONSE_SUBMIT_ACTION_ERROR",
+    "message": "Submit Failed",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_RESPONSE_SUBMIT_DISPLAY_ERROR",
+    "message": "Submission Failed",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ES_PT_RESPONSE_SUBMIT_LABEL_ERROR",
+    "message": "Unable to Submit",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OWNERSHIP_CATEGORY_INDIVIDUAL.SINGLEOWNER",
+    "message": "Single Owner",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OWNERSHIP_CATEGORY_INDIVIDUAL.MULTIPLEOWNERS",
+    "message": "Multiple Owners",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OWNERSHIP_CATEGORY_INSTITUTIONALPRIVATE.PRIVATECOMPANY",
+    "message": "Private Company",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OWNERSHIP_CATEGORY_INSTITUTIONALPRIVATE.NGO",
+    "message": "NGO",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OWNERSHIP_CATEGORY_INSTITUTIONALPRIVATE.PRIVATETRUST",
+    "message": "Private Trust/Society",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OWNERSHIP_CATEGORY_INSTITUTIONALPRIVATE.PRIVATEBOARD",
+    "message": "Private Board",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OWNERSHIP_CATEGORY_INSTITUTIONALGOVERNMENT.ULBGOVERNMENT",
+    "message": "ULB Government",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OWNERSHIP_CATEGORY_INSTITUTIONALGOVERNMENT.STATEGOVERNMENT",
+    "message": "State Government",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OWNERSHIP_CATEGORY_INSTITUTIONALGOVERNMENT.CENTRALGOVERNMENT",
+    "message": "Central Government",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OWNERSHIP_CATEGORY_INSTITUTIONALPRIVATE.OTHERSPRIVATEINSTITUITION",
+    "message": "Others - Private Institution",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OWNERSHIP_CATEGORY_INSTITUTIONALGOVERNMENT.OTHERGOVERNMENTINSTITUITION",
+    "message": "Others - Government Institution",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
   }
+]

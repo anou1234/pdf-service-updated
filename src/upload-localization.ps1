@@ -1,8 +1,8 @@
 # ===== CONFIG =====
-$Url = "https://mseva.lgpunjab.gov.in/localization/messages/v1/_upsert"
+$Url = "https://sdc-uat.lgpunjab.gov.in/localization/messages/v1/_upsert"
 $TenantId = "pb"
-$AuthToken = "7f41ea59-c8b9-4f45-893c-85e821c0c850"
-$MessagesFile = "./loc.json"
+$AuthToken = "6c8bce9a-adc8-4cf4-ad68-f056c4b0fbdd"
+$MessagesFile = "./loc_notbpa.json"
 
 # ===== HEADERS =====
 $Headers = @{

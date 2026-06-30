@@ -1,0 +1,170 @@
+[
+  {
+    "code": "TENANT_TENANTS_PB_ITABOHAR",
+    "message": "Improvement Trust Abohar",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TENANT_TENANTS_PB_ITAMRITSAR",
+    "message": "Improvement Trust Amritsar",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TENANT_TENANTS_PB_ITBARNALA",
+    "message": "Improvement Trust Barnala",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TENANT_TENANTS_PB_ITBATALA",
+    "message": "Improvement Trust Batala",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TENANT_TENANTS_PB_ITBATHINDA",
+    "message": "Improvement Trust Bathinda",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TENANT_TENANTS_PB_ITFARIDKOT",
+    "message": "Improvement Trust Faridkot",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TENANT_TENANTS_PB_ITFAZILKA",
+    "message": "Improvement Trust Fazilka",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TENANT_TENANTS_PB_ITGURDASPUR",
+    "message": "Improvement Trust Gurdaspur",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TENANT_TENANTS_PB_ITHOSHIARPUR",
+    "message": "Improvement Trust Hoshiarpur",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TENANT_TENANTS_PB_ITJALANDHAR",
+    "message": "Improvement Trust Janlandhar",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TENANT_TENANTS_PB_ITKAPURTHALA",
+    "message": "Improvement Trust Kapurthala",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TENANT_TENANTS_PB_ITKARTARPUR",
+    "message": "Improvement Trust Kartarpur",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TENANT_TENANTS_PB_ITKHANNA",
+    "message": "Improvement Trust Khanna",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TENANT_TENANTS_PB_ITKOTKAPURA",
+    "message": "Improvement Trust Kotkapura",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TENANT_TENANTS_PB_ITLUDHIANA",
+    "message": "Improvement Trust Ludhiana",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TENANT_TENANTS_PB_ITMALERKOTLA",
+    "message": "Improvement Trust Malerkotla",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TENANT_TENANTS_PB_ITMOGA",
+    "message": "Improvement Trust Moga",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TENANT_TENANTS_PB_ITNABHA",
+    "message": "Improvement Trust Nabha",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TENANT_TENANTS_PB_ITNANGAL",
+    "message": "Improvement Trust Nangal",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TENANT_TENANTS_PB_ITNAWANSHAHR",
+    "message": "Improvement Trust SBS Nagar",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TENANT_TENANTS_PB_ITPATHANKOT",
+    "message": "Improvement Trust Pathankot",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TENANT_TENANTS_PB_ITPHAGWARA",
+    "message": "Improvement Trust Phagwara",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TENANT_TENANTS_PB_ITRAJPURA",
+    "message": "Improvement Trust Rajpura",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TENANT_TENANTS_PB_ITSAMANA",
+    "message": "Improvement Trust Samana",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TENANT_TENANTS_PB_ITSANGRUR",
+    "message": "Improvement Trust Sangrur",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TENANT_TENANTS_PB_ITTARNTARAN",
+    "message": "Improvement Trust Tarn Taran",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TENANT_TENANTS_PB_ITPATIALA",
+    "message": "Improvement Trust Patiala",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TENANT_TENANTS_PB_ITBARNALA",
+    "message": "Improvement Trust Barnala",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  }
+]

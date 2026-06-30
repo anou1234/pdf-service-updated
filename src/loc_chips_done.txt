@@ -1,0 +1,361 @@
+{
+    "code": "LA_SCRUTINY_SHORTFALL_TITLE",
+    "message": "Scrutiny Shortfall Detected",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "LA_SCRUTINY_SHORTFALL_REMARKS_LABEL",
+    "message": "Shortfall Remarks",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "LA_SCRUTINY_SHORTFALL_MESSAGE",
+    "message": "The department has identified issues in your scrutiny report. Please upload a corrected DXF file and run scrutiny again to proceed.",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "LA_PREVIOUS_SCRUTINY_FILES",
+    "message": "Previous Scrutiny Files",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "LA_CURRENT_SHORTFALL",
+    "message": "Current Shortfall",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "LA_REMARK",
+    "message": "Remark",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "LA_SCRUTINY_HISTORY",
+    "message": "Scrutiny History",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "LA_CURRENT_SHORTFALL_FILE",
+    "message": "Current Shortfall File",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "LA_SHORTFALL_TITLE",
+    "message": "Scrutiny File Marked as Shortfall",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "LA_SHORTFALL_UPLOAD_NEW",
+    "message": "The previous scrutiny was marked as shortfall. Please upload a new DXF file and run scrutiny again.",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "LA_SHORTFALL_REMARKS",
+    "message": "Remarks from Officer",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "LA_PREVIOUS_SCRUTINY_DETAILS",
+    "message": "Current Scrutiny Shortfall Details",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "LA_PREVIOUS_SCRUTINY_HISTORY",
+    "message": "Previous Scrutiny History",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "LA_SCRUTINY_DATA_CHANGED_WARNING",
+    "message": "Applicant or site details have changed. Please perform scrutiny again to proceed.",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "LA_DATA_MISMATCH_TITLE",
+    "message": "Data Mismatch Detected",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "STATUS",
+    "message": "Status",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PLAN_REPORT",
+    "message": "Plan Report",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "UPDATED_DXF_FILE",
+    "message": "Updated DXF File",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "VIEW",
+    "message": "View",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CS_NA",
+    "message": "N/A",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "EDCR_NUMBER",
+    "message": "EDCR Number",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PLOT_AREA",
+    "message": "Plot Area",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "RUN_SCRUTINY",
+    "message": "Run Scrutiny",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "EDCR_UPLOAD_DXF_FILE",
+    "message": "Upload DXF File",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "EDCR_ONLY_DXF_FILE",
+    "message": "Only DXF files are allowed",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "SCRUTINY_SUMMARY",
+    "message": "Scrutiny Summary",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "APPLICANT_NAME",
+    "message": "Applicant Name",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BUILDING_HEIGHT",
+    "message": "Building Height",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+{
+    "code": "LA_DATA_MISMATCH_TITLE",
+    "message": "Action Required",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "LA_SCRUTINY_DATA_CHANGED_WARNING",
+    "message": "Applicant or site details have been changed. Please upload a new DFX file and perform scrutiny again to proceed.",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "LA_PREVIOUS_SCRUTINY_FILES",
+    "message": "Previous Scrutiny File Details",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  }
+,
+{
+    "code": "CLIENT_NAME",
+    "message": "Client Name",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "DATE_OF_SITE_VISIT",
+    "message": "Date of Site Visit",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "VILLAGE_NAME_WARD_NO_AND_NAME",
+    "message": "Village Name / Ward No. and Name",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "IS_LOCATION_OF_LAND_AS_PER_APPROVED_LAYOUT_DEVELOPMENT_PLAN",
+    "message": "Is location of land as per approved layout/development plan?",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "KUTCHA_PAKKA_ROAD_IS_AVAILABLE_UP_TO_SITE",
+    "message": "Kutcha/Pakka road is available up to site",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "EXISTING_ROAD_WIDTH_IN_FRONT_SIDE_OF_PLOT",
+    "message": "Existing road width in front side of plot (wall to wall in meters)",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "DOES_ROAD_EXIST_ON_OTHER_SIDES_OF_PLOT",
+    "message": "Does road exist on other sides of plot?",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "LAYOUT_OF_LAND_IN_QUESTION_NOT_APPROVED_AS_PER_RULES_BUT_DEVELOPMENT_OF_AREA_HAS_BEEN_DONE",
+    "message": "Layout of land in question is not approved as per rules, but development of the area has been completed",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "HT_LINE_IS_ADJOINING_THE_SITE",
+    "message": "HT line is adjoining the site",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "THE_DISTANCE_OF_HT_LINE_FROM_SITE_IN_METERS",
+    "message": "Distance of HT line from site (in meters)",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "IS_NALAH_MAJOR_DRAIN_ADJACENT_TO_PLOT",
+    "message": "Is Nalah (major drain) adjacent to plot?",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "NEAREST_DISTANCE_OF_NALAS_FROM_PLOT",
+    "message": "Nearest distance of nalas from plot (in meters)",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "DETAILS_AND_USE_OF_PRESENT_AND_PROPOSED_DEVELOPMENT_AT_THE_SITE",
+    "message": "Details and use of present and proposed development at the site",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "DEVELOPMENT_HAS_BEEN_STARTED_ON_SITE_BEFORE_APPROVAL_OR_NOT",
+    "message": "Has development been started on site before approval?",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "HAS_BUILDING_BEEN_COMPLETED_ON_SITE_AS_PER_SUBMITTED_DRAWING_BEFORE_APPROVAL_OF_BUILDING_PLAN",
+    "message": "Has building been completed on site as per submitted drawing before approval of building plan?",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "IS_BUILDING_PERMISSION_TAKEN_FOR_SITE",
+    "message": "Is building permission taken for site?",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "STATE_THE_YEAR_OF_PERMISSION_AND_DETAILS",
+    "message": "State the year of permission and details",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "APPROVED_AND_PRESENT_SETBACK_FRONT",
+    "message": "Approved and present setback front",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "APPROVED_AND_PRESENT_SETBACK_REAR",
+    "message": "Approved and present setback rear",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "APPROVED_AND_PRESENT_SETBACK_RHS",
+    "message": "Approved and present setback RHS",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "APPROVED_AND_PRESENT_SETBACK_LHS",
+    "message": "Approved and present setback LHS",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "IS_PROPOSED_SITE_WITHIN_REGULATED_AREA_OF_EXTERNAL_AGENCIES",
+    "message": "Is proposed site within regulated area of external agencies such as Railway, Monument Authority, or Airport Authority?",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "DATE_OF_SITE_VISIT",
+    "message": "Date of site visit is required",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "COMMON_YES",
+    "message": "Yes",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "COMMON_NO",
+    "message": "No",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WHOLSESALE_MANDIS_(G-WT)",
+    "message": "Wholesale Mandis (G-WT)",
+    "module": "rainmaker-bpa",
+  "locale": "en_IN"
+  },
+  {
+    "code": "HAZARSDOUS_INDUSTRY_(G-HI)",
+    "message": "Hazardous Industry (G-HI)",
+    "module": "rainmaker-bpa",
+  "locale": "en_IN"
+  },
+{
+    "code": "WHOLSESALE_MANDIS_(G-WT)",
+    "message": "Wholesale Mandis (G-WT)",
+    "module": "rainmaker-common",
+  "locale": "en_IN"
+  },
+  {
+    "code": "HAZARSDOUS_INDUSTRY_(G-HI)",
+    "message": "Hazardous Industry (G-HI)",
+    "module": "rainmaker-common",
+  "locale": "en_IN"
+  }

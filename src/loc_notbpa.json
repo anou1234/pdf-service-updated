@@ -1,8 +1,20 @@
 [
   {
-    "code": "DOWNLOAD_CERTIFICATE",
-    "message": "Certificate",
-    "module": "rainmaker-common",
+    "code": "ONNER.REGISTRATIONPROOF.SALEDEED",
+    "message": "Sale Deed",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OWNER.USAGEPROOF.ELECTRICITYBILL",
+    "message": "Electricity Bill",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_PROPERTY_ADDRESS_BUILD NO/NAME /COLONY_NO/NAME",
+    "message": "Building No./Name / Colony No./Name",
+    "module": "rainmaker-pt",
     "locale": "en_IN"
   }
 ]

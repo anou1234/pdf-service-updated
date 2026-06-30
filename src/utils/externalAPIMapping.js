@@ -46,6 +46,27 @@ const axios_instance = axios.create({
   httpsAgent
 });
 
+axios_instance.interceptors.request.use((config) => {
+  logger.info(
+    `[PDF][OUTBOUND][REQ] ${config.method.toUpperCase()} ${config.url}`
+  );
+  return config;
+});
+
+axios_instance.interceptors.response.use(
+  (response) => {
+    logger.info(
+      `[PDF][OUTBOUND][RES] ${response.status} ${response.config.url}`
+    );
+    return response;
+  },
+  (error) => {
+    logger.error(
+      `[PDF][OUTBOUND][ERROR] ${error.config.method.toUpperCase()} ${error.config.url} :: ${error.message}`
+    );
+    throw error;
+  }
+);
 function rewriteInternalUrlIfNeeded(rawUrl) {
   // Helper: determine if a hostname looks like an internal Docker/k8s service name
   const isInternalHost = (host) => {
@@ -137,6 +158,17 @@ export const externalAPIMapping = async function (
 
   var responses = [];
   var responsePromises = [];
+  
+logger.info(
+  `[PDF][ENTITY] Starting external API mapping | entityId=${get(
+    req,
+    "billDetails[0].id"
+  )} | billNumber=${get(
+    req,
+    "billDetails[0].billRootData.billNumber"
+  )}`
+);
+
 
   for (let i = 0; i < externalAPIArray.length; i++) {
     var temp1 = "";

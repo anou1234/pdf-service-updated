@@ -704,12 +704,6 @@
     "module": "rainmaker-common",
     "locale": "en_IN"
   },
-  {
-    "code": "WF_BPA_LOW_SEND_TO_CITIZEN",
-    "message": "Sent back to professional ",
-    "module": "rainmaker-bpa",
-    "locale": "en_IN"
-  },
 
   {
     "code": "WF_BPA_MC_SEND_TO_CITIZEN",
@@ -1008,7 +1002,6667 @@
     "locale": "en_IN"
   },
 
+  {
+    "code": "BPA_RECOMMENDATIONS_MIN_MESSAGE",
+    "message": "Recommendations ( Min 20 Characters )",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_BPA_SANC_FEES",
+    "message": "Pay 2 Fee",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SAN_FEE_RECEIPT",
+    "message": "Pay 2 Fee Receipt",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_STATUS_PENDINGSANCTIONPAYMENT",
+    "message": "Pay-2 Fee: Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_PENDING_SANC_FEE_PAYMENT",
+    "message": "Pay-2 Fee: Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PENDING_SANC_FEE_PAYMENT",
+    "message": "Pay-2 Fee: Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SANC_FEES",
+    "message": "Pay-2 Fee",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BILLINGSERVICE_BUSINESSSERVICE_BPA.NC_APP_FEE",
+    "message": "Pay-1 Fee",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PENDING_APPL_FEE_PAYMENT",
+    "message": "Pay-1 Fee: Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_LOW_PENDING_SANC_FEE_PAYMENT",
+    "message": "Pay-2 Fee: Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_LOW_PENDING_SANC_FEE_PAYMENT_DONE",
+    "message": "Pay-2 Fee: Paid",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  }
+  {
+    "code": "BPA_RECOMMENDATIONS_MIN_MESSAGE",
+    "message": "Recommendations ( Min 20 Characters )",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_BPA_SANC_FEES",
+    "message": "Pay 2 Fee",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SAN_FEE_RECEIPT",
+    "message": "Pay 2 Fee Receipt",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_STATUS_PENDINGSANCTIONPAYMENT",
+    "message": "Pay-2 Fee: Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_PENDING_SANC_FEE_PAYMENT",
+    "message": "Pay-2 Fee: Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PENDING_SANC_FEE_PAYMENT",
+    "message": "Pay-2 Fee: Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SANC_FEES",
+    "message": "Pay-2 Fee",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BILLINGSERVICE_BUSINESSSERVICE_BPA.NC_APP_FEE",
+    "message": "Pay-1 Fee",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PENDING_APPL_FEE_PAYMENT",
+    "message": "Pay-1 Fee: Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_LOW_PENDING_SANC_FEE_PAYMENT",
+    "message": "Pay-2 Fee: Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_LOW_PENDING_SANC_FEE_PAYMENT_DONE",
+    "message": "Pay-2 Fee: Paid",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "SITEPHOTOGRAPHTWO",
+    "message": "Site Photograph II",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "OWNER_SITEPHOTOGRAPHTWO",
+    "message": "Site Photograph II",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WS_PROPERTY_ADDRESS_LABEL",
+    "message": "Property Address",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_CITIES_DROPDOWN_LABEL",
+    "message": "ULB",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CS_APPLICATION_DETAILS_APPROVAL_DATE",
+    "message": "Approval Date",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_CITIES_DROPDOWN_LABEL",
+    "message": "ULB",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CS_APPLICATION_DETAILS_APPROVAL_DATE",
+    "message": "Approval Date",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "REVENUE_ESTATE",
+    "message": "Revenue Estate",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PROPERTY_DESC",
+    "message": "Property Description",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_1",
+    "message": "Location of Site: - Village Name / Locality",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_10",
+    "message": "Land Use with respect to Master Plan / Controlled Area Plan or any Scheme",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_11",
+    "message": "Report Regarding rastas/khal whether terminating within the site or Connecting area / Building outside the site boundary",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_12",
+    "message": "Whether approach is drawn through Forest area / land or any forest land located within the site",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_13",
+    "message": "Whether the site falls under Punjab Land Preservation Act or not?",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_14",
+    "message": "Whether any Red Category industry within 500-meter radius of site",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_15",
+    "message": "Level of site with respect to the adjoining road level, Location of any natural drain, water body or passing through near / abutting",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_16",
+    "message": "Location & Alignment of High-tension electric line if passing through the site",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_17",
+    "message": "Whether the site falls under any Restricted Areas / Prohibited Area?",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_18",
+    "message": "Location of heritage building or protected monument within 100-meter radius of the site, if any",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_19",
+    "message": "Integration with the existing development with respect to availability of water supply, sewerage etc.",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_2",
+    "message": "Whether the site is located within or beyond the M.C. limits",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_3",
+    "message": "Approach Road: - Width of Road as per Revenue Plan, Existing and Proposed (as per notified Master Plan)",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_4",
+    "message": "Whether the site abuts a National Highway, State Highway, Scheduled Road, or Other Road (if NH, no construction zone left as per master plan?)",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_5",
+    "message": "Any report regarding pending Dues, Complaints, Litigations etc?",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_6",
+    "message": "Is site vacant? If no, then specify Nature of Construction",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_7",
+    "message": "Whether the site abuts a railway line; if yes, specify the distance from the site boundary",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_8",
+    "message": "Title of the Land (Ownership Status): Please specify the nature of ownership, such as freehold, leasehold, joint ownership, or any other legally recognized title",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_9",
+    "message": "Whether the subject site falls under an approved area or an unapproved (unauthorized) area/colony in accordance with prevailing norms",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  
+  {
+    "code": "CORE_LOGOUT_MOBILE_CONFIRMATION_MESSAGE",
+    "message": "Are you sure you want to Logout?",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TL_COMMON_NO",
+    "message": "No",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TL_COMMON_YES",
+    "message": "Yes",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "COMMON_SOME_ERROR_OCCURRED_LABEL",
+    "message": "Some Error Occurred",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "COMMON_SOME_ERROR_OCCURRED_LABEL",
+    "message": "Some Error Occurred",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_ADDITIONAL_REMARKS",
+    "message": "Remarks",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_1",
+    "message": "Location Of Site: - Village Name / Locality",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_10",
+    "message": "Land Use With Respect To Master Plan / Controlled Area Plan Or Any Scheme",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_11",
+    "message": "Report Regarding Rastas/Khal Whether Terminating Within The Site Or Connecting Area / Building Outside The Site Boundary",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_12",
+    "message": "Whether Approach Is Drawn Through Forest Area / Land Or Any Forest Land Located Within The Site",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_13",
+    "message": "Whether The Site Falls Under Punjab Land Preservation Act Or Not?",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_14",
+    "message": "Whether Any Red Category Industry Within 500-Meter Radius Of Site",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_15",
+    "message": "Level Of Site With Respect To The Adjoining Road Level, Location Of Any Natural Drain, Water Body Or Passing Through Near / Abutting",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_16",
+    "message": "Location & Alignment Of High-Tension Electric Line If Passing Through The Site",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_17",
+    "message": "Whether The Site Falls Under Any Restricted Areas / Prohibited Area?",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_18",
+    "message": "Location Of Heritage Building Or Protected Monument Within 100-Meter Radius Of The Site, If Any",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_19",
+    "message": "Integration With The Existing Development With Respect To Availability Of Water Supply, Sewerage Etc.",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_2",
+    "message": "Whether The Site Is Located Within Or Beyond The M.C. Limits",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_3",
+    "message": "Approach Road: - Width Of Road As Per Revenue Plan, Existing And Proposed (As Per Notified Master Plan)",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_4",
+    "message": "Whether The Site Abuts A National Highway, State Highway, Scheduled Road, Or Other Road (If Nh, No Construction Zone Left As Per Master Plan?)",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_5",
+    "message": "Any Report Regarding Pending Dues, Complaints, Litigations Etc?",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_6",
+    "message": "Is Site Vacant? If No, Then Specify Nature Of Construction",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_7",
+    "message": "Whether The Site Abuts A Railway Line; If Yes, Specify The Distance From The Site Boundary",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_8",
+    "message": "Title Of The Land (Ownership Status): Please Specify The Nature Of Ownership, Such As Freehold, Leasehold, Joint Ownership, Or Any Other Legally Recognized Title",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "INSPECTION_REPORT_QUESTION_9",
+    "message": "Whether The Subject Site Falls Under An Approved Area Or An Unapproved (Unauthorized) Area/Colony In Accordance With Prevailing Norms",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_ADDITIONAL_REMARKS",
+    "message": "Remarks",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+            "code": "IS_SELF_CERTIFICATION",
+            "message": "Self-Certification",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "IS_SELF_CERTIFICATION",
+            "message": "Self-Certification",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+
+        {
+    "code": "BPA_FEE2_LABEL",
+    "message": "Fee",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_REMARK_LABEL",
+    "message": "Remarks",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_UPDATED_BY_LABEL",
+    "message": "Last Updated By",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_FEE_HISTORY_LABEL",
+    "message": "Fee History",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+
+  {
+    "code": "BPA_FEE2_LABEL",
+    "message": "Fee",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_REMARK_LABEL",
+    "message": "Remarks",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_UPDATED_BY_LABEL",
+    "message": "Last Updated By",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_FEE_HISTORY_LABEL",
+    "message": "Fee History",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  }
+  {
+            "code": "BPA_CITIZEN_HOME_01_OBPS_VIDEO",
+            "message": "mSeva Youtube Channel",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BPA_PDF_NORMAL_TERMS_1",
+            "message": "The construction will be undertaken as per sanctioned plan only and no deviation from the bye-laws will be permitted without prior sanction. Any deviation done against the bye-laws is liable to be demolished and the supervising Architect/Professional engaged on the job will run the risk of being black listed.",
+            "module": "rainmaker-bpa",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "BPA_PDF_NORMAL_TERMS_10",
+            "message": "The land left open as a consequence of the enforcement of the setback rule shall form part of the public street.",
+            "module": "rainmaker-bpa",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "BPA_PDF_NORMAL_TERMS_11",
+            "message": "The owner shall ensure that the public areas like road, parks and other public open spaces are not used for stacking the building materials or machineries to avoid public inconvenience and nuisance.",
+            "module": "rainmaker-bpa",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "BPA_PDF_NORMAL_TERMS_12",
+            "message": "The sanction will be void if auxiliary conditions mentioned above and other conditions whatsoever imposed are not complied.",
+            "module": "rainmaker-bpa",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "BPA_PDF_NORMAL_TERMS_13",
+            "message": "The owner will use the premises for the use which has been sanctioned.",
+            "module": "rainmaker-bpa",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "BPA_PDF_NORMAL_TERMS_14",
+            "message": "The owner will not proceed with the construction without having the supervision of an Architect/Professional as the case may be. If he/she changes his Architect/Professional, he/she shall inform the Authority about the appointment of new Architect/Professional within 48 hours, with a proper certificate from him.",
+            "module": "rainmaker-bpa",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "BPA_PDF_NORMAL_TERMS_15",
+            "message": "The owner will ensure collective insurance of all workers working at site during construction.",
+            "module": "rainmaker-bpa",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "BPA_PDF_NORMAL_TERMS_2",
+            "message": "Violation of building bye-laws will not be compounded.",
+            "module": "rainmaker-bpa",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "BPA_PDF_NORMAL_TERMS_3",
+            "message": "It will be the duty of the owner of the plot and the Architect/Professional preparing the plans to ensure that the sanctioned plans are as per prevalent Master Plan/Zonal Plan/Building Bye-laws. If any infringement of bye-laws remains unnoticed, the concerned Authority reserves the right to amend the plans as and when infringement come to the notice and concerned Authority will stand indemnified against any claim on this account.",
+            "module": "rainmaker-bpa",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "BPA_PDF_NORMAL_TERMS_4",
+            "message": "A notice in writing shall be sent to Authority before commencement of the construction of the building as per bye-laws. Similar notice will be sent to Authority when the building has reached up to plinth level.",
+            "module": "rainmaker-bpa",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "BPA_PDF_NORMAL_TERMS_5",
+            "message": "The owner shall not occupy or permit to occupy the building or use or permit to use the building or any part thereof affected by any such work until occupancy certificate is issued by the concerned Authority.",
+            "module": "rainmaker-bpa",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "BPA_PDF_NORMAL_TERMS_6",
+            "message": "Concerned Authority will stand indemnified and kept harmless from all proceedings in court and before other authorities of all expenses/claims which the concerned Authority may incur or become liable to pay as a result or in consequences of the sanction accorded by it to these building plans.",
+            "module": "rainmaker-bpa",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "BPA_PDF_NORMAL_TERMS_7",
+            "message": "The doors and window leaves shall be fixed in such a way that they shall not, when open, project on any street.",
+            "module": "rainmaker-bpa",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "BPA_PDF_NORMAL_TERMS_8",
+            "message": "The owner will not convert the house into more dwelling units on each floor than the sanctioned.",
+            "module": "rainmaker-bpa",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "BPA_PDF_NORMAL_TERMS_9",
+            "message": "The building shall not be constructed within minimum distance as specified in Indian Electricity Rules from voltage lines running on side of the site.",
+            "module": "rainmaker-bpa",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "BPA_PDF_PLOTNO_TXT",
+            "message": "Plot No.",
+            "module": "rainmaker-bpa",
+            "locale": "pn_IN"
+        },
+        {
+    "code": "OCCUPANCY_STILT",
+    "message": "Stilt",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "OCCUPANCY_A1",
+    "message": "Residential",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_A2",
+    "message": "Special Residential",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_A3",
+    "message": "Hostel Educational",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_A4",
+    "message": "Apartment/Flat",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_A5",
+    "message": "Professional Office",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_A6",
+    "message": "Independent Floor",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "OCCUPANCY_B1",
+    "message": "Educational",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_B2",
+    "message": "Educational HighSchool",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_B3",
+    "message": "Higher Educational Institute",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "OCCUPANCY_C",
+    "message": "Nursing Home/Hospital",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_C1",
+    "message": "Medical IP",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_C2",
+    "message": "Medical OP",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_C3",
+    "message": "Medical Admin",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "OCCUPANCY_D",
+    "message": "Assembly",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_D1",
+    "message": "Assembly Worship",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_D2",
+    "message": "Bus Terminal",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "OCCUPANCY_E",
+    "message": "Office/Business",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "OCCUPANCY_F",
+    "message": "Commercial",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_F1",
+    "message": "Commercial",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_F2",
+    "message": "Restaurants/ Banquet Halls",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_F3",
+    "message": "Hotels/Motels",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_F4",
+    "message": "FShops/Showrooms/Commercial Complexes etc.",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_F5",
+    "message": "Private Offices",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_F6",
+    "message": "Banks",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_F7",
+    "message": "Club/ Guest House / Lodging & Boarding / Service Apartments",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_F8",
+    "message": "Dhaba",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_F9",
+    "message": "Cinemas and Auditoriums",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_F10",
+    "message": "Video Games Parlors",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_F11",
+    "message": "Boutiques",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_F12",
+    "message": "Petrol Filling Station - Four W",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_F13",
+    "message": "Petrol Filling Station - Two W",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_F14",
+    "message": "Petrol Filling Station Service",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_F15",
+    "message": "Petrol Station",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_F16",
+    "message": "Compressed Natural Gas Station",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_F17",
+    "message": "Miniplex/Multiplex",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "OCCUPANCY_G",
+    "message": "Industrial",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_G1",
+    "message": "Factory",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_G2",
+    "message": "Storage",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_G3",
+    "message": "Hazard Industries",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_G4",
+    "message": "Retail Service Industry",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_G5",
+    "message": "General Industry- Industry Plotted",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_G6",
+    "message": "General industry Flatted",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_G7",
+    "message": "Informational Technology- Industry Plotted",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_G8",
+    "message": "Informational Technology- Flatted",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_G9",
+    "message": "Textile Industry",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_G10",
+    "message": "Knitwear Industry",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_G11",
+    "message": "Sports Industry",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_G12",
+    "message": "Wholesale Trade/ Ware House/ Integrated Freight complex (Standalone)",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "OCCUPANCY_H",
+    "message": "Storage",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "OCCUPANCY_I1",
+    "message": "Hazardous (I1)",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_I2",
+    "message": "Hazardous (I2)",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "OCCUPANCY_J",
+    "message": "Petrol Pumps",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_J1",
+    "message": "Filling Station",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_J2",
+    "message": "Filling Cum Service Station",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_J3",
+    "message": "Compressed Natural Gas (CNG) Mother Station",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "OCCUPANCY_K",
+    "message": "Hotel/Motel",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "OCCUPANCY_L1",
+    "message": "General Public / Semi-public buildings",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_L2",
+    "message": "Government offices - Integrated office complex buildings",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_L3",
+    "message": "Educational (Nursery School)",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_L4",
+    "message": "Educational (Primary School)",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_L5",
+    "message": "Educational (College)",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_L6",
+    "message": "Education & Research Centre (Large Campus)",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_L7",
+    "message": "Marriage Palace",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_L8",
+    "message": "Nursing Home / Hospital",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_L9",
+    "message": "Creche / Day Care facilities",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "OCCUPANCY_M",
+    "message": "Marriage Place",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OCCUPANCY_R",
+    "message": "Mixed Land Use",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CORE_COMMON_PROFILE_UPDATE_SUCCESS",
+    "message": "Profile updated successfully",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CORE_COMMON_PROFILE_UPDATE_SUCCESS_WITH_PASSWORD",
+    "message": "Profile and password updated successfully",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "BPA_CITIZEN_HOME_01_MOGA_SAMPLE_DXF",
+    "message": "Sample File 01 - Moga",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_CITIZEN_HOME_02_KOTKAPURA_SAMPLE_DXF",
+    "message": "Sample File 02 - Kotkapura",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_CITIZEN_HOME_03_KOTKAPURA_SAMPLE_DXF",
+    "message": "Sample File 03 - Kotkapura",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_CITIZEN_HOME_01_LALRU_SAMPLE_DXF",
+    "message": "Sample File 01 - Lalru",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_CITIZEN_HOME_03_AMRITSAR_SAMPLE_DXF",
+    "message": "Sample File 03 - Amritsar",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_LOW_ESIGN_PENDING",
+    "message": "E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "RESUBMIT_AND_PAY",
+    "message": "Resubmit And Pay",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CORE_COMMON_PROFILE_UPDATE_SUCCESS",
+    "message": "Profile updated successfully",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CORE_COMMON_PROFILE_UPDATE_SUCCESS_WITH_PASSWORD",
+    "message": "Profile and password updated successfully",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "BPA_CITIZEN_HOME_01_MOGA_SAMPLE_DXF",
+    "message": "Sample File 01 - Moga",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_CITIZEN_HOME_02_KOTKAPURA_SAMPLE_DXF",
+    "message": "Sample File 02 - Kotkapura",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_CITIZEN_HOME_03_KOTKAPURA_SAMPLE_DXF",
+    "message": "Sample File 03 - Kotkapura",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_CITIZEN_HOME_01_LALRU_SAMPLE_DXF",
+    "message": "Sample File 01 - Lalru",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_CITIZEN_HOME_03_AMRITSAR_SAMPLE_DXF",
+    "message": "Sample File 03 - Amritsar",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_LOW_ESIGN_PENDING",
+    "message": "E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "RESUBMIT_AND_PAY",
+    "message": "Resubmit And Pay",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  }
+,
+{
+    "code": "ACTION_TEST_FILE_SUBMISSION_SUMMARY_REPORT",
+    "message": "File Submission Summary Report",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_PROFESSIONAL_REGISTRATION_COLLECTION_REPORT",
+    "message": "Professional Registration Collection Report",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_RECEIPT_REGISTER_PROFESSIONAL_REGISTRATION_REPORT",
+    "message": "Receipt Register Professional Registration Report",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_HIGHEST_PENDENCY_-_PROFESSIONAL_REGISTRATION_REPORT",
+    "message": "Highest Pendency - Professional Registration Report",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_OFFICERS_PENDENCY_-_PROFESSIONAL_REGISTRATION_REPORT",
+    "message": "Officers' Pendency - Professional Registration Report",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+   {
+    "code": "BPA_LOW_APPLICATION_NUMBER",
+    "message": "Resubmit And Pay",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_SUPERVISOR_REJECTED",
+    "message": "Supervisor Rejected",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_ENGINEER_REJECTED",
+    "message": "Engineer Rejected",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_ARCHITECT_REJECTED",
+    "message": "Architect Rejected",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_TOWNPLANNER_REJECTED",
+    "message": "Town Planner Rejected",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_SUPERVISOR_INACTIVE",
+    "message": "Supervisor Inactive",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_SUPERVISOR_INACTIVE",
+    "message": "Supervisor Inactive",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_ENGINEER_INACTIVE",
+    "message": "Engineer Inactive",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_ARCHITECT_INACTIVE",
+    "message": "Architect Inactive",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_TOWNPLANNER_INACTIVE",
+    "message": "Town Planner Inactive",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+            "code": "CS_COMMON_OBPS",
+            "message": "OBPAS",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_BPA_INSPECTION_REPORT_PENDING",
+            "message": "Inspection Report Pending",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_BPA_JC_VERIFICATION_PENDING",
+            "message": "JC Verification Pending",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+    "code": "BPA_CITIES_DROPDOWN_LABEL",
+    "message": "ULB",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_CITIES_DROPDOWN_LABEL",
+    "message": "ULB",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CORE_COMMON_GO_TO_INBOX",
+    "message": "Go to Inbox",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CORE_COMMON_GO_TO_INBOX",
+    "message": "Go to Inbox",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CORE_COMMON_GO_TO_INBOX",
+    "message": "Go to Inbox",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_FILE_SUBMISSION_SUMMARY_REPORT",
+    "message": "File Submission Summary Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_PROFESSIONAL_REGISTRATION_COLLECTION_REPORT",
+    "message": "Professional Registration Collection Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_RECEIPT_REGISTER_PROFESSIONAL_REGISTRATION_REPORT",
+    "message": "Receipt Register Professional Registration Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_HIGHEST_PENDENCY_-_PROFESSIONAL_REGISTRATION_REPORT",
+    "message": "Highest Pendency - Professional Registration Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_OFFICERS_PENDENCY_-_PROFESSIONAL_REGISTRATION_REPORT",
+    "message": "Officers' Pendency - Professional Registration Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_OBPAS_REPORTS",
+    "message": "OBPAS Reports",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_OBPAS_REPORTS",
+    "message": "OBPAS Reports",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
   
 
 
-        
+ 
+
+{
+    "code": "WF_ENGINEER_EXPIRED",
+    "message": "Engineer Expired",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_ENGINEER_EXPIRED",
+    "message": "Engineer Expired",
+    "module": "rainmaker-bpareg",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_ENGINEER_CITIZEN_ACTION_REQUIRED",
+    "message": "Engineer-Citizen Action Required",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_ENGINEER_CITIZEN_ACTION_REQUIRED",
+    "message": "Engineer-Citizen Action Required",
+    "module": "rainmaker-bpareg",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_SUPERVISOR_CITIZEN_ACTION_REQUIRED",
+    "message": "Supervisor-Citizen Action Required",
+    "module": "rainmaker-bpareg",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_SUPERVISOR_CITIZEN_ACTION_REQUIRED",
+    "message": "Supervisor-Citizen Action Required",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  }
+
+
+{
+    "code": "WF_SUPERVISOR_INITIATED",
+    "message": "Supervisor Initiated",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_SUPERVISOR_INITIATED",
+    "message": "Supervisor Initiated",
+    "module": "rainmaker-bpareg",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_LOW_SEND_TO_CITIZEN",
+    "message": "Saved As Draft",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TXN_ABRUPTLY_DISCARDED",
+    "message": "A transaction for this bill has been abruptly discarded, please retry after 30 mins",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TXN_ABRUPTLY_DISCARDED",
+    "message": "A transaction for this bill has been abruptly discarded, please retry after 30 mins",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  
+  {
+            "code": "TENANT_TENANTS_PB_ABOHAR",
+            "message": "Abohar",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_ADAMPUR",
+            "message": "Adampur",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_AHMEDGARH",
+            "message": "Ahmedgarh",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_AJNALA",
+            "message": "Ajnala",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_ALAWALPUR",
+            "message": "Alawalpur",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_AMARGARH",
+            "message": "Amargarh",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_AMLOH",
+            "message": "Amloh",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_AMRITSAR",
+            "message": "Amritsar",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_ANANDPURSAHIB",
+            "message": "Sri Anandpur Sahib",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_ARNIWALA",
+            "message": "Arniwala",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_BABABAKALASAHIB",
+            "message": "Baba Bakala Sahib",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_BADHNIKALAN",
+            "message": "Badhnikalan",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_BAGHAPURANA",
+            "message": "Baghapurana",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_BALACHAUR",
+            "message": "Balachaur",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_BALIANWALI",
+            "message": "Balianwali",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_BANGA",
+            "message": "Banga",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_BANUR",
+            "message": "Banur",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_BARETA",
+            "message": "Bareta",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_BARIWALA",
+            "message": "Bariwala",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_BARNALA",
+            "message": "Barnala",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_BASSIPATHANA",
+            "message": "Bassipathana",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_BATALA",
+            "message": "Batala",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_BATHINDA",
+            "message": "Bathinda",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_BEGOWAL",
+            "message": "Begowal",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_BHADAUR",
+            "message": "Bhadaur",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_BHADSON",
+            "message": "Bhadson",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_BHAGTABHAI",
+            "message": "Bhagtabhai",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_BHAIROOPA",
+            "message": "Bhairoopa",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_BHAWANIGARH",
+            "message": "Bhawanigarh",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_BHIKHI",
+            "message": "Bhikhi",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_BHIKHIWIND",
+            "message": "Bhikhiwind",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_BHOGPUR",
+            "message": "Bhogpur",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_BHUCHOMANDI",
+            "message": "Bhuchomandi",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_BHULATH",
+            "message": "Bhulath",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_BILGA",
+            "message": "Bilga",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_BOHA",
+            "message": "Boha",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_BUDHLADA",
+            "message": "Budhlada",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_CHAMKAURSAHIB",
+            "message": "Chamkaursahib",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_CHAUNKE",
+            "message": "Chaunke",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_CHEEMA",
+            "message": "Cheema",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_DASUYA",
+            "message": "Dasuya",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_DERABABANANAK",
+            "message": "Derababananak",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_DERABASSI",
+            "message": "Derabassi",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_DEVIGARH",
+            "message": "Devigarh",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_DHANAULA",
+            "message": "Dhanaula",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_DHARAMKOT",
+            "message": "Dharamkot",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_DHARIWAL",
+            "message": "Dhariwal",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_DHILWAN",
+            "message": "Dhilwan",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_DHURI",
+            "message": "Dhuri",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_DINANAGAR",
+            "message": "Dinanagar",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_DIRBA",
+            "message": "Dirba",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_DIRBAPWSSB",
+            "message": "Dirbapwssb",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_DORAHA",
+            "message": "Doraha",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_FARIDKOT",
+            "message": "Faridkot",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_FATEHGARHCHURIAN",
+            "message": "Fatehgarhchurian",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_FATEHGARHPANJTOOR",
+            "message": "Fatehgarhpanjtoor",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_FATEHGARHSAHIB",
+            "message": "Fatehgarh sahib",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_FAZILKA",
+            "message": "Fazilka",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_FEROZEPUR",
+            "message": "Ferozepur",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_FEROZEPURPWSSB",
+            "message": "Ferozepur PWSSB",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_GARHDIWALA",
+            "message": "Garhdiwala",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_GARHSHANKAR",
+            "message": "Garhshankar",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_GHAGGA",
+            "message": "Ghagga",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_GHANAUR",
+            "message": "Ghanaur",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_GHARUAN",
+            "message": "Gharuan",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_GIDDERBAHA",
+            "message": "Gidderbaha",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_GONIANA",
+            "message": "Goniana",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_GORAYA",
+            "message": "Goraya",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_GURDASPUR",
+            "message": "Gurdaspur",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_GURUHARSAHAI",
+            "message": "Guruharsahai",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_HANDIAYA",
+            "message": "Handiaya",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_HARIANA",
+            "message": "Hariana",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_HOSHIARPUR",
+            "message": "Hoshiarpur",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_ITBARNALA",
+            "message": "Itbarnala",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_ITPATIALA",
+            "message": "Improvement Trust Patiala",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_JAGRAON",
+            "message": "Jagraon",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_JAITU",
+            "message": "Jaitu",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_JALALABAD",
+            "message": "Jalalabad",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_JALANDHAR",
+            "message": "Jalandhar",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_JANDIALAGURU",
+            "message": "Jandialaguru",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_JOGA",
+            "message": "Joga",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_KAPURTHALA",
+            "message": "Kapurthala",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_KARATPUR",
+            "message": "Karatpur",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_KARTARPUR",
+            "message": "Kartarpur",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_KHAMANO",
+            "message": "Khamano",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_KHANAURI",
+            "message": "Khanauri",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_KHANNA",
+            "message": "Khanna",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_KHARAR",
+            "message": "Kharar",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_KHEMKARAN",
+            "message": "Khemkaran",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_KIRATPUR",
+            "message": "Kiratpur Sahib",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_KOTFATTA",
+            "message": "Kotfatta",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_KOTHAGURU",
+            "message": "Kothaguru",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_KOTISSEKHAN",
+            "message": "Kotissekhan",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_KOTKAPURA",
+            "message": "Kotkapura",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_KOTSHAMIR",
+            "message": "Kotshamir",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_KURALI",
+            "message": "Kurali",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_LALRU",
+            "message": "Lalru",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_LEHRAGAGA",
+            "message": "Lehragaga",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_LEHRAMOHABBAT",
+            "message": "Lehramohabbat",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_LOHIANKHAS",
+            "message": "Lohiankhas",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_LONGOWAL",
+            "message": "Longowal",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_LUDHIANA",
+            "message": "Ludhiana",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_MACHHIWARA",
+            "message": "Machhiwara",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_MAHILPUR",
+            "message": "Mahilpur",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_MAJITHA",
+            "message": "Majitha",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_MAKHU",
+            "message": "Makhu",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_MALERKOTLA",
+            "message": "Malerkotla",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_MALLANWALA",
+            "message": "Mallanwala",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_MALOUD",
+            "message": "Maloud",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_MALOUT",
+            "message": "Malout",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_MALUKA",
+            "message": "Maluka",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_MAMDOT",
+            "message": "Mamdot",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_MANDIGOBINDGARH",
+            "message": "Mandigobindgarh",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_MANDIKALAN",
+            "message": "Mandikalan",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_MANSA",
+            "message": "Mansa",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_MAUR",
+            "message": "Maur",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_MEHATPUR",
+            "message": "Mehatpur",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_MEHRAJ",
+            "message": "Mehraj",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_MOGA",
+            "message": "Moga",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_MOHALI",
+            "message": "Mohali",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_MOONAK",
+            "message": "Moonak",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_MORINDA",
+            "message": "Morinda",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_MUDKI",
+            "message": "Mudki",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_MUKERIAN",
+            "message": "Mukerian",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_MUKTSAR",
+            "message": "Muktsar",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_MULLANPUR",
+            "message": "Mullanpur",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_NABHA",
+            "message": "Nabha",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_NADALA",
+            "message": "Nadala",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_NAKODAR",
+            "message": "Nakodar",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_NANGAL",
+            "message": "Nangal",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_NAROTJAIMALSINGH",
+            "message": "Narotjaimailsingh",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_NATHANA",
+            "message": "Nathana",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_NAWANSHAHR",
+            "message": "Nawanshahr",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_NAWANSHAR",
+            "message": "Nawanshar",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_NAYAGAON",
+            "message": "Nayagaon",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_NIHALSINGHWALA",
+            "message": "Nihalsinghwala",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_NURMAHAL",
+            "message": "Nurmahal",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_PATHANKOT",
+            "message": "Pathankot",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_PATIALA",
+            "message": "Patiala",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_PATRAN",
+            "message": "Patran",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_PATTI",
+            "message": "Patti",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_PAYAL",
+            "message": "Payal",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_PHAGWARA",
+            "message": "Phagwara",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_PHILLAUR",
+            "message": "Phillaur",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_PUNJAB",
+            "message": "Punjab",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_QUADIAN",
+            "message": "Quadian",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_RAHON",
+            "message": "Rahon",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_RAIKOT",
+            "message": "Raikot",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_RAJASANSI",
+            "message": "Rajasansi",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_RAJPURA",
+            "message": "Rajpura",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_RAMAN",
+            "message": "Raman",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_RAMDASS",
+            "message": "Ramdass",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_RAMPURA",
+            "message": "Rampura",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_RAMPURAPHUL",
+            "message": "Rampuraphul",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_RAYYA",
+            "message": "Rayya",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_ROOPNAGAR",
+            "message": "Roop Nagar",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_ROPAR",
+            "message": "Ropar",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_SAHNEWAL",
+            "message": "Sahnewal",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_SAMANA",
+            "message": "Samana",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_SAMRALA",
+            "message": "Samrala",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_SANAUR",
+            "message": "Sanaur",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_SANGATMANDI",
+            "message": "Sangatmandi",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_SANGRUR",
+            "message": "Sangrur",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_SARDULGARH",
+            "message": "Sardulgarh",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_SHAHKOT",
+            "message": "Shahkot",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_SHAMCHURASI",
+            "message": "Shamchurasi",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_SIRHIND",
+            "message": "Sirhind",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_SRIHARGOBINDPUR",
+            "message": "Srihargobindpur",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_SUJANPUR",
+            "message": "Sujanpur",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_SULTANPURLODHI",
+            "message": "Sultanpurlodhi",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_SUNAM",
+            "message": "Sunam",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_TALWANDIBHAI",
+            "message": "Talwandibhai",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_TALWANDISABO",
+            "message": "Talwandisabo",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_TALWARA",
+            "message": "Talwara",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_TAPA",
+            "message": "Tapa",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_TARNTARAN",
+            "message": "Tarntaran",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_TESTING",
+            "message": "Testing",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_URMARTANDA",
+            "message": "Urmartanda",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_ZIRA",
+            "message": "Zira",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PB_ZIRAKPUR",
+            "message": "Zirakpur",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PG",
+            "message": "pb",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PG_BALASORE",
+            "message": "Balasore",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PG_BALASORE_MUNICIPALITY",
+            "message": "Balasore",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PG_BERHAMPUR",
+            "message": "Berhampur",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PG_BERHAMPUR_MUNICIPAL_CORPORATION",
+            "message": "Berhmapur",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PG_CITYA",
+            "message": "City A",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PG_CITYB",
+            "message": "City B",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PG_CITYC",
+            "message": "City C",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PG_CITYD",
+            "message": "City D",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PG_CITYE",
+            "message": "City E",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PG_CITY_A",
+            "message": "City A",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PG_CITY_B",
+            "message": "City B",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PG_CITY_C",
+            "message": "City C",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PG_CITY_D",
+            "message": "City D",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PG_CITY_E",
+            "message": "City E",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PG_DHARAMSHALA",
+            "message": "Dharamshala",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PG_DHENKANAL",
+            "message": "Dhenkanal",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PG_MOHALI",
+            "message": "Mohali",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "TENANT_TENANTS_PG_SHIMLA",
+            "message": "Shimla",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        }
+,
+{
+            "code": "BPA_HADBAST_NO_LABEL",
+            "message": "Hadbast No.",
+            "module": "rainmaker-common",
+            "locale": "pn_IN"
+        },
+        {
+            "code": "BPA_TAXHEAD_CODE",
+            "message": "Application Fee",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BPA_TAXHEAD_CODE",
+            "message": "Application Fee",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+
+
+
+
+
+
+        todo:
+
+
+        {
+            "code": "Cost_Should_Be_Number",
+            "message": "Cost should be a number",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+         {
+            "code": "WF_BPA_ACTION_CANCEL",
+            "message": "Cancel",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "WF_BPA_ACTION_CANCEL",
+            "message": "Cancel",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CMN_NOOPTION",
+            "message": "No Options available",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BPA_HEADER_BPA_MC_SEND_TO_ARCHITECT_INITIATED",
+            "message": "Sent To Professional With Observations",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BPA_HEADER_BPA_MC_HIGH_SEND_FOR_INSPECTION_REPORT_INSPECTION_REPORT_PENDING",
+            "message": "Site Inspection Saved Successfully",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BPA_HEADER_BPA_MC_SEND_FOR_INSPECTION_REPORT_INSPECTION_REPORT_PENDING",
+            "message": "Site Inspection Saved Successfully",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BPA_HEADER_BPA_NP_HIGH_SEND_FOR_INSPECTION_REPORT_INSPECTION_REPORT_PENDING",
+            "message": "Site Inspection Saved Successfully",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BPA_HEADER_BPA_NP_SEND_FOR_INSPECTION_REPORT_INSPECTION_REPORT_PENDING",
+            "message": "Site Inspection Saved Successfully",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BPA_REMARKS_LABEL",
+            "message": "Comments (Mandatory)",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "MC_VERIFICATION_PENDING",
+            "message": "MC VERIFICATION PENDING",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "LEVEL3_VERIFICATION_PENDING",
+            "message": "ATP VERIFICATION PENDING",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "MC_VERIFICATION_PENDING",
+            "message": "MC Verification Pending",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "LEVEL3_VERIFICATION_PENDING",
+            "message": "ATP Verification Pending",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "LEVEL4_VERIFICATION_PENDING",
+            "message": "MTP Verification Pending",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "LEVEL4_VERIFICATION_PENDING",
+            "message": "MTP Verification Pending",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "JC_VERIFICATION_PENDING",
+            "message": "JC Verification Pending",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "JC_VERIFICATION_PENDING",
+            "message": "JC Verification Pending",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BPA_MC_APPLICATION_NUMBER",
+            "message": "Application Number",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BPA_MC_APPLICATION_NUMBER",
+            "message": "Application Number",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BPA_MC_APPLICATION_NO",
+            "message": "Application Number",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BPA_MC_APPLICATION_NO",
+            "message": "Application Number",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+         {
+            "code": "BPA_HEADER_BPA_SENDFORVERIFICATION_VERIFICATION_INPROGRESS",
+            "message": "Application Sent For Verification",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+         {
+            "code": "BPA_HEADER_BPA_SENDFORVERIFICATION_VERIFICATION_INPROGRESS",
+            "message": "Application Sent For Verification",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TXN_CREATE_BILL_ALREADY_PAID",
+            "message": "Bill Already Paid",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "TXN_CREATE_BILL_ALREADY_PAID",
+            "message": "Bill Already Paid",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "CS_MOBILE_CAMERA_ERROR",
+            "message": "Kindly switch to mobile app to upload site images",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "INSPECTION_REPORT_PENDING",
+            "message": "Inspection Report Pending",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+         {
+            "code": "PENDINGPAYMENT",
+            "message": "Approved :  Pending payment",
+            "module": "rainmaker-noc",
+            "locale": "en_IN"
+        },
+        {
+            "code": "FIELDINSPECTION_INPROGRESS",
+            "message": "Field Inspection In-Progress",
+            "module": "rainmaker-noc",
+            "locale": "en_IN"
+        },
+        {
+            "code": "APPROVED",
+            "message": "Approved",
+            "module": "rainmaker-noc",
+            "locale": "en_IN"
+        },
+        {
+            "code": "VERIFICATION_PENDING",
+            "message": "Document Verification Pending",
+            "module": "rainmaker-noc",
+            "locale": "en_IN"
+        },
+         {
+            "code": "INSPECTION_REPORT_PENDING",
+            "message": "Inspection Report Pending",
+            "module": "rainmaker-noc",
+            "locale": "en_IN"
+        },
+        {
+            "code": "MTP_VERIFICATION_PENDING",
+            "message": "MTP Verification Pending",
+            "module": "rainmaker-noc",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ATP_VERIFICATION_PENDING",
+            "message": "ATP Verification Pending",
+            "module": "rainmaker-noc",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EO_VERIFICATION_PENDING",
+            "message": "EO Verification Pending",
+            "module": "rainmaker-noc",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PENDING_APPROVAL",
+            "message": "Pending For Approval",
+            "module": "rainmaker-noc",
+            "locale": "en_IN"
+        },
+        {
+            "code": "INITIATED",
+            "message": "Initiated",
+            "module": "rainmaker-noc",
+            "locale": "en_IN"
+        },
+        {
+            "code": "REJECTED",
+            "message": "Rejected",
+            "module": "rainmaker-noc",
+            "locale": "en_IN"
+        },
+        {
+            "code": "E-SIGNED",
+            "message": "E-Signed",
+            "module": "rainmaker-noc",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ESIGN_PENDING",
+            "message": "E-Sign Pending",
+            "module": "rainmaker-noc",
+            "locale": "en_IN"
+        },
+         {
+            "code": "PENDINGPAYMENT",
+            "message": "Approved :  Pending payment",
+            "module": "rainmaker-noc",
+            "locale": "en_IN"
+        },
+        {
+            "code": "FIELDINSPECTION_INPROGRESS",
+            "message": "Field Inspection In-Progress",
+            "module": "rainmaker-firenoc",
+            "locale": "en_IN"
+        },
+        {
+            "code": "APPROVED",
+            "message": "Approved",
+            "module": "rainmaker-firenoc",
+            "locale": "en_IN"
+        },
+        {
+            "code": "VERIFICATION_PENDING",
+            "message": "Document Verification Pending",
+            "module": "rainmaker-firenoc",
+            "locale": "en_IN"
+        },
+         {
+            "code": "INSPECTION_REPORT_PENDING",
+            "message": "Inspection Report Pending",
+            "module": "rainmaker-firenoc",
+            "locale": "en_IN"
+        },
+        {
+            "code": "MTP_VERIFICATION_PENDING",
+            "message": "MTP Verification Pending",
+            "module": "rainmaker-firenoc",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ATP_VERIFICATION_PENDING",
+            "message": "ATP Verification Pending",
+            "module": "rainmaker-firenoc",
+            "locale": "en_IN"
+        },
+        {
+            "code": "EO_VERIFICATION_PENDING",
+            "message": "EO Verification Pending",
+            "module": "rainmaker-firenoc",
+            "locale": "en_IN"
+        },
+        {
+            "code": "PENDING_APPROVAL",
+            "message": "Pending For Approval",
+            "module": "rainmaker-firenoc",
+            "locale": "en_IN"
+        },
+        {
+            "code": "INITIATED",
+            "message": "Initiated",
+            "module": "rainmaker-firenoc",
+            "locale": "en_IN"
+        },
+        {
+            "code": "REJECTED",
+            "message": "Rejected",
+            "module": "rainmaker-firenoc",
+            "locale": "en_IN"
+        },
+        {
+            "code": "E-SIGNED",
+            "message": "E-Signed",
+            "module": "rainmaker-firenoc",
+            "locale": "en_IN"
+        },
+        {
+            "code": "ESIGN_PENDING",
+            "message": "E-Sign Pending",
+            "module": "rainmaker-firenoc",
+            "locale": "en_IN"
+        },
+         {
+            "code": "PENDINGPAYMENT",
+            "message": "Approved :  Pending payment",
+            "module": "rainmaker-firenoc",
+            "locale": "en_IN"
+        },
+        {
+            "code": "COMMON_SOME_ERROR_OCCURRED_LABEL",
+            "message": "Some Error Occurred",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "OCCUPANCY_F4",
+            "message": "Shops/Showrooms/Commercial Complexes etc.",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "OCCUPANCY_F4",
+            "message": "Shops/ Showrooms/Commercial Complexes etc.",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BPA_APPROVED_COLONY_NAME",
+            "message": "Colony Name",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+            "code": "BPA_APPROVED_COLONY_NAME_LABEL",
+            "message": "Colony Name",
+            "module": "rainmaker-common",
+            "locale": "en_IN"
+        },
+        {
+    "code": "OCCUPANCY_F4",
+    "message": "Shops /Showrooms/Commercial Complexes etc.",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_LOW_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_OC_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_HIGH_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_HIGH_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_OTH_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_OTH_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_LOW_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_OC_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_HIGH_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_HIGH_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_OTH_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_OTH_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "BPA_HEADER_BPA_NP_APPROVE_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_LOW_CANCELLED",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_LOW_APPROVE_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_APPROVE_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_OC_APPROVE_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_MC_APPROVE_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_MC_HIGH_APPROVE_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_NP_HIGH_APPROVE_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_NP_OTH_APPROVE_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_MC_OTH_APPROVE_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "WF_BPA_CANCELLED",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_OC_CANCELLED",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_CANCELLED",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_CANCELLED",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_HIGH_CANCELLED",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_HIGH_CANCELLED",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_OTH_CANCELLED",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_OTH_CANCELLED",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_NP_APPROVE_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_LOW_CANCELLED",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  
+  {
+    "code": "BPA_HEADER_BPA_LOW_APPROVE_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_APPROVE_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_OC_APPROVE_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_MC_APPROVE_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_MC_HIGH_APPROVE_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_NP_HIGH_APPROVE_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_NP_OTH_APPROVE_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_MC_OTH_APPROVE_DRAWING_ESIGN_PENDING",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "WF_BPA_CANCELLED",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_OC_CANCELLED",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_CANCELLED",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_CANCELLED",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_HIGH_CANCELLED",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_HIGH_CANCELLED",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_OTH_CANCELLED",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_OTH_CANCELLED",
+    "message": "Drawing E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+   {
+  "code": "WF_BPA_LOW_UPDATE_FEE_PENDING",
+  "message": "Update Fee Pending",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_UPDATE_FEE_PENDING",
+  "message": "Update Fee Pending",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_UPDATE_FEE_PENDING",
+  "message": "Update Fee Pending",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_OC_UPDATE_FEE_PENDING",
+  "message": "Update Fee Pending",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_HIGH_UPDATE_FEE_PENDING",
+  "message": "Update Fee Pending",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_HIGH_UPDATE_FEE_PENDING",
+  "message": "Update Fee Pending",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_OTH_UPDATE_FEE_PENDING",
+  "message": "Update Fee Pending",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_OTH_UPDATE_FEE_PENDING",
+  "message": "Update Fee Pending",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_EMPLOYEE_BPA_DRAWING_ESIGN",
+  "message": "Drawing E-Sign",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_EMPLOYEE_BPA_NP_DRAWING_ESIGN",
+  "message": "Drawing E-Sign",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_EMPLOYEE_BPA_MC_DRAWING_ESIGN",
+  "message": "Drawing E-Sign",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_EMPLOYEE_BPA_OC_DRAWING_ESIGN",
+  "message": "Drawing E-Sign",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_EMPLOYEE_BPA_MC_HIGH_DRAWING_ESIGN",
+  "message": "Drawing E-Sign",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_EMPLOYEE_BPA_NP_HIGH_DRAWING_ESIGN",
+  "message": "Drawing E-Sign",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_EMPLOYEE_BPA_MC_OTH_DRAWING_ESIGN",
+  "message": "Drawing E-Sign",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_EMPLOYEE_BPA_NP_OTH_DRAWING_ESIGN",
+  "message": "Drawing E-Sign",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_DRAWING_ESIGN_APPLICATION",
+  "message": "Drawing E-Sign Application",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_DRAWING_ESIGN_APPLICATION",
+  "message": "Drawing E-Sign Application",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_DRAWING_ESIGN_APPLICATION",
+  "message": "Drawing E-Sign Application",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_OC_DRAWING_ESIGN_APPLICATION",
+  "message": "Drawing E-Sign Application",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_LOW_DRAWING_ESIGN_APPLICATION",
+  "message": "Drawing E-Sign Application",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_HIGH_DRAWING_ESIGN_APPLICATION",
+  "message": "Drawing E-Sign Application",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_HIGH_DRAWING_ESIGN_APPLICATION",
+  "message": "Drawing E-Sign Application",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_OTH_DRAWING_ESIGN_APPLICATION",
+  "message": "Drawing E-Sign Application",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_OTH_DRAWING_ESIGN_APPLICATION",
+  "message": "Drawing E-Sign Application",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+ {
+  "code": "WF_BPA_LOW_UPDATE_FEE_PENDING",
+  "message": "Update Fee Pending",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_UPDATE_FEE_PENDING",
+  "message": "Update Fee Pending",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_UPDATE_FEE_PENDING",
+  "message": "Update Fee Pending",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_OC_UPDATE_FEE_PENDING",
+  "message": "Update Fee Pending",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_HIGH_UPDATE_FEE_PENDING",
+  "message": "Update Fee Pending",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_HIGH_UPDATE_FEE_PENDING",
+  "message": "Update Fee Pending",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_OTH_UPDATE_FEE_PENDING",
+  "message": "Update Fee Pending",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_OTH_UPDATE_FEE_PENDING",
+  "message": "Update Fee Pending",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_EMPLOYEE_BPA_DRAWING_ESIGN",
+  "message": "Drawing E-Sign",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_EMPLOYEE_BPA_NP_DRAWING_ESIGN",
+  "message": "Drawing E-Sign",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_EMPLOYEE_BPA_MC_DRAWING_ESIGN",
+  "message": "Drawing E-Sign",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_EMPLOYEE_BPA_OC_DRAWING_ESIGN",
+  "message": "Drawing E-Sign",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_EMPLOYEE_BPA_MC_HIGH_DRAWING_ESIGN",
+  "message": "Drawing E-Sign",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_EMPLOYEE_BPA_NP_HIGH_DRAWING_ESIGN",
+  "message": "Drawing E-Sign",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_EMPLOYEE_BPA_MC_OTH_DRAWING_ESIGN",
+  "message": "Drawing E-Sign",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_EMPLOYEE_BPA_NP_OTH_DRAWING_ESIGN",
+  "message": "Drawing E-Sign",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_DRAWING_ESIGN_APPLICATION",
+  "message": "Drawing E-Sign Application",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_DRAWING_ESIGN_APPLICATION",
+  "message": "Drawing E-Sign Application",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_DRAWING_ESIGN_APPLICATION",
+  "message": "Drawing E-Sign Application",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_OC_DRAWING_ESIGN_APPLICATION",
+  "message": "Drawing E-Sign Application",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_LOW_DRAWING_ESIGN_APPLICATION",
+  "message": "Drawing E-Sign Application",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_HIGH_DRAWING_ESIGN_APPLICATION",
+  "message": "Drawing E-Sign Application",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_HIGH_DRAWING_ESIGN_APPLICATION",
+  "message": "Drawing E-Sign Application",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_OTH_DRAWING_ESIGN_APPLICATION",
+  "message": "Drawing E-Sign Application",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_OTH_DRAWING_ESIGN_APPLICATION",
+  "message": "Drawing E-Sign Application",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "Approved Colony Name is required",
+  "message": "Colony Name is required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "Approved Colony Name is required",
+  "message": "Colony Name is required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+    "code": "BPA_SUBOCCUPANCYTYPE_A_R",
+    "message": "Residential",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_A_AIF",
+    "message": "Independent Floor",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_A_AF",
+    "message": "Apartment/Flat",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_A_FH",
+    "message": "Farmhouse",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F",
+    "message": "Commercial",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F_RB",
+    "message": "Restaurants/ Banquet Halls",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F_SCC",
+    "message": "Shops/Showrooms/commercial complexes,etc",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F_PO",
+    "message": "Private Offices",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F_B",
+    "message": "Banks",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F_LB",
+    "message": "Guest House / Lodging & Boarding / Service Apartments",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F_HM",
+    "message": "Hotel / Motel",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F_VGP",
+    "message": "Video Games and Parlors",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F_BU",
+    "message": "Boutiques",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F_D",
+    "message": "Dhaba",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F_PFSF",
+    "message": "Petrol Filling Station- Four Wheeler",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F_PFST",
+    "message": "Petrol Filling Station- Two/Three Wheeler",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F_PFSS",
+    "message": "Petrol Filling Cum Service Station",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F_PS",
+    "message": "Petrol Station",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F_CNGS",
+    "message": "CNG Mother Station",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F_MPMT",
+    "message": "Miniplex/Multiplex",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_G",
+    "message": "Industrial",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_G_F",
+    "message": "Factory",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_G_S",
+    "message": "Storage",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_G_HI",
+    "message": "Hazard Industries",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_G_RSI",
+    "message": "Retail Service Industry",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_G_GIP",
+    "message": "General Industry- Industry Plotted",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_G_GIF",
+    "message": "General industry Flatted",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_G_ITP",
+    "message": "Informational Technology- Industry Plotted",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_G_ITF",
+    "message": "Informational Technology- Flatted",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_G_TI",
+    "message": "Textile Industry",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_G_KI",
+    "message": "Knitwear Industry",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_G_SI",
+    "message": "Sports Industry",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_G_WT",
+    "message": "Wholesale Trade/ Ware House/ Integrated Freight complex (Standalone)",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_C",
+    "message": "Medical IP",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_L_GP",
+    "message": "General Public/Semi-public buildings",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_L_GO",
+    "message": "Government Offices / Integrated Office Complex",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_L_NS",
+    "message": "Educational Buildings- Nursery School",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_L_PS",
+    "message": "Educational Buildings- Primary School",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_L_HSS",
+    "message": "Educational Buildings- Higher Secondary School",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_L_CO",
+    "message": "Educational (College)",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_L_ERC",
+    "message": "Education & Research Centre (Large Campus)",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_L_MP",
+    "message": "Marriage Palace",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_L_NH",
+    "message": "Hospital / Nursing Home",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_L_C",
+    "message": "Creche / Day Care facilities",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_A",
+    "message": "Residential",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_A_R",
+    "message": "Residential",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_A_AIF",
+    "message": "Independent Floor",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_A_AF",
+    "message": "Apartment/Flat",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_A_FH",
+    "message": "Farmhouse",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F",
+    "message": "Commercial",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F_RB",
+    "message": "Restaurants/ Banquet Halls",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F_SCC",
+    "message": "Shops/Showrooms/commercial complexes,etc",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F_PO",
+    "message": "Private Offices",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F_B",
+    "message": "Banks",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F_LB",
+    "message": "Guest House / Lodging & Boarding / Service Apartments",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F_HM",
+    "message": "Hotel / Motel",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F_VGP",
+    "message": "Video Games and Parlors",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F_BU",
+    "message": "Boutiques",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F_D",
+    "message": "Dhaba",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F_PFSF",
+    "message": "Petrol Filling Station- Four Wheeler",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F_PFST",
+    "message": "Petrol Filling Station- Two/Three Wheeler",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F_PFSS",
+    "message": "Petrol Filling Cum Service Station",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F_PS",
+    "message": "Petrol Station",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F_CNGS",
+    "message": "CNG Mother Station",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_F_MPMT",
+    "message": "Miniplex/Multiplex",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_G",
+    "message": "Industrial",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_G_F",
+    "message": "Factory",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_G_S",
+    "message": "Storage",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_G_HI",
+    "message": "Hazard Industries",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_G_RSI",
+    "message": "Retail Service Industry",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_G_GIP",
+    "message": "General Industry- Industry Plotted",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_G_GIF",
+    "message": "General industry Flatted",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_G_ITP",
+    "message": "Informational Technology- Industry Plotted",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_G_ITF",
+    "message": "Informational Technology- Flatted",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_G_TI",
+    "message": "Textile Industry",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_G_KI",
+    "message": "Knitwear Industry",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_G_SI",
+    "message": "Sports Industry",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_G_WT",
+    "message": "Wholesale Trade/ Ware House/ Integrated Freight complex (Standalone)",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_C",
+    "message": "Medical IP",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_L_GP",
+    "message": "General Public/Semi-public buildings",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_L_GO",
+    "message": "Government Offices / Integrated Office Complex",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_L_NS",
+    "message": "Educational Buildings- Nursery School",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_L_PS",
+    "message": "Educational Buildings- Primary School",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_L_HSS",
+    "message": "Educational Buildings- Higher Secondary School",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_L_CO",
+    "message": "Educational (College)",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_L_ERC",
+    "message": "Education & Research Centre (Large Campus)",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_L_MP",
+    "message": "Marriage Palace",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_L_NH",
+    "message": "Hospital / Nursing Home",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_L_C",
+    "message": "Creche / Day Care facilities",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_SUBOCCUPANCYTYPE_A",
+    "message": "Residential",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+  "code": "WF_BPA_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_LOW_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_OC_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_HIGH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_HIGH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_OTH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_OTH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_LOW_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_OC_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_HIGH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_HIGH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_OTH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_OTH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+
+ {
+  "code": "BPA_HEADER_BPA_UPDATE_FEE_PENDING_SANC_FEE_PAYMENT",
+  "message": "Update Fee - Sanction Fee payment",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_LOW_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_OC_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_HIGH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_HIGH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_OTH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_OTH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "BPA_HEADER_BPA_UPDATE_FEE_PENDING_SANC_FEE_PAYMENT",
+  "message": "Update Fee - Sanction Fee payment",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_LOW_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_OC_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_HIGH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_HIGH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_OTH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_OTH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+    "code": "WF_BPA_LOW_LEVEL4_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_LOW_LEVEL3_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "WF_BPA_LEVEL4_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_LEVEL3_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "WF_BPA_OC_LEVEL4_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_OC_LEVEL3_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "WF_BPA_MC_LEVEL4_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_LEVEL3_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "WF_BPA_NP_LEVEL4_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_LEVEL3_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "WF_BPA_MC_HIGH_LEVEL4_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_HIGH_LEVEL3_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "WF_BPA_NP_HIGH_LEVEL4_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_HIGH_LEVEL3_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "WF_BPA_MC_OTH_LEVEL4_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_OTH_LEVEL3_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "WF_BPA_NP_OTH_LEVEL4_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_OTH_LEVEL3_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+  "code": "WF_BPA_LOW_UPDATE_FEE",
+  "message": "Update Fee",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_UPDATE_FEE",
+  "message": "Update Fee",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_UPDATE_FEE",
+  "message": "Update Fee",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_OC_UPDATE_FEE",
+  "message": "Update Fee",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_HIGH_UPDATE_FEE",
+  "message": "Update Fee",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_HIGH_UPDATE_FEE",
+  "message": "Update Fee",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_OTH_UPDATE_FEE",
+  "message": "Update Fee",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_OTH_UPDATE_FEE",
+  "message": "Update Fee",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+    "code": "WF_BPA_LOW_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_OC_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_HIGH_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_HIGH_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_OTH_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_OTH_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_LOW_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_OC_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_HIGH_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_HIGH_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_OTH_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_OTH_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  }
+,
+  {
+    "code": "BPA_LOW",
+    "message": "Self Certification",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA",
+    "message": "Building Plan Approval",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_OC",
+    "message": "Occupancy Certificate",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_MC",
+    "message": "Normal Flow (Municipal Corporation)",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_NP",
+    "message": "Normal Flow (Municipal Council and Nagar Panchayat)",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_MC_HIGH",
+    "message": "Normal Flow With STP Field (Municipal Corporation)",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_NP_HIGH",
+    "message": "Normal Flow STP Field (Municipal Council and Nagar Panchayat)",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_NP_OTH",
+    "message": "Normal Flow With Head Quarters (Municipal Corporation)",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_MC_OTH",
+    "message": "Normal Flow Head Quarters (Municipal Council and Nagar Panchayat)",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_LOW",
+    "message": "Self Certification",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA",
+    "message": "Building Plan Approval",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_OC",
+    "message": "Occupancy Certificate",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_MC",
+    "message": "Normal Flow (Municipal Corporation)",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_NP",
+    "message": "Normal Flow (Municipal Council and Nagar Panchayat)",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_MC_HIGH",
+    "message": "Normal Flow With STP Field (Municipal Corporation)",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_NP_HIGH",
+    "message": "Normal Flow STP Field (Municipal Council and Nagar Panchayat)",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_NP_OTH",
+    "message": "Normal Flow With Head Quarters (Municipal Corporation)",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_MC_OTH",
+    "message": "Normal Flow Head Quarters (Municipal Council and Nagar Panchayat)",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_LOW_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_OC_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_MC_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_NP_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_MC_HIGH_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_NP_HIGH_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_NP_OTH_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_MC_OTH_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_LOW_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_OC_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_MC_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_NP_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_MC_HIGH_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_NP_HIGH_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_NP_OTH_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_MC_OTH_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OBPAS_UPDATE_ZONE",
+    "message": "OBPAS Update Zone",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OBPAS_UPDATE_ZONE",
+    "message": "OBPAS Update Zone",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_LOW_APPLICATION_NUMBER",
+    "message": "Application Number",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_LOW_APPLICATION_NUMBER",
+    "message": "Application Number",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_NP_INTERNAL_QUERY_LEVEL3_VERIFICATION_PENDING",
+    "message": "Internal Query Raised For ATP Verification",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_NP_INTERNAL_QUERY_LEVEL4_VERIFICATION_PENDING",
+    "message": "Internal Query Raised For MTP Verification",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "BPA_HEADER_BPA_MC_HIGH_INTERNAL_QUERY_LEVEL3_VERIFICATION_PENDING",
+    "message": "Internal Query Raised For ATP Verification",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "BPA_HEADER_BPA_MC_HIGH_INTERNAL_QUERY_LEVEL4_VERIFICATION_PENDING",
+    "message": "Internal Query Raised For MTP Verification",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "BPA_HEADER_BPA_NP_HIGH_INTERNAL_QUERY_LEVEL3_VERIFICATION_PENDING",
+    "message": "Internal Query Raised For ATP Verification",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_NP_INTERNAL_QUERY_LEVEL3_VERIFICATION_PENDING",
+    "message": "Internal Query Raised For ATP Verification",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_NP_HIGH_INTERNAL_QUERY_LEVEL4_VERIFICATION_PENDING",
+    "message": "Internal Query Raised For MTP Verification",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_NP_INTERNAL_QUERY_LEVEL3_VERIFICATION_PENDING",
+    "message": "Internal Query Raised For ATP Verification",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_NP_INTERNAL_QUERY_LEVEL4_VERIFICATION_PENDING",
+    "message": "Internal Query Raised For MTP Verification",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+  "code": "WF_BPA_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_LOW_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_OC_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_HIGH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_HIGH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_OTH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_OTH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_LOW_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_OC_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_HIGH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_HIGH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_OTH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_OTH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+
+ {
+  "code": "BPA_HEADER_BPA_UPDATE_FEE_PENDING_SANC_FEE_PAYMENT",
+  "message": "Update Fee - Sanction Fee payment",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_LOW_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_OC_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_HIGH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_HIGH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_OTH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_OTH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "BPA_HEADER_BPA_UPDATE_FEE_PENDING_SANC_FEE_PAYMENT",
+  "message": "Update Fee - Sanction Fee payment",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_LOW_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_OC_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_HIGH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_HIGH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_OTH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_OTH_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_PROFESSIONAL_ACTION_REQUIRED",
+  "message": "Professional Action Required",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+},
+{
+    "code": "WF_BPA_LOW_LEVEL4_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_LOW_LEVEL3_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "WF_BPA_LEVEL4_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_LEVEL3_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "WF_BPA_OC_LEVEL4_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_OC_LEVEL3_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "WF_BPA_MC_LEVEL4_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_LEVEL3_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "WF_BPA_NP_LEVEL4_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_LEVEL3_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "WF_BPA_MC_HIGH_LEVEL4_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_HIGH_LEVEL3_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "WF_BPA_NP_HIGH_LEVEL4_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_HIGH_LEVEL3_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "WF_BPA_MC_OTH_LEVEL4_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_OTH_LEVEL3_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "WF_BPA_NP_OTH_LEVEL4_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_OTH_LEVEL3_STP_VERIFICATION_PENDING",
+    "message": "STP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+  "code": "WF_BPA_LOW_UPDATE_FEE",
+  "message": "Update Fee",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_UPDATE_FEE",
+  "message": "Update Fee",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_UPDATE_FEE",
+  "message": "Update Fee",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_OC_UPDATE_FEE",
+  "message": "Update Fee",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_HIGH_UPDATE_FEE",
+  "message": "Update Fee",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_HIGH_UPDATE_FEE",
+  "message": "Update Fee",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_MC_OTH_UPDATE_FEE",
+  "message": "Update Fee",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+  "code": "WF_BPA_NP_OTH_UPDATE_FEE",
+  "message": "Update Fee",
+  "module": "rainmaker-common",
+  "locale": "en_IN"
+},
+{
+    "code": "WF_BPA_LOW_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_OC_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_HIGH_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_HIGH_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_OTH_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_OTH_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_LOW_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_OC_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_HIGH_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_HIGH_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_MC_OTH_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_BPA_NP_OTH_SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter E-Sign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  }
+,
+  {
+    "code": "BPA_LOW",
+    "message": "Self Certification",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA",
+    "message": "Building Plan Approval",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_OC",
+    "message": "Occupancy Certificate",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_MC",
+    "message": "Normal Flow (Municipal Corporation)",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_NP",
+    "message": "Normal Flow (Municipal Council and Nagar Panchayat)",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_MC_HIGH",
+    "message": "Normal Flow With STP Field (Municipal Corporation)",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_NP_HIGH",
+    "message": "Normal Flow STP Field (Municipal Council and Nagar Panchayat)",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_NP_OTH",
+    "message": "Normal Flow With Head Quarters (Municipal Corporation)",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_MC_OTH",
+    "message": "Normal Flow Head Quarters (Municipal Council and Nagar Panchayat)",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_LOW",
+    "message": "Self Certification",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA",
+    "message": "Building Plan Approval",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_OC",
+    "message": "Occupancy Certificate",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_MC",
+    "message": "Normal Flow (Municipal Corporation)",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_NP",
+    "message": "Normal Flow (Municipal Council and Nagar Panchayat)",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_MC_HIGH",
+    "message": "Normal Flow With STP Field (Municipal Corporation)",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_NP_HIGH",
+    "message": "Normal Flow STP Field (Municipal Council and Nagar Panchayat)",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_NP_OTH",
+    "message": "Normal Flow With Head Quarters (Municipal Corporation)",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_MC_OTH",
+    "message": "Normal Flow Head Quarters (Municipal Council and Nagar Panchayat)",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_LOW_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_OC_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_MC_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_NP_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_MC_HIGH_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_NP_HIGH_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_NP_OTH_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_MC_OTH_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_LOW_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_OC_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_MC_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_NP_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_MC_HIGH_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_NP_HIGH_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_NP_OTH_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_MC_OTH_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OBPAS_UPDATE_ZONE",
+    "message": "OBPAS Update Zone",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OBPAS_UPDATE_ZONE",
+    "message": "OBPAS Update Zone",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_LOW_APPLICATION_NUMBER",
+    "message": "Application Number",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_LOW_APPLICATION_NUMBER",
+    "message": "Application Number",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_NP_INTERNAL_QUERY_LEVEL3_VERIFICATION_PENDING",
+    "message": "Internal Query Raised For ATP Verification",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_NP_INTERNAL_QUERY_LEVEL4_VERIFICATION_PENDING",
+    "message": "Internal Query Raised For MTP Verification",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "BPA_HEADER_BPA_MC_HIGH_INTERNAL_QUERY_LEVEL3_VERIFICATION_PENDING",
+    "message": "Internal Query Raised For ATP Verification",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "BPA_HEADER_BPA_MC_HIGH_INTERNAL_QUERY_LEVEL4_VERIFICATION_PENDING",
+    "message": "Internal Query Raised For MTP Verification",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "BPA_HEADER_BPA_NP_HIGH_INTERNAL_QUERY_LEVEL3_VERIFICATION_PENDING",
+    "message": "Internal Query Raised For ATP Verification",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_NP_INTERNAL_QUERY_LEVEL3_VERIFICATION_PENDING",
+    "message": "Internal Query Raised For ATP Verification",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_NP_HIGH_INTERNAL_QUERY_LEVEL4_VERIFICATION_PENDING",
+    "message": "Internal Query Raised For MTP Verification",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_NP_INTERNAL_QUERY_LEVEL3_VERIFICATION_PENDING",
+    "message": "Internal Query Raised For ATP Verification",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_NP_INTERNAL_QUERY_LEVEL4_VERIFICATION_PENDING",
+    "message": "Internal Query Raised For MTP Verification",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter Esign Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_GRAND_TOTAL",
+    "message": "Total Amount",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "BPA_HEADER_BPA_LOW_INTERNAL_QUERY_APPROVAL_PENDING",
+    "message": "Internal Query Approval Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_INTERNAL_QUERY_APPROVAL_PENDING",
+    "message": "Internal Query Approval Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_OC_INTERNAL_QUERY_APPROVAL_PENDING",
+    "message": "Internal Query Approval Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_MC_INTERNAL_QUERY_APPROVAL_PENDING",
+    "message": "Internal Query Approval Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_NP_INTERNAL_QUERY_APPROVAL_PENDING",
+    "message": "Internal Query Approval Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_MC_HIGH_INTERNAL_QUERY_APPROVAL_PENDING",
+    "message": "Internal Query Approval Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_NP_HIGH_INTERNAL_QUERY_APPROVAL_PENDING",
+    "message": "Internal Query Approval Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_NP_OTH_INTERNAL_QUERY_APPROVAL_PENDING",
+    "message": "Internal Query Approval Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_MC_OTH_INTERNAL_QUERY_APPROVAL_PENDING",
+    "message": "Internal Query Approval Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+{
+    "code": "ATPHQ_APPROVAL_PENDING",
+    "message": "ATP HQ Approval Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "DOCUMENTVERIFY_ATP/AME",
+    "message": "Document Verify ATP/AME",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "DOCUMENTVERIFY_EO",
+    "message": "Document Verify EO",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "DOCUMENTVERIFY_MTP/ME",
+    "message": "Document Verify MTP/ME",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_TRADE_LICENSE_UPGRADE",
+    "message": "Trade License Upgrade",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_TRADE_LICENSE_INBOX",
+    "message": "Trade License Inbox",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PDF_BILL_GC_CONNECTION_NO",
+    "message": "Connection No.",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "GC_ROUND_OFF",
+    "message": "Round Off Amount",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "GC_SECURITY_DEPOSIT_FEE",
+    "message": "Security Deposit",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "GC_SGST_FEE",
+    "message": "SGST",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "GC_CGST_FEE",
+    "message": "CGST",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "GC_CHARGE",
+    "message": "Garbage Collection Charge",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_MUTATION_FATHER",
+    "message": "S/O",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_NP_INTERNAL_QUERY_APPROVAL_PENDING",
+    "message": "Internal Query Approval Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_FEE_HEAD_LABEL",
+    "message": "Tax Head Code",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PAYMENT_MOBILE_NUMBER_MANDATORY_MESSAGE",
+    "message": "Mobile number is mandatory",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+{
+    "code": "SANCTION_LETTER_ESIGN_PENDING",
+    "message": "Sanction Letter Esign Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_GRAND_TOTAL",
+    "message": "Total Amount",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "BPA_HEADER_BPA_LOW_INTERNAL_QUERY_APPROVAL_PENDING",
+    "message": "Internal Query Approval Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_INTERNAL_QUERY_APPROVAL_PENDING",
+    "message": "Internal Query Approval Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_OC_INTERNAL_QUERY_APPROVAL_PENDING",
+    "message": "Internal Query Approval Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_MC_INTERNAL_QUERY_APPROVAL_PENDING",
+    "message": "Internal Query Approval Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_NP_INTERNAL_QUERY_APPROVAL_PENDING",
+    "message": "Internal Query Approval Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_MC_HIGH_INTERNAL_QUERY_APPROVAL_PENDING",
+    "message": "Internal Query Approval Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_NP_HIGH_INTERNAL_QUERY_APPROVAL_PENDING",
+    "message": "Internal Query Approval Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_NP_OTH_INTERNAL_QUERY_APPROVAL_PENDING",
+    "message": "Internal Query Approval Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_MC_OTH_INTERNAL_QUERY_APPROVAL_PENDING",
+    "message": "Internal Query Approval Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+{
+    "code": "ATPHQ_APPROVAL_PENDING",
+    "message": "ATP HQ Approval Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "DOCUMENTVERIFY_ATP/AME",
+    "message": "Document Verify ATP/AME",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "DOCUMENTVERIFY_EO",
+    "message": "Document Verify EO",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "DOCUMENTVERIFY_MTP/ME",
+    "message": "Document Verify MTP/ME",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_TRADE_LICENSE_UPGRADE",
+    "message": "Trade License Upgrade",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_TRADE_LICENSE_INBOX",
+    "message": "Trade License Inbox",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PDF_BILL_GC_CONNECTION_NO",
+    "message": "Connection No.",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "GC_ROUND_OFF",
+    "message": "Round Off Amount",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "GC_SECURITY_DEPOSIT_FEE",
+    "message": "Security Deposit",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "GC_SGST_FEE",
+    "message": "SGST",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "GC_CGST_FEE",
+    "message": "CGST",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "GC_CHARGE",
+    "message": "Garbage Collection Charge",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_MUTATION_FATHER",
+    "message": "S/O",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_HEADER_BPA_NP_INTERNAL_QUERY_APPROVAL_PENDING",
+    "message": "Internal Query Approval Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_FEE_HEAD_LABEL",
+    "message": "Tax Head Code",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PAYMENT_MOBILE_NUMBER_MANDATORY_MESSAGE",
+    "message": "Mobile number is mandatory",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "COMMON_MASTERS_DESIGNATION_DESIG_SK",
+    "message": "Sewa Kendra (DGR)",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "COMMON_MASTERS_DESIGNATION_DESIG_SK",
+    "message": "Sewa Kendra (DGR)",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OLD_BPA_EDCR_DETAILS",
+    "message": "Old EDCR Details",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "IS_SELF_CERITIFICATION",
+    "message": "Is Self Ceritification",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "UPDATE_FEE_PENDING",
+    "message": "Update Fee Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "WF_EMPLOYEE_BPA_LOW_EMPLOYEE_SAVE_AS_DRAFT",
+    "message": "Save as Draft",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_EMPLOYEE_SAVE_AS_DRAFT",
+    "message": "Save as Draft",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_OC_EMPLOYEE_SAVE_AS_DRAFT",
+    "message": "Save as Draft",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_MC_EMPLOYEE_SAVE_AS_DRAFT",
+    "message": "Save as Draft",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_NP_EMPLOYEE_SAVE_AS_DRAFT",
+    "message": "Save as Draft",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_MC_HIGH_EMPLOYEE_SAVE_AS_DRAFT",
+    "message": "Save as Draft",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_NP_HIGH_EMPLOYEE_SAVE_AS_DRAFT",
+    "message": "Save as Draft",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_NP_OTH_EMPLOYEE_SAVE_AS_DRAFT",
+    "message": "Save as Draft",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_MC_OTH_EMPLOYEE_SAVE_AS_DRAFT",
+    "message": "Save as Draft",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_PAYMENT_HISTORY",
+    "message": "Payment History",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_RECEIPT_NUMBER",
+    "message": "Receipt Number",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "PT_AMOUNT_PAID",
+    "message": "Amount Paid",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "PT_PAYMWENT_MODE",
+    "message": "Payment Mode",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "PT_TRANSACTION_ID",
+    "message": "Transaction ID",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_TRANSACTION_DATE",
+    "message": "Transaction Date",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "PT_STATUS",
+    "message": "Status",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "OLD_BPA_EDCR_DETAILS",
+    "message": "Old EDCR Details",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "IS_SELF_CERITIFICATION",
+    "message": "Is Self Ceritification",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "UPDATE_FEE_PENDING",
+    "message": "Update Fee Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "WF_EMPLOYEE_BPA_LOW_EMPLOYEE_SAVE_AS_DRAFT",
+    "message": "Save as Draft",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_EMPLOYEE_SAVE_AS_DRAFT",
+    "message": "Save as Draft",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_OC_EMPLOYEE_SAVE_AS_DRAFT",
+    "message": "Save as Draft",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_MC_EMPLOYEE_SAVE_AS_DRAFT",
+    "message": "Save as Draft",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_NP_EMPLOYEE_SAVE_AS_DRAFT",
+    "message": "Save as Draft",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_MC_HIGH_EMPLOYEE_SAVE_AS_DRAFT",
+    "message": "Save as Draft",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_NP_HIGH_EMPLOYEE_SAVE_AS_DRAFT",
+    "message": "Save as Draft",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_NP_OTH_EMPLOYEE_SAVE_AS_DRAFT",
+    "message": "Save as Draft",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_BPA_MC_OTH_EMPLOYEE_SAVE_AS_DRAFT",
+    "message": "Save as Draft",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_PAYMENT_HISTORY",
+    "message": "Payment History",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_RECEIPT_NUMBER",
+    "message": "Receipt Number",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "PT_AMOUNT_PAID",
+    "message": "Amount Paid",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "PT_PAYMWENT_MODE",
+    "message": "Payment Mode",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "PT_TRANSACTION_ID",
+    "message": "Transaction ID",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_TRANSACTION_DATE",
+    "message": "Transaction Date",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "PT_STATUS",
+    "message": "Status",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "TENANT_TENANTS_PB_ITROPAR",
+    "message": "Improvement Trust Ropar",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_SEARCH_ADS_APPLICATION",
+    "message": "Search ADS Application",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_GRIEVANCEWITHPRIORITY",
+    "message": "Grievance With Priority",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_CITIZENGRIEVANCEFEEDBACK",
+    "message": "Citizen Grievance Feedback",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_STATUS_OF_GRIEVANCE",
+    "message": "Status Of Grievance",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_ULB_HOME",
+    "message": "ULB Home",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_ULB_OVERVIEW",
+    "message": "ULB Overview",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_ULB_TRADELICENSE",
+    "message": "ULB Trade License",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_ULB_PROPERTYTAX",
+    "message": "ULB Property Tax",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_ULB_PGR",
+    "message": "ULB PGR",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_CREATE/UPDATE_BUDGET_CONTROL_TYPE",
+    "message": "Create/Update Budget Control Type",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_RURAL_DISTRICTWISE_COLLECTION_REPORT",
+    "message": "Rural District Wise Collection Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_RECEIPT_REGISTER_FIRENOC",
+    "message": "Receipt Register Fire NOC",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_RURAL_DISTRICT_WISE_CHANNEL_REPORT",
+    "message": "Rural District Wise Channel Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_CANCELLED_RECEIPT_REGISTER_FIRENOC",
+    "message": "Cancelled Receipt Register Fire NOC",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_NEWMISCRECEIPTULB_V2",
+    "message": "New Misc Receipt ULB V2",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "MISC. CHALLAN REPORT",
+    "message": "Misc. Challan Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_ASSIGNING_OFFICERS",
+    "message": "Assigning Officers",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_WITHOUTUPINTRANSACTIONS",
+    "message": "Without UPI Transactions",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_SEARCH_ALLOTED_PROPERTIES",
+    "message": "Search Alloted Properties",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_STATE_RENT_&_LEASE_DETAIL_REPORT",
+    "message": "State Rent & Lease Detail Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_STATE_RECEIPT_REGISTER",
+    "message": "State Receipt Register",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_WATER_WORD_WISE_QUATERLY_BILL_REPORT",
+    "message": "Water Ward Wise Quarterly Bill Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_SEWERAGE_WORD_WISE_QUATERLY_BILL_REPORT",
+    "message": "Sewerage Ward Wise Quarterly Bill Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_STATE_RECEIPT_REGISTER_CHALLAN",
+    "message": "State Receipt Register Challan",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_STATE_CATEGORY_WISE_CHALLAN_DETAIL_REPORT",
+    "message": "State Category Wise Challan Detail Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_STATE_CHALLAN_DEFAULTER_REPORT",
+    "message": "State Challan Defaulter Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_STATE_USER_WISE_COLLECTIONS_REPORT",
+    "message": "State User Wise Collections Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_STATE_RECEIPT_REGISTER_VENUE_BOOKING",
+    "message": "State Receipt Register Venue Booking",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_STATEMSEVAAPPDESCRIPTIONREPORT_NEW_V2",
+    "message": "State MSeva App Description Report New V2",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_SWACH_COMPLAINT_TYPE_REPORT",
+    "message": "Swach Complaint Type Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_WS_AND_SW_DUMP__REPORT",
+    "message": "WS And SW Dump Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_SW_DUMP__REPORT",
+    "message": "SW Dump Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_METER_READING_REPORT",
+    "message": "Meter Reading Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_WATER_SEWERAGE_BILLING_REPORT",
+    "message": "Water Sewerage Billing Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_SW_DEMAND_DETAIL_REPORT",
+    "message": "SW Demand Detail Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_COLLECTION_SUMMARY_REPORT",
+    "message": "Collection Summary Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_ZONE_WISE_REPORT_SEWERAGE",
+    "message": "Zone Wise Report Sewerage",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_USER_WISE_DETAILED_REPORT_SEWERAGE/WATER",
+    "message": "User Wise Detailed Report Sewerage/Water",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_COLLECTION_COUNT_WATER_SEWERAGE",
+    "message": "Collection Count Water Sewerage",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_WS_QUATERLY_BILL_GENERATE_REPORT",
+    "message": "WS Quarterly Bill Generate Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_WS_QUARTERLY_BILL_NOT_GENERATE_REPORT",
+    "message": "WS Quarterly Bill Not Generate Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_ZONE_WISE_COLLECTION_SUMMARY",
+    "message": "Zone Wise Collection Summary",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_HIGHEST_PENDENCY_-_PROFESSIONAL_REGISTRATION_REPORT",
+    "message": "Highest Pendency - Professional Registration Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_OFFICERS_PENDENCY_-_PROFESSIONAL_REGISTRATION_REPORT",
+    "message": "Officers Pendency - Professional Registration Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "ACTION_TEST_TL_PENDENCY_REPORT",
+    "message": "TL Pendency Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  }

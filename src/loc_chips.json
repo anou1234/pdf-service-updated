@@ -1,3 +1,8 @@
 [
-    
-]
+  {
+  "code": "BPA_TOD_OPTIONS_LABEL",
+  "message": "TOD ZONE",
+  "module": "rainmaker-bpa",
+  "locale": "en_IN"
+}
+ ]

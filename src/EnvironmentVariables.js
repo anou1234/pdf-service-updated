@@ -6,8 +6,8 @@ const envVariables = {
   EGOV_LOCALISATION_SEARCH:
     process.env.EGOV_LOCALISATION_SEARCH || "/localization/messages/v2/_search",
   EGOV_FILESTORE_SERVICE_HOST:
-    process.env.EGOV_FILESTORE_SERVICE_HOST || "http://egov-filestore:8080",
-  SERVER_PORT: process.env.SERVER_PORT || 8080,
+    process.env.EGOV_FILESTORE_SERVICE_HOST || "http://egov-filestore:8081",
+  SERVER_PORT: process.env.SERVER_PORT || 8081,
 
   KAFKA_BROKER_HOST: process.env.KAFKA_BROKER_HOST || "localhost:9092",
   KAFKA_CREATE_JOB_TOPIC:
@@ -44,12 +44,12 @@ const envVariables = {
     (process.env.REWRITE_INTERNAL_HOSTS || "true").toLowerCase() === "true",
   // Optional config URL lists for PDF templates; provide as comma-separated values via env if needed.
   //uat paths:
-  // "C:/Users/anoushkas1/OneDrive - KPMG/Documents/GitHub/UAT_rainmaker/punjab-rainmaker-customization/configs/pdf-service/data-config/ownerconsent.json",
-  // "C:/Users/anoushkas1/OneDrive - KPMG/Documents/GitHub/UAT_rainmaker/punjab-rainmaker-customization/configs/pdf-service/format-config/ownerconsent.json",
+  // "C:/Users/KPMG/OneDrive - BML MUNJAL UNIVERSITY/Documents/Github/punjab-rainmaker-customization/configs/pdf-service/data-config/ndc-receipt.json",
+  // "C:/Users/KPMG/OneDrive - BML MUNJAL UNIVERSITY/Documents/Github/punjab-rainmaker-customization/configs/pdf-service/format-config/ndc-receipt.json",
 
   // prod paths :
-  //     "C:/Users/anoushkas1/OneDrive - KPMG/Documents/GitHub/new_prod_rainmaker/punjab-rainmaker-customization/configs/pdf-service/data-config/buildingpermit.json",
-  // "C:/Users/anoushkas1/OneDrive - KPMG/Documents/GitHub/new_prod_rainmaker/punjab-rainmaker-customization/configs/pdf-service/format-config/buildingpermit.json",
+  //     "C:/Users/KPMG/OneDrive - BML MUNJAL UNIVERSITY/Documents/Github/new_prod_rainmaker/punjab-rainmaker-customization/configs/pdf-service/data-config/pet-receipt-employee.json",
+  // "C:/Users/KPMG/OneDrive - BML MUNJAL UNIVERSITY/Documents/Github/new_prod_rainmaker/punjab-rainmaker-customization/configs/pdf-service/format-config/pet-receipt-employee.json",
 
 
   //chips paths:
@@ -57,8 +57,8 @@ const envVariables = {
   //C:/Users/anoushkas1/OneDrive - KPMG/Documents/GitHub/chips_rainmaker/rainmaker-customization/configs/pdf-service/format-config/ownerconsent.json
 
   DATA_CONFIG_URLS:
-   "C:/Users/anoushkas1/OneDrive - KPMG/Documents/GitHub/UAT_rainmaker/punjab-rainmaker-customization/configs/pdf-service/data-config/garbage-bill.json",
+   "C:/Users/KPMG/OneDrive - BML MUNJAL UNIVERSITY/Documents/Github/punjab-rainmaker-customization/configs/pdf-service/data-config/property-receipt.json",
   FORMAT_CONFIG_URLS:
-    "C:/Users/anoushkas1/OneDrive - KPMG/Documents/GitHub/UAT_rainmaker/punjab-rainmaker-customization/configs/pdf-service/format-config/garbage-bill.json",
+    "C:/Users/KPMG/OneDrive - BML MUNJAL UNIVERSITY/Documents/Github/punjab-rainmaker-customization/configs/pdf-service/format-config/property-receipt.json",
 };
 export default envVariables;
