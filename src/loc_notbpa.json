@@ -1,19 +1,277 @@
 [
   {
-    "code": "ONNER.REGISTRATIONPROOF.SALEDEED",
+    "code": "PT_FORM2_NONRENTED_MONTHS_USAGE",
+    "message": "Usage Details for Non-Rented Months",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_ASSESMENT_ELECTRICITY_UID",
+    "message": "Electricity Consumer Number",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_STRUCTURE_TYPE_LABEL",
+    "message": "Structure Type",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_AGE_OF_PROPERTY_LABEL",
+    "message": "Age of Property",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OCCUPANCY_TYPE_LABEL",
+    "message": "Occupancy Type",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_BUILTUP_AREA_LABEL",
+    "message": "Built-up Area",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_NO_DOCUMENTS_MSG",
+    "message": "No documents available.",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PROPERTYTAX_OWNER_TRANSFERREASONDOCUMENT_HEADING",
+    "message": "Transfer Reason Proof",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PROPERTYTAX_OWNER_TRANSFERREASONDOCUMENT_SALEDEED_LABEL",
+    "message": "Sale Deed",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PROPERTYTAX_OWNER_TRANSFERREASONDOCUMENT_GIFTDEED_LABEL",
+    "message": "Gift Deed",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PROPERTYTAX_OWNER_TRANSFERREASONDOCUMENT_PATTACERTIFICATE_LABEL",
+    "message": "Patta Certificate",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PROPERTYTAX_OWNER_TRANSFERREASONDOCUMENT_REGISTEREDWILLDEED_LABEL",
+    "message": "Registered Will Deed",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PROPERTYTAX_OWNER_TRANSFERREASONDOCUMENT_PARTITIONDEED_LABEL",
+    "message": "Partition Deed",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PROPERTYTAX_OWNER_TRANSFERREASONDOCUMENT_COURTDECREE_LABEL",
+    "message": "Court Decree",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PROPERTYTAX_OWNER_TRANSFERREASONDOCUMENT_PROPERTYAUCTION_LABEL",
+    "message": "Property Auction",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PROPERTYTAX_OWNER_TRANSFERREASONDOCUMENT_SUCCESSIONORDEATHCERTIFICATE_LABEL",
+    "message": "Succession or Death Certificate",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PROPERTYTAX_OWNER_TRANSFERREASONDOCUMENT_FAMILYSETTLEMENT_LABEL",
+    "message": "Family Settlement",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PROPERTYTAX_OWNER_TRANSFERREASONDOCUMENT_UNREGISTEREDWILLDEED_LABEL",
+    "message": "Unregistered Will Deed",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PROPERTYTAX_OWNER_TRANSFERREASONDOCUMENT_CORRECTIONINNAME_LABEL",
+    "message": "Correction in Name",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PROPERTYTAX_OWNER_TRANSFERREASONDOCUMENT_CHANGEINOWNERSPECIALCATEGORY_LABEL",
+    "message": "Change in Owner Special Category",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CS_PT_RESPONSE_SUBMIT_ACTION",
+    "message": "Application submitted successfully",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CS_PT_RESPONSE_SUBMIT_DISPLAY",
+    "message": "Application submitted successfully and details sent to your number",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CS_PT_RESPONSE_SUBMIT_LABEL",
+    "message": "Submitted successfully",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_FORM2_NONRENTED_MONTHS_USAGE",
+    "message": "Usage Details for Non-Rented Months",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_ASSESMENT_ELECTRICITY_UID",
+    "message": "Electricity Consumer Number",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_STRUCTURE_TYPE_LABEL",
+    "message": "Structure Type",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_AGE_OF_PROPERTY_LABEL",
+    "message": "Age of Property",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_OCCUPANCY_TYPE_LABEL",
+    "message": "Occupancy Type",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_BUILTUP_AREA_LABEL",
+    "message": "Built-up Area",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PT_NO_DOCUMENTS_MSG",
+    "message": "No documents available.",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PROPERTYTAX_OWNER_TRANSFERREASONDOCUMENT_HEADING",
+    "message": "Transfer Reason Proof",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PROPERTYTAX_OWNER_TRANSFERREASONDOCUMENT_SALEDEED_LABEL",
     "message": "Sale Deed",
     "module": "rainmaker-pt",
     "locale": "en_IN"
   },
   {
-    "code": "OWNER.USAGEPROOF.ELECTRICITYBILL",
-    "message": "Electricity Bill",
+    "code": "PROPERTYTAX_OWNER_TRANSFERREASONDOCUMENT_GIFTDEED_LABEL",
+    "message": "Gift Deed",
     "module": "rainmaker-pt",
     "locale": "en_IN"
   },
   {
-    "code": "PT_PROPERTY_ADDRESS_BUILD NO/NAME /COLONY_NO/NAME",
-    "message": "Building No./Name / Colony No./Name",
+    "code": "PROPERTYTAX_OWNER_TRANSFERREASONDOCUMENT_PATTACERTIFICATE_LABEL",
+    "message": "Patta Certificate",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PROPERTYTAX_OWNER_TRANSFERREASONDOCUMENT_REGISTEREDWILLDEED_LABEL",
+    "message": "Registered Will Deed",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PROPERTYTAX_OWNER_TRANSFERREASONDOCUMENT_PARTITIONDEED_LABEL",
+    "message": "Partition Deed",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PROPERTYTAX_OWNER_TRANSFERREASONDOCUMENT_COURTDECREE_LABEL",
+    "message": "Court Decree",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PROPERTYTAX_OWNER_TRANSFERREASONDOCUMENT_PROPERTYAUCTION_LABEL",
+    "message": "Property Auction",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PROPERTYTAX_OWNER_TRANSFERREASONDOCUMENT_SUCCESSIONORDEATHCERTIFICATE_LABEL",
+    "message": "Succession or Death Certificate",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PROPERTYTAX_OWNER_TRANSFERREASONDOCUMENT_FAMILYSETTLEMENT_LABEL",
+    "message": "Family Settlement",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PROPERTYTAX_OWNER_TRANSFERREASONDOCUMENT_UNREGISTEREDWILLDEED_LABEL",
+    "message": "Unregistered Will Deed",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PROPERTYTAX_OWNER_TRANSFERREASONDOCUMENT_CORRECTIONINNAME_LABEL",
+    "message": "Correction in Name",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PROPERTYTAX_OWNER_TRANSFERREASONDOCUMENT_CHANGEINOWNERSPECIALCATEGORY_LABEL",
+    "message": "Change in Owner Special Category",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CS_PT_RESPONSE_SUBMIT_ACTION",
+    "message": "Application submitted successfully",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CS_PT_RESPONSE_SUBMIT_DISPLAY",
+    "message": "Application submitted successfully and details sent to your number",
+    "module": "rainmaker-pt",
+    "locale": "en_IN"
+  },
+  {
+    "code": "CS_PT_RESPONSE_SUBMIT_LABEL",
+    "message": "Submitted successfully",
     "module": "rainmaker-pt",
     "locale": "en_IN"
   }

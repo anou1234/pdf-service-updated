@@ -1,8 +1,8 @@
 # ===== CONFIG =====
-$Url = "https://sdc-uat.lgpunjab.gov.in/localization/messages/v1/_upsert"
-$TenantId = "pb"
-$AuthToken = "6c8bce9a-adc8-4cf4-ad68-f056c4b0fbdd"
-$MessagesFile = "./loc_notbpa.json"
+$Url = "https://test.one1sewa.com/localization/messages/v1/_upsert"
+$TenantId = "cg"
+$AuthToken = "2523db09-8bc2-45bf-9932-0a177853b3b0"
+$MessagesFile = "./loc.json"
 
 # ===== HEADERS =====
 $Headers = @{

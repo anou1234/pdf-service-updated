@@ -1,14 +1,338 @@
 [
   {
-    "code": "BPA_PAYMENT_TYPE1",
-    "message": "Pay 1",
+    "code": "BPA_APPROVAL_CONDITION_1",
+    "message": "यह अनुमोदन इस आधार पर किया जाता है कि आवेदित भूमि आवेदक के पूर्णस्वामित्व एवं आधिपत्य में है । स्वामित्व संबंधी विवाद के लिए आवेदक स्वयं जिम्मेदार होगा । सारभूत तथ्यों के संबंध में कोई असत्यता पाए जाने पर यह अनुज्ञा प्रतिसंहत की जा सकेगी ।",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_2",
+    "message": "किसी भी स्तिथि में विकास अनुज्ञा के विरुद्ध कोई विकास या निर्माण कार्य न किया जावे ।",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_3",
+    "message": "छ.ग. भूमि विकास नियम 1984 के नियम 64 के अनुसार प्रति 100 वर्ग मीटर में एक वृक्ष की दर से वृक्षारोपण कराना होगा।",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_4",
+    "message": "इस अनुमोदन का यह आशय नहीं है कि प्रश्नाधीन भूमि शासकीय या अर्धशासकीय विभागों से प्राप्त की जाने वाली अनुगतियों से मुक्त है । अर्थात यदि किसी प्रकार की अनुमति आदि प्राप्त करना हो तो ऐसी अनिवार्यता इस अनुज्ञा से प्रभावित नहीं होगी ।",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_5",
+    "message": "इस अनुज्ञा को किसी भी प्रकार का भू-अभिलेख सम्बन्धी प्रमाण पत्र न समझा जावे ।",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_6",
+    "message": "छ.ग. भूमि विकास नियम 1984 के नियम 50 का पालन करना सुनिश्चित करे ।",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_7",
+    "message": "विद्युत् लाइन विद्युत् कनेक्शन करने हेतु भूमिगत विद्युत् केबल की स्थापना भारतीय मानक ब्यूरो के प्रावधानों के अनुसार करना होगा ।",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_8",
+    "message": "भूखंड में किसी भी प्रकार के भवन निर्माण, पुनर्निर्माण अथवा भवन गिराने के दौरान पर्यावरण संरक्षण, जन सुरक्षा एवं स्वास्थ्य की दृष्टि से प्रदूषण की रोकथाम हेतु निर्माणाधीन भवन के चारों ओर धूल अवरोधक लगाया जाना आवश्यक होगा, जिसमें स्थल की आवश्यकतानुसार क्लोज कर्टेन, विंड ब्रेकिंग स्ट्रक्चर, बैरियर, मिट्टी में नमी एवं वृक्षारोपण आदि सम्मिलित होंगे।",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_9",
+    "message": "निजी भूमि स्वामित्व के बाहर किसी भी प्रकार का अतिक्रमण न किया जावे।",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_10",
+    "message": "अनुमोदन की शर्तों का उल्लंघन होने अथवा किसी असत्य जानकारी अथवा विवाद की स्थिति में यह अनुज्ञा छ.ग. भूमि विकास नियम 1984 के नियम 25 के तहत प्रतिसंहत की जा सकेगी ।",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_11",
+    "message": "छ.ग. भूमि विकास नियम 1984 में (संशोधन) नियम 23 के प्रावधानों के तहत एक बार दी गयी मंजूरी तीन वर्ष तक विधिमान्य रहेगी। अनुज्ञा को इस अवधि की समाप्ति के पूर्व पुनः विधिमान्य कराना होगा। ऐसा पुनः विधिमान्य लगातार दो अवधियों के लिए, जिसमें प्रत्येक अवधि एक वर्ष की होगी, अनुज्ञात किया जा सकेगा जिसके बाद नवीन प्रस्ताव प्रस्तुत करने होंगे।",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_12",
+    "message": "भवन निर्माण एवं अन्य सन्निर्माण कर्मकार कल्याण उपकर अधिनियम 1996 एवं 1998 के प्रावधानों के तहत भवन के निर्माण लागत का 1 प्रतिशत उपकर जमा कराए जाने की पुष्टि संबंधित विभाग से कराया जाना सुनिश्चित किया जावे तथा किसी प्रकार की विसंगति पाए जाने पर संबंधित विभाग के निर्देशानुसार कार्यवाही सुनिश्चित करें।",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_13",
+    "message": "यदि सीवर लाईन उपलब्ध है तो कनेक्शन लेना अनिवार्य होगा।",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_14",
+    "message": "भवन निर्माण सामग्री आई.एस.आई. कोड एवं एन.बी.सी. के निर्धारित मानकों अनुसार रखना आवश्यक होगा तथा निर्माण हेतु स्ट्रक्चरल इंजीनियर से स्थिरता का सत्यापन कराना आवश्यक होगा। स्ट्रक्चरल स्थिरता का प्रमाण पत्र स्ट्रक्चरल इंजीनियर से प्राप्त कर प्रस्तुत किया जावे।",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_15",
+    "message": "छ.ग. भूमि विकास नियम 1984 के नियम 31 के अंतर्गत भवन निर्माण कार्य पूर्ण होने के पश्चात भवन दखलकारी प्रमाण पत्र इस कार्यालय से प्राप्त करना आवश्यक होगा। उसके पश्चात ही भवन का अधिभोग किया जावेगा।",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_16",
+    "message": "छ.ग. भूमि विकास नियम 1984 के नियम 83 के तहत अग्निशमन व्यवस्था के प्रबंध एन.बी.सी. भाग 4 के अनुसार करना होगा।",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_17",
+    "message": "फ्लाई ऐश ब्रिक्स का उपयोग शासन के नियमानुसार कम से कम 25 प्रतिशत किया जाना आवश्यक होगा।",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_18",
+    "message": "प्रश्नाधीन भूमि/आवेदित भूखण्ड के संबंध में किसी भी न्यायालय में कोई प्रकरण विचाराधीन हो तो माननीय न्यायालय के आदेश-निर्देश इस पर बंधनकारी होंगे।",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_19",
+    "message": "भवन पूर्णता प्रमाण पत्र इस कार्यालय से प्राप्त करने के पश्चात् ही भवन का उपयोग करें।",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_20",
+    "message": "भवन निर्माण कार्य प्रारंभ करने एवं प्लिंथ/लिंटल तथा छत लेवल पर निर्माण करने की सूचना छ.ग. भूमि विकास नियम 1984 के नियम 31 के अंतर्गत इस कार्यालय को देना अनिवार्य होगा।",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_21",
+    "message": "छ.ग. शासन, आवास एवं पर्यावरण विभाग के आदेश क्रं. 2038/1521/2016/32 नया रायपुर दिनांक 28.05.2016 के तहत संबंधित वास्तुविद्/इंजीनियर/संरचना इंजीनियर/नगर योजनाकार/पर्यवेक्षक द्वारा गलत संरचना रूपांकन प्रस्तुत होने पर नियमानुसार कार्यवाही की जावेगी।",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_22",
+    "message": "एम.ओ.एस. मानचित्र अनुसार होगा।",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_23",
+    "message": "भवन की ऊँचाई मानचित्र अनुसार होगी।",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_24",
+    "message": "निर्मित क्षेत्र संलग्न मानचित्र अनुसार होगा।",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PREVIEW_REJECTION_LETTER",
+    "message": "Preview Rejection Letter",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "LABEL_CONDITION",
+    "message": "Condition",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "LABEL_REMARKS",
+    "message": "Remarks",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "SELECT_REJECTION_CONDITIONS",
+    "message": "Select Rejection Conditions",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_1",
+    "message": "यह अनुमोदन इस आधार पर किया जाता है कि आवेदित भूमि आवेदक के पूर्णस्वामित्व एवं आधिपत्य में है । स्वामित्व संबंधी विवाद के लिए आवेदक स्वयं जिम्मेदार होगा । सारभूत तथ्यों के संबंध में कोई असत्यता पाए जाने पर यह अनुज्ञा प्रतिसंहत की जा सकेगी ।",
     "module": "rainmaker-common",
     "locale": "en_IN"
   },
   {
-    "code": "BPA_PAYMENT_TYPE1",
-    "message": "Pay 1",
-    "module": "rainmaker-bpa",
+    "code": "BPA_APPROVAL_CONDITION_2",
+    "message": "किसी भी स्तिथि में विकास अनुज्ञा के विरुद्ध कोई विकास या निर्माण कार्य न किया जावे ।",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_3",
+    "message": "छ.ग. भूमि विकास नियम 1984 के नियम 64 के अनुसार प्रति 100 वर्ग मीटर में एक वृक्ष की दर से वृक्षारोपण कराना होगा।",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_4",
+    "message": "इस अनुमोदन का यह आशय नहीं है कि प्रश्नाधीन भूमि शासकीय या अर्धशासकीय विभागों से प्राप्त की जाने वाली अनुगतियों से मुक्त है । अर्थात यदि किसी प्रकार की अनुमति आदि प्राप्त करना हो तो ऐसी अनिवार्यता इस अनुज्ञा से प्रभावित नहीं होगी ।",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_5",
+    "message": "इस अनुज्ञा को किसी भी प्रकार का भू-अभिलेख सम्बन्धी प्रमाण पत्र न समझा जावे ।",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_6",
+    "message": "छ.ग. भूमि विकास नियम 1984 के नियम 50 का पालन करना सुनिश्चित करे ।",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_7",
+    "message": "विद्युत् लाइन विद्युत् कनेक्शन करने हेतु भूमिगत विद्युत् केबल की स्थापना भारतीय मानक ब्यूरो के प्रावधानों के अनुसार करना होगा ।",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_8",
+    "message": "भूखंड में किसी भी प्रकार के भवन निर्माण, पुनर्निर्माण अथवा भवन गिराने के दौरान पर्यावरण संरक्षण, जन सुरक्षा एवं स्वास्थ्य की दृष्टि से प्रदूषण की रोकथाम हेतु निर्माणाधीन भवन के चारों ओर धूल अवरोधक लगाया जाना आवश्यक होगा, जिसमें स्थल की आवश्यकतानुसार क्लोज कर्टेन, विंड ब्रेकिंग स्ट्रक्चर, बैरियर, मिट्टी में नमी एवं वृक्षारोपण आदि सम्मिलित होंगे।",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_9",
+    "message": "निजी भूमि स्वामित्व के बाहर किसी भी प्रकार का अतिक्रमण न किया जावे।",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_10",
+    "message": "अनुमोदन की शर्तों का उल्लंघन होने अथवा किसी असत्य जानकारी अथवा विवाद की स्थिति में यह अनुज्ञा छ.ग. भूमि विकास नियम 1984 के नियम 25 के तहत प्रतिसंहत की जा सकेगी ।",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_11",
+    "message": "छ.ग. भूमि विकास नियम 1984 में (संशोधन) नियम 23 के प्रावधानों के तहत एक बार दी गयी मंजूरी तीन वर्ष तक विधिमान्य रहेगी। अनुज्ञा को इस अवधि की समाप्ति के पूर्व पुनः विधिमान्य कराना होगा। ऐसा पुनः विधिमान्य लगातार दो अवधियों के लिए, जिसमें प्रत्येक अवधि एक वर्ष की होगी, अनुज्ञात किया जा सकेगा जिसके बाद नवीन प्रस्ताव प्रस्तुत करने होंगे।",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_12",
+    "message": "भवन निर्माण एवं अन्य सन्निर्माण कर्मकार कल्याण उपकर अधिनियम 1996 एवं 1998 के प्रावधानों के तहत भवन के निर्माण लागत का 1 प्रतिशत उपकर जमा कराए जाने की पुष्टि संबंधित विभाग से कराया जाना सुनिश्चित किया जावे तथा किसी प्रकार की विसंगति पाए जाने पर संबंधित विभाग के निर्देशानुसार कार्यवाही सुनिश्चित करें।",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_13",
+    "message": "यदि सीवर लाईन उपलब्ध है तो कनेक्शन लेना अनिवार्य होगा।",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_14",
+    "message": "भवन निर्माण सामग्री आई.एस.आई. कोड एवं एन.बी.सी. के निर्धारित मानकों अनुसार रखना आवश्यक होगा तथा निर्माण हेतु स्ट्रक्चरल इंजीनियर से स्थिरता का सत्यापन कराना आवश्यक होगा। स्ट्रक्चरल स्थिरता का प्रमाण पत्र स्ट्रक्चरल इंजीनियर से प्राप्त कर प्रस्तुत किया जावे।",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_15",
+    "message": "छ.ग. भूमि विकास नियम 1984 के नियम 31 के अंतर्गत भवन निर्माण कार्य पूर्ण होने के पश्चात भवन दखलकारी प्रमाण पत्र इस कार्यालय से प्राप्त करना आवश्यक होगा। उसके पश्चात ही भवन का अधिभोग किया जावेगा।",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_16",
+    "message": "छ.ग. भूमि विकास नियम 1984 के नियम 83 के तहत अग्निशमन व्यवस्था के प्रबंध एन.बी.सी. भाग 4 के अनुसार करना होगा।",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_17",
+    "message": "फ्लाई ऐश ब्रिक्स का उपयोग शासन के नियमानुसार कम से कम 25 प्रतिशत किया जाना आवश्यक होगा।",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_18",
+    "message": "प्रश्नाधीन भूमि/आवेदित भूखण्ड के संबंध में किसी भी न्यायालय में कोई प्रकरण विचाराधीन हो तो माननीय न्यायालय के आदेश-निर्देश इस पर बंधनकारी होंगे।",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_19",
+    "message": "भवन पूर्णता प्रमाण पत्र इस कार्यालय से प्राप्त करने के पश्चात् ही भवन का उपयोग करें।",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_20",
+    "message": "भवन निर्माण कार्य प्रारंभ करने एवं प्लिंथ/लिंटल तथा छत लेवल पर निर्माण करने की सूचना छ.ग. भूमि विकास नियम 1984 के नियम 31 के अंतर्गत इस कार्यालय को देना अनिवार्य होगा।",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_21",
+    "message": "छ.ग. शासन, आवास एवं पर्यावरण विभाग के आदेश क्रं. 2038/1521/2016/32 नया रायपुर दिनांक 28.05.2016 के तहत संबंधित वास्तुविद्/इंजीनियर/संरचना इंजीनियर/नगर योजनाकार/पर्यवेक्षक द्वारा गलत संरचना रूपांकन प्रस्तुत होने पर नियमानुसार कार्यवाही की जावेगी।",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_22",
+    "message": "एम.ओ.एस. मानचित्र अनुसार होगा।",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_23",
+    "message": "भवन की ऊँचाई मानचित्र अनुसार होगी।",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "BPA_APPROVAL_CONDITION_24",
+    "message": "निर्मित क्षेत्र संलग्न मानचित्र अनुसार होगा।",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "PREVIEW_REJECTION_LETTER",
+    "message": "Preview Rejection Letter",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "LABEL_CONDITION",
+    "message": "Condition",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "LABEL_REMARKS",
+    "message": "Remarks",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "SELECT_REJECTION_CONDITIONS",
+    "message": "Select Rejection Conditions",
+    "module": "rainmaker-common",
     "locale": "en_IN"
   }
 ]
