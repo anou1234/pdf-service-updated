@@ -1,13 +1,13 @@
 const envVariables = {
   MAX_NUMBER_PAGES: process.env.MAX_NUMBER_PAGES || 80,
-  EGOV_HOST: process.env.EGOV_HOST || "https://mseva.lgpunjab.gov.in/",
+  EGOV_HOST: process.env.EGOV_HOST || "https://test.one1sewa.com/",
   EGOV_LOCALISATION_HOST:
-    process.env.EGOV_LOCALISATION_HOST || "https://mseva.lgpunjab.gov.in/",
+    process.env.EGOV_LOCALISATION_HOST || "https://test.one1sewa.com/",
   EGOV_LOCALISATION_SEARCH:
     process.env.EGOV_LOCALISATION_SEARCH || "/localization/messages/v2/_search",
   EGOV_FILESTORE_SERVICE_HOST:
-    process.env.EGOV_FILESTORE_SERVICE_HOST || "http://egov-filestore:8081",
-  SERVER_PORT: process.env.SERVER_PORT || 8081,
+    process.env.EGOV_FILESTORE_SERVICE_HOST || "http://egov-filestore:8082",
+  SERVER_PORT: process.env.SERVER_PORT || 8082,
 
   KAFKA_BROKER_HOST: process.env.KAFKA_BROKER_HOST || "localhost:9092",
   KAFKA_CREATE_JOB_TOPIC:
@@ -51,14 +51,13 @@ const envVariables = {
   //     "C:/Users/KPMG/OneDrive - BML MUNJAL UNIVERSITY/Documents/Github/new_prod_rainmaker/punjab-rainmaker-customization/configs/pdf-service/data-config/pet-receipt-employee.json",
   // "C:/Users/KPMG/OneDrive - BML MUNJAL UNIVERSITY/Documents/Github/new_prod_rainmaker/punjab-rainmaker-customization/configs/pdf-service/format-config/pet-receipt-employee.json",
 
-
   //chips paths:
   //C:/Users/anoushkas1/OneDrive - KPMG/Documents/GitHub/chips_rainmaker/rainmaker-customization/configs/pdf-service/data-config/ownerconsent.json
   //C:/Users/anoushkas1/OneDrive - KPMG/Documents/GitHub/chips_rainmaker/rainmaker-customization/configs/pdf-service/format-config/ownerconsent.json
 
   DATA_CONFIG_URLS:
-   "C:/Users/KPMG/OneDrive - BML MUNJAL UNIVERSITY/Documents/Github/punjab-rainmaker-customization/configs/pdf-service/data-config/tlcertificate.json",
+    "C:/Users/KPMG/OneDrive - BML MUNJAL UNIVERSITY/Documents/Github/chips-rainmaker-customization/configs/pdf-service/data-config/layout-shortfall-letter.json",
   FORMAT_CONFIG_URLS:
-    "C:/Users/KPMG/OneDrive - BML MUNJAL UNIVERSITY/Documents/Github/punjab-rainmaker-customization/configs/pdf-service/format-config/tlcertificate.json",
+    "C:/Users/KPMG/OneDrive - BML MUNJAL UNIVERSITY/Documents/Github/chips-rainmaker-customization/configs/pdf-service/format-config/layout-shortfall-letter.json",
 };
 export default envVariables;

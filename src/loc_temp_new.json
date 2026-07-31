@@ -1,0 +1,26 @@
+[
+{
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_FORWARD_L5",
+    "message": "Forward to CTP",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_FORWARD_TO_ATP_HQ",
+    "message": "Forward to ATP HQ",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_FORWARD_L5",
+    "message": "Forward to CTP",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_FORWARD_TO_ATP_HQ",
+    "message": "Forward to ATP HQ",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  }
+]

@@ -1,0 +1,288 @@
+[
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_UP_DOCUMENTVERIFY_MTP/ME",
+    "message": "MTP/ME Verification Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_ABV_DOCUMENTVERIFY_MTP/ME",
+    "message": "MTP/ME Verification Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_UP_PENDINGSANCTIONPAYMENT",
+    "message": "Pay2 Fee Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_ABV_PENDINGSANCTIONPAYMENT",
+    "message": "Pay2 Fee Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCUP_PENDINGSANCTIONPAYMENT",
+    "message": "Pay2 Fee Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCO_ABV_PENDINGSANCTIONPAYMENT",
+    "message": "Pay2 Fee Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_OBSERVATION",
+    "message": "Send with Observations",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCUP_OBSERVATION",
+    "message": "Send with Observations",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_OBSERVATION",
+    "message": "Send with Observations",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_UP_OBSERVATION",
+    "message": "Send with Observations",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_UP_INTERNAL_QUERY",
+    "message": "Internal Query",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_INTERNAL_QUERY",
+    "message": "Internal Query",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCUP_INTERNAL_QUERY",
+    "message": "Internal Query",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_INTERNAL_QUERY",
+    "message": "Internal Query",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCUP_DOCUMENTVERIFY_STP(Field)",
+    "message": "STP (Field) Verification Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_UP_DOCUMENTVERIFY_STP(Field)",
+    "message": "STP (Field) Verification Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_ABV_DOCUMENTVERIFY_STP(Field)",
+    "message": "STP (Field) Verification Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCO_ABV_DOCUMENTVERIFY_STP(Field)",
+    "message": "STP (Field) Verification Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_UP_DOCUMENTVERIFY_JE/BI",
+    "message": "JE/BI Verification Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_ABV_DOCUMENTVERIFY_JE/BI",
+    "message": "JE/BI Verification Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCUP_DOCUMENTVERIFY_JE/BI",
+    "message": "JE/BI Verification Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCO_ABV_DOCUMENTVERIFY_JE/BI",
+    "message": "JE/BI Verification Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+   {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_UP_PENDINGAPPLICATIONPAYMENT",
+    "message": "Pay1 Fee Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_ABV_PENDINGAPPLICATIONPAYMENT",
+    "message": "Pay1 Fee Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCUP_PENDINGAPPLICATIONPAYMENT",
+    "message": "Pay1 Fee Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCO_ABV_PENDINGAPPLICATIONPAYMENT",
+    "message": "Pay1 Fee Pending",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_FORWARD_L5",
+    "message": "Forward to CTP",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_FORWARD_TO_ATP_HQ",
+    "message": "Forward to ATP HQ",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_FORWARD_TO_ATP_HQ",
+    "message": "Forward to ATP HQ",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+{
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_FORWARD_TO_ATP_HQ",
+    "message": "Forward to ATP HQ",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_FORWARD_L5",
+    "message": "Forward to CTP",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_FORWARD_TO_ATP_HQ",
+    "message": "Forward to ATP HQ",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+            "code": "LAYOUT_FEE_RECEIPT_1",
+            "message": "Pay 1: Receipt",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "LAYOUT_FEE_RECEIPT_2",
+            "message": "Pay 2: Receipt",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+            "code": "FINANCIALS_SEARCH_ERROR",
+            "message": "Failed to fetch bank account, unknown error occurred",
+            "module": "rainmaker-bpa",
+            "locale": "en_IN"
+        },
+        {
+    "code": "WF_EMPLOYEE_LAYOUT_OBSERVATION_SUCCESS_HEADER",
+    "message": "Application Sent with Observations Successfully",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_INTERNAL_QUERY_SUCCESS_HEADER",
+    "message": "Application Sent for Internal Query Successfully",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_FORWARD_SUCESS_HEADER",
+    "message": "Application Forwarded Successfully",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_SENDBACKTOPROFESSIONAL_SUCCESS_HEADER",
+    "message": "Application Sent back to Professional Successfully",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_APPROVE_SUCCESS_HEADER",
+    "message": "Application Approved successfully",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_REJECT_SUCCESS_HEADER",
+    "message": "Application Rejected successfully",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_OBSERVATION_SUCCESS_HEADER",
+    "message": "Application Sent with Observations Successfully",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_INTERNAL_QUERY_SUCCESS_HEADER",
+    "message": "Application Sent for Internal Query Successfully",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_FORWARD_SUCESS_HEADER",
+    "message": "Application Forwarded Successfully",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_SENDBACKTOPROFESSIONAL_SUCCESS_HEADER",
+    "message": "Application Sent back to Professional Successfully",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_APPROVE_SUCCESS_HEADER",
+    "message": "Application Approved successfully",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_REJECT_SUCCESS_HEADER",
+    "message": "Application Rejected successfully",
+    "module": "rainmaker-bpa",
+    "locale": "en_IN"
+  }
+]

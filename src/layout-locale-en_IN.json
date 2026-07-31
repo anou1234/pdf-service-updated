@@ -1,0 +1,1028 @@
+[
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_UP_INITIATED",
+    "message": "Initiated",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_UP_PENDINGAPPLICATIONPAYMENT",
+    "message": "Pay 1 Fee: Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_UP_FIELDINSPECTION_INPROGRESS",
+    "message": "Field Inspection In Progress",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_UP_INSPECTION_REPORT_PENDING",
+    "message": "Inspection Report Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_UP_DOCUMENTVERIFY_DM",
+    "message": "Document Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_UP_DOCUMENTVERIFY_ATP/AME",
+    "message": "ATP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_UP_PENDINGAPPROVAL",
+    "message": "Pending Approval",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_UP_PROFESSIONALACTIONREQUIRED",
+    "message": "Professional Action Required",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_UP_PENDINGSANCTIONPAYMENT",
+    "message": "Pay 2 Fee: Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_UP_APPROVED",
+    "message": "Approved",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_UP_REJECTED",
+    "message": "Rejected",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_UP_CANCELLED",
+    "message": "Cancelled",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_UP_DOCUMENTVERIFY_EO",
+    "message": "EO Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_UP_DOCUMENTVERIFY_STP(FIELD)",
+    "message": "STP (Field) Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_UP_INITIATE",
+    "message": "Initiate",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_UP_APPLY",
+    "message": "Apply",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_UP_DRAFT",
+    "message": "Save as Draft",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_UP_CANCEL",
+    "message": "Cancel",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_UP_PAY",
+    "message": "Pay",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_UP_UPDATE_FEE",
+    "message": "Update Fee",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_UP_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_UP_SEND_FOR_INSPECTION_REPORT",
+    "message": "Send for Inspection Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_UP_FORWARD_L1",
+    "message": "Forward to DM",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_UP_OBSERVATION",
+    "message": "Raise Observation",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_UP_INTERNAL_QUERY",
+    "message": "Raise Internal Query",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_UP_APPROVE",
+    "message": "Approve",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_UP_REJECT",
+    "message": "Reject",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_UP_RESUBMIT",
+    "message": "Resubmit",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_UP_EDIT",
+    "message": "Edit",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_UP_SENDBACKTODM",
+    "message": "Send Back to DM",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_UP_SENDBACKFORINSPECTIONREPORT",
+    "message": "Send Back for Inspection Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_UP_SENDBACKFORFIELDINSPECTION",
+    "message": "Send Back for Field Inspection",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_UP_SENDBACKTOPROFESSIONAL",
+    "message": "Send Back to Professional",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_UP_FORWARD_L2",
+    "message": "Forward to ATP/AME",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_UP_FORWARD_L3",
+    "message": "Forward to EO",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_UP_FORWARD_L5",
+    "message": "Forward to STP (Field)",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_UP_FORWARD_L6",
+    "message": "Forward to ADC",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_UP_SENDBACKTOATP/AME",
+    "message": "Send Back to ATP/AME",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_UP_SENDBACKTOSTP_FIELD",
+    "message": "Send Back to STP (Field)",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_ABV_INITIATED",
+    "message": "Initiated",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_ABV_PENDINGAPPLICATIONPAYMENT",
+    "message": "Pay 1 Fee: Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_ABV_FIELDINSPECTION_INPROGRESS",
+    "message": "Field Inspection In Progress",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_ABV_INSPECTION_REPORT_PENDING",
+    "message": "Inspection Report Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_ABV_DOCUMENTVERIFY_DM",
+    "message": "Document Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_ABV_DOCUMENTVERIFY_ATP/AME",
+    "message": "ATP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_ABV_PENDINGAPPROVAL",
+    "message": "Pending Approval",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_ABV_PROFESSIONALACTIONREQUIRED",
+    "message": "Professional Action Required",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_ABV_PENDINGSANCTIONPAYMENT",
+    "message": "Pay 2 Fee: Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_ABV_APPROVED",
+    "message": "Approved",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_ABV_REJECTED",
+    "message": "Rejected",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_ABV_CANCELLED",
+    "message": "Cancelled",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_ABV_DOCUMENTVERIFY_EO",
+    "message": "EO Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_ABV_DOCUMENTVERIFY_CTP",
+    "message": "CTP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_ABV_DOCUMENTVERIFY_ATP_HQ",
+    "message": "ATP (HQ) Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCL_ABV_DOCUMENTVERIFY_STP_HQ",
+    "message": "STP (HQ) Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_INITIATE",
+    "message": "Initiate",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_APPLY",
+    "message": "Apply",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_DRAFT",
+    "message": "Save as Draft",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_CANCEL",
+    "message": "Cancel",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_PAY",
+    "message": "Pay",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_UPDATE_FEE",
+    "message": "Update Fee",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_SEND_FOR_INSPECTION_REPORT",
+    "message": "Send for Inspection Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_FORWARD_L1",
+    "message": "Forward to DM",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_OBSERVATION",
+    "message": "Raise Observation",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_INTERNAL_QUERY",
+    "message": "Raise Internal Query",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_APPROVE",
+    "message": "Approve",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_REJECT",
+    "message": "Reject",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_RESUBMIT",
+    "message": "Resubmit",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_EDIT",
+    "message": "Edit",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_SENDBACKTODM",
+    "message": "Send Back to DM",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_SENDBACKFORINSPECTIONREPORT",
+    "message": "Send Back for Inspection Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_SENDBACKFORFIELDINSPECTION",
+    "message": "Send Back for Field Inspection",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_SENDBACKTOPROFESSIONAL",
+    "message": "Send Back to Professional",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_FORWARD_L2",
+    "message": "Forward to ATP/AME",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_FORWARD_L3",
+    "message": "Forward to EO",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_FORWARD_L5",
+    "message": "Forward to ADC",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_FORWARD_L4",
+    "message": "Forward to ATP (HQ)",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_FORWARD_L7",
+    "message": "Forward to STP (HQ)",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_FORWARD_FOR_APPROVAL",
+    "message": "Forward to ADC",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_FORWARDTOATP_HQ",
+    "message": "Forward to ATP (HQ)",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_SENDBACKTOATP/AME",
+    "message": "Send Back to ATP/AME",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCL_ABV_SENDBACKTOEO",
+    "message": "Send Back to EO",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCUP_INITIATED",
+    "message": "Initiated",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCUP_PENDINGAPPLICATIONPAYMENT",
+    "message": "Pay 1 Fee: Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCUP_FIELDINSPECTION_INPROGRESS",
+    "message": "Field Inspection In Progress",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCUP_INSPECTION_REPORT_PENDING",
+    "message": "Inspection Report Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCUP_DOCUMENTVERIFY_DM",
+    "message": "Document Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCUP_DOCUMENTVERIFY_ATP/AME",
+    "message": "ATP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCUP_PENDINGAPPROVAL",
+    "message": "Pending Approval",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCUP_PROFESSIONALACTIONREQUIRED",
+    "message": "Professional Action Required",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCUP_PENDINGSANCTIONPAYMENT",
+    "message": "Pay 2 Fee: Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCUP_APPROVED",
+    "message": "Approved",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCUP_REJECTED",
+    "message": "Rejected",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCUP_CANCELLED",
+    "message": "Cancelled",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCUP_DOCUMENTVERIFY_MTP/ME",
+    "message": "MTP/ME Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCUP_DOCUMENTVERIFY_JC",
+    "message": "JC Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCUP_DOCUMENTVERIFY_STP(FIELD)",
+    "message": "STP (Field) Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCUP_INITIATE",
+    "message": "Initiate",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCUP_APPLY",
+    "message": "Apply",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCUP_DRAFT",
+    "message": "Save as Draft",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCUP_CANCEL",
+    "message": "Cancel",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCUP_PAY",
+    "message": "Pay",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCUP_UPDATE_FEE",
+    "message": "Update Fee",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCUP_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCUP_SEND_FOR_INSPECTION_REPORT",
+    "message": "Send for Inspection Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCUP_FORWARD_L1",
+    "message": "Forward to DM",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCUP_OBSERVATION",
+    "message": "Raise Observation",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCUP_INTERNAL_QUERY",
+    "message": "Raise Internal Query",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCUP_APPROVE",
+    "message": "Approve",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCUP_REJECT",
+    "message": "Reject",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCUP_RESUBMIT",
+    "message": "Resubmit",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCUP_EDIT",
+    "message": "Edit",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCUP_SENDBACKTODM",
+    "message": "Send Back to DM",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCUP_SENDBACKFORINSPECTIONREPORT",
+    "message": "Send Back for Inspection Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCUP_SENDBACKFORFIELDINSPECTION",
+    "message": "Send Back for Field Inspection",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCUP_SENDBACKTOPROFESSIONAL",
+    "message": "Send Back to Professional",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCUP_FORWARD_L2",
+    "message": "Forward to ATP/AME",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCUP_FORWARD_L3",
+    "message": "Forward to MTP/ME",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCUP_FORWARD_L4",
+    "message": "Forward to JC",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCUP_FORWARD_STP",
+    "message": "Forward to STP (Field)",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCUP_FORWARD_FOR_APPROVAL",
+    "message": "Forward to CMC",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCUP_SENDBACKTOMTP/ME",
+    "message": "Send Back to MTP/ME",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCUP_SENDBACKTOJC",
+    "message": "Send Back to JC",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCUP_SENDBACKTOSTP",
+    "message": "Send Back to STP",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCO_ABV_INITIATED",
+    "message": "Initiated",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCO_ABV_PENDINGAPPLICATIONPAYMENT",
+    "message": "Pay 1 Fee: Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCO_ABV_FIELDINSPECTION_INPROGRESS",
+    "message": "Field Inspection In Progress",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCO_ABV_INSPECTION_REPORT_PENDING",
+    "message": "Inspection Report Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCO_ABV_DOCUMENTVERIFY_DM",
+    "message": "Document Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCO_ABV_DOCUMENTVERIFY_ATP/AME",
+    "message": "ATP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCO_ABV_PENDINGAPPROVAL",
+    "message": "Pending Approval",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCO_ABV_PROFESSIONALACTIONREQUIRED",
+    "message": "Professional Action Required",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCO_ABV_PENDINGSANCTIONPAYMENT",
+    "message": "Pay 2 Fee: Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCO_ABV_APPROVED",
+    "message": "Approved",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCO_ABV_REJECTED",
+    "message": "Rejected",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCO_ABV_CANCELLED",
+    "message": "Cancelled",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCO_ABV_DOCUMENTVERIFY_MTP/ME",
+    "message": "MTP/ME Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCO_ABV_DOCUMENTVERIFY_JC",
+    "message": "JC Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCO_ABV_DOCUMENTVERIFY_CTP",
+    "message": "CTP Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCO_ABV_DOCUMENTVERIFY_ATP_HQ",
+    "message": "ATP (HQ) Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_STATUS_LAYOUT_MCO_ABV_DOCUMENTVERIFY_STP_HQ",
+    "message": "STP (HQ) Verification Pending",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_INITIATE",
+    "message": "Initiate",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_APPLY",
+    "message": "Apply",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_DRAFT",
+    "message": "Save as Draft",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_CANCEL",
+    "message": "Cancel",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_PAY",
+    "message": "Pay",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_UPDATE_FEE",
+    "message": "Update Fee",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_UPDATE_ZONE",
+    "message": "Update Zone",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_SEND_FOR_INSPECTION_REPORT",
+    "message": "Send for Inspection Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_FORWARD_L1",
+    "message": "Forward to DM",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_OBSERVATION",
+    "message": "Raise Observation",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_INTERNAL_QUERY",
+    "message": "Raise Internal Query",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_APPROVE",
+    "message": "Approve",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_REJECT",
+    "message": "Reject",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_RESUBMIT",
+    "message": "Resubmit",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_EDIT",
+    "message": "Edit",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_SENDBACKTODM",
+    "message": "Send Back to DM",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_SENDBACKFORINSPECTIONREPORT",
+    "message": "Send Back for Inspection Report",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_SENDBACKFORFIELDINSPECTION",
+    "message": "Send Back for Field Inspection",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_SENDBACKTOPROFESSIONAL",
+    "message": "Send Back to Professional",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_FORWARD_L2",
+    "message": "Forward to ATP/AME",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_FORWARD_L3",
+    "message": "Forward to MTP/ME",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_FORWARD_L4",
+    "message": "Forward to JC",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_FORWARD_L5",
+    "message": "Forward to CMC",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_FORWARD_STP_HQ",
+    "message": "Forward to STP (HQ)",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_FORWARD_FOR_APPROVAL",
+    "message": "Forward to CMC",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_FORWARDTOATP_HQ",
+    "message": "Forward to ATP (HQ)",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_SENDBACKTOMTP/ME",
+    "message": "Send Back to MTP/ME",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_SENDBACKTOATP/AME",
+    "message": "Send Back to ATP/AME",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  },
+  {
+    "code": "WF_EMPLOYEE_LAYOUT_LAYOUT_MCO_ABV_SENDBACKTOJC",
+    "message": "Send Back to JC",
+    "module": "rainmaker-common",
+    "locale": "en_IN"
+  }
+]

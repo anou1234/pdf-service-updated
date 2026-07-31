@@ -48,6 +48,7 @@
     "moment-timezone": "^0.5.28",
     "morgan": "^1.8.0",
     "node-cache": "5.1.2",
+    "pdf-lib": "^1.17.1",
     "pdf-merger-js": "3.2.1",
     "pdfmake": "0.2.4",
     "pg": "^8.7.1",
