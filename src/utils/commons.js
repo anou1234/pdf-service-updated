@@ -254,34 +254,48 @@ export async function preparePdfForSigning(
   });
   const sigRef = pdfDoc.context.register(sigDict);
 
-  // 2. Build Appearance Stream (/AP /N) — makes the widget visually render
-  const apW = 264;
-  const apH = 64;
-  // Escape PDF string special chars just in case
+  // 2. Build Appearance Stream (/AP /N) — transparent background & compact size
+  //    Width: 220pt, Height: 55pt
+  const apW = 220;
+  const apH = 55;
+
   const escapePdfStr = (s) =>
     (s || "").replace(/\\/g, "\\\\").replace(/\(/g, "\\(").replace(/\)/g, "\\)");
-  const signerDisplayName = escapePdfStr(signerName.substring(0, 30));
-  const reasonDisplay = escapePdfStr(reason.substring(0, 35));
-  const locationDisplay = escapePdfStr(location.substring(0, 30));
+  const signerDisplayName = escapePdfStr(signerName.substring(0, 26));
+  const locationDisplay = escapePdfStr(location.substring(0, 26));
+  const now = new Date();
+  const dateDisplay = escapePdfStr(
+    now.toISOString().replace("T", " ").substring(0, 19) + " IST"
+  );
 
   const apContent = [
     "q",
-    "0.86 0.93 1 rg",                     // light blue fill
-    `0 0 ${apW} ${apH} re f`,
-    "0.2 0.44 0.72 RG",                   // dark blue border
-    "0.8 w",
-    `1 1 ${apW - 2} ${apH - 2} re S`,
-    "0 0 0 rg",                           // black text
+    // Transparent background — no fill!
+    // Optional subtle border (#d0d0d0)
+    "0.816 0.816 0.816 RG",
+    "0.75 w",
+    `0.5 0.5 ${apW - 1} ${apH - 1} re S`,
+    // Green left accent bar (#1a7f3c)
+    "0.102 0.498 0.235 rg",
+    `0 0 3 ${apH} re f`,
     "BT",
+    // 1. Label (#1a7f3c green)
+    "0.102 0.498 0.235 rg",
+    "/HelvBold 7 Tf",
+    `10 ${apH - 12} Td`,
+    "(DIGITALLY SIGNED BY) Tj",
+    // 2. Signer Name (#1a1a1a dark bold)
+    "0.102 0.102 0.102 rg",
+    "/HelvBold 10 Tf",
+    "0 -13 Td",
+    `(${signerDisplayName}) Tj`,
+    // 3. Signature Meta (#6b6b6b muted gray)
+    "0.420 0.420 0.420 rg",
     "/Helv 6.5 Tf",
-    `6 ${apH - 12} Td`,
-    `(Digitally signed by: ${signerDisplayName}) Tj`,
-    "0 -11 Td",
-    `(Reason: ${reasonDisplay}) Tj`,
-    "0 -11 Td",
-    `(Location: ${locationDisplay}) Tj`,
-    "0 -11 Td",
-    "(Verified via USB Digital Token) Tj",
+    "0 -12 Td",
+    `(Date: ${dateDisplay}) Tj`,
+    "0 -9 Td",
+    `(Loc: ${locationDisplay}) Tj`,
     "ET",
     "Q",
   ].join("\n");
@@ -295,6 +309,15 @@ export async function preparePdfForSigning(
     })
   );
 
+  const apFontBoldRef = pdfDoc.context.register(
+    pdfDoc.context.obj({
+      Type: "Font",
+      Subtype: "Type1",
+      BaseFont: "Helvetica-Bold",
+      Encoding: "WinAnsiEncoding",
+    })
+  );
+
   const apStream = pdfDoc.context.stream(
     Buffer.from(apContent, "latin1"),
     {
@@ -302,13 +325,16 @@ export async function preparePdfForSigning(
       Subtype: "Form",
       BBox: [0, 0, apW, apH],
       Resources: pdfDoc.context.obj({
-        Font: pdfDoc.context.obj({ Helv: apFontRef }),
+        Font: pdfDoc.context.obj({
+          Helv: apFontRef,
+          HelvBold: apFontBoldRef,
+        }),
       }),
     }
   );
   const apRef = pdfDoc.context.register(apStream);
 
-  // 3. Signature Field Widget Annotation — visible box on last page
+  // 3. Signature Field Widget Annotation — compact 220pt x 55pt box
   const sigFieldDict = pdfDoc.context.obj({
     Type: "Annot",
     Subtype: "Widget",
@@ -317,10 +343,12 @@ export async function preparePdfForSigning(
     V: sigRef,
     F: 4,
     P: lastPage.ref,
-    Rect: [36, 36, 300, 100],
+    Rect: [36, 36, 256, 91],
     AP: pdfDoc.context.obj({ N: apRef }),
   });
   const sigFieldRef = pdfDoc.context.register(sigFieldDict);
+
+
 
   // 4. Register in AcroForm
   pdfDoc.catalog.set(
