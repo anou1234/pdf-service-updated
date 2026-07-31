@@ -33,7 +33,7 @@ export const findLocalisation = async (
   requestInfo,
   moduleList,
   codeList,
-  pdfKey
+  pdfKey,
 ) => {
   let cacheData = null;
   let locale = requestInfo.msgId;
@@ -45,24 +45,25 @@ export const findLocalisation = async (
   }
 
   if (pdfKey != null) {
-    let cacheKey = pdfKey + '-' + locale;
+    let cacheKey = pdfKey + "-" + locale;
     cacheData = await verifyCache(cacheKey);
   }
 
   if (cacheData != null && Object.keys(cacheData).length >= 1) {
     return cacheData;
-  }
-  else {
+  } else {
     let statetenantid = get(
       requestInfo,
       "userInfo.tenantId",
-      defaultTenant
+      defaultTenant,
     ).split(".")[0];
     // Build localisation search URL; in local/dev rewrite internal docker hostnames to EGOV_HOST
     let url;
     try {
       const base = new URL(egovLocHost);
-      const isInternal = base.hostname === 'egov-localization' || base.hostname.endsWith('.egov');
+      const isInternal =
+        base.hostname === "egov-localization" ||
+        base.hostname.endsWith(".egov");
       if (envVariables.REWRITE_INTERNAL_HOSTS && isInternal) {
         const newBase = new URL(envVariables.EGOV_HOST);
         url = new URL(egovLocSearchCall, newBase).toString();
@@ -80,8 +81,8 @@ export const findLocalisation = async (
       messageSearchCriteria: {
         tenantId: statetenantid,
         locale: locale,
-        codes: []
-      }
+        codes: [],
+      },
     };
 
     request.messageSearchCriteria.module = moduleList.toString();
@@ -90,25 +91,24 @@ export const findLocalisation = async (
     let headers = {
       headers: {
         "content-type": "application/json;charset=UTF-8",
-        accept: "application/json, text/plain, */*"
-      }
+        accept: "application/json, text/plain, */*",
+      },
     };
 
-    let responseBody = await axios.post(url, request, headers)
+    let responseBody = await axios
+      .post(url, request, headers)
       .then(function (response) {
         return response;
       })
       .catch((error) => {
-        throw error
+        throw error;
       });
 
-    if (pdfKey != null)
-      cache.set(pdfKey, responseBody.data);
-
+    if (pdfKey != null) cache.set(pdfKey, responseBody.data);
 
     return responseBody.data;
   }
-}
+};
 
 export const verifyCache = async (pdfKey) => {
   let cacheData = null;
@@ -116,10 +116,8 @@ export const verifyCache = async (pdfKey) => {
     cacheData = cache.get(pdfKey);
 
     return Promise.resolve(cacheData);
-  }
-  else
-    return cacheData;
-}
+  } else return cacheData;
+};
 
 export const getLocalisationkey = async (
   prefix,
@@ -127,9 +125,8 @@ export const getLocalisationkey = async (
   isCategoryRequired,
   isMainTypeRequired,
   isSubTypeRequired,
-  delimiter = " / "
+  delimiter = " / ",
 ) => {
-
   let keyArray = [];
   let localisedLabels = [];
   let isArray = false;
@@ -148,27 +145,18 @@ export const getLocalisationkey = async (
 
     // append main category in the beginning
     if (isCategoryRequired) {
-      codeFromKey = getLocalisationLabel(
-        item.split(".")[0],
-        prefix
-      );
+      codeFromKey = getLocalisationLabel(item.split(".")[0], prefix);
     }
 
     if (isMainTypeRequired) {
       if (isCategoryRequired) codeFromKey = `${codeFromKey}${delimiter}`;
-      codeFromKey = getLocalisationLabel(
-        item.split(".")[1],
-        prefix
-      );
+      codeFromKey = getLocalisationLabel(item.split(".")[1], prefix);
     }
 
     if (isSubTypeRequired) {
       if (isMainTypeRequired || isCategoryRequired)
         codeFromKey = `${codeFromKey}${delimiter}`;
-      codeFromKey = `${codeFromKey}${getLocalisationLabel(
-        item,
-        prefix
-      )}`;
+      codeFromKey = `${codeFromKey}${getLocalisationLabel(item, prefix)}`;
     }
 
     if (!isCategoryRequired && !isMainTypeRequired && !isSubTypeRequired) {
@@ -221,3 +209,219 @@ export const convertFooterStringtoFunctionIfExist = (footer) => {
   }
   return footer;
 };
+
+const HOLE_SIZE = 8192; // 8192 bytes = 16384 hex characters
+
+// Exact string pdf-lib writes for ByteRange: [0, 999999999, 999999999, 999999999]
+const BR_PLACEHOLDER = "[ 0 999999999 999999999 999999999 ]";
+const BR_PLACEHOLDER_LEN = BR_PLACEHOLDER.length; // 34
+
+export async function preparePdfForSigning(
+  rawPdfBuffer,
+  PDFDocument,
+  PDFHexString,
+  PDFString,
+  PDFName,
+  crypto,
+  signerInfo = {},
+) {
+  const pdfDoc = await PDFDocument.load(rawPdfBuffer);
+  const pages = pdfDoc.getPages();
+  const lastPage = pages[pages.length - 1];
+
+  const holePlaceholder = "0".repeat(HOLE_SIZE * 2);
+
+  const {
+    signerName = "Authorized Signatory",
+    reason = "Digital Approval of Document",
+    location = "Chhattisgarh",
+    contactInfo = "",
+  } = signerInfo;
+
+  // 1. Signature Value Dictionary (/Type /Sig)
+  //    ByteRange uses the fixed placeholder array — pdf-lib writes it as a real PDF array [...]
+  const sigDict = pdfDoc.context.obj({
+    Type: "Sig",
+    Filter: "Adobe.PPKLite",
+    SubFilter: "adbe.pkcs7.detached",
+    ByteRange: [0, 999999999, 999999999, 999999999],
+    Contents: PDFHexString.of(holePlaceholder),
+    M: PDFString.fromDate(new Date()),
+    Name: PDFString.of(signerName),
+    Reason: PDFString.of(reason),
+    Location: PDFString.of(location),
+    ...(contactInfo && { ContactInfo: PDFString.of(contactInfo) }),
+  });
+  const sigRef = pdfDoc.context.register(sigDict);
+
+  // 2. Build Appearance Stream (/AP /N) — makes the widget visually render
+  const apW = 264;
+  const apH = 64;
+  // Escape PDF string special chars just in case
+  const escapePdfStr = (s) =>
+    (s || "").replace(/\\/g, "\\\\").replace(/\(/g, "\\(").replace(/\)/g, "\\)");
+  const signerDisplayName = escapePdfStr(signerName.substring(0, 30));
+  const reasonDisplay = escapePdfStr(reason.substring(0, 35));
+  const locationDisplay = escapePdfStr(location.substring(0, 30));
+
+  const apContent = [
+    "q",
+    "0.86 0.93 1 rg",                     // light blue fill
+    `0 0 ${apW} ${apH} re f`,
+    "0.2 0.44 0.72 RG",                   // dark blue border
+    "0.8 w",
+    `1 1 ${apW - 2} ${apH - 2} re S`,
+    "0 0 0 rg",                           // black text
+    "BT",
+    "/Helv 6.5 Tf",
+    `6 ${apH - 12} Td`,
+    `(Digitally signed by: ${signerDisplayName}) Tj`,
+    "0 -11 Td",
+    `(Reason: ${reasonDisplay}) Tj`,
+    "0 -11 Td",
+    `(Location: ${locationDisplay}) Tj`,
+    "0 -11 Td",
+    "(Verified via USB Digital Token) Tj",
+    "ET",
+    "Q",
+  ].join("\n");
+
+  const apFontRef = pdfDoc.context.register(
+    pdfDoc.context.obj({
+      Type: "Font",
+      Subtype: "Type1",
+      BaseFont: "Helvetica",
+      Encoding: "WinAnsiEncoding",
+    })
+  );
+
+  const apStream = pdfDoc.context.stream(
+    Buffer.from(apContent, "latin1"),
+    {
+      Type: "XObject",
+      Subtype: "Form",
+      BBox: [0, 0, apW, apH],
+      Resources: pdfDoc.context.obj({
+        Font: pdfDoc.context.obj({ Helv: apFontRef }),
+      }),
+    }
+  );
+  const apRef = pdfDoc.context.register(apStream);
+
+  // 3. Signature Field Widget Annotation — visible box on last page
+  const sigFieldDict = pdfDoc.context.obj({
+    Type: "Annot",
+    Subtype: "Widget",
+    FT: "Sig",
+    T: PDFString.of("Signature1"),
+    V: sigRef,
+    F: 4,
+    P: lastPage.ref,
+    Rect: [36, 36, 300, 100],
+    AP: pdfDoc.context.obj({ N: apRef }),
+  });
+  const sigFieldRef = pdfDoc.context.register(sigFieldDict);
+
+  // 4. Register in AcroForm
+  pdfDoc.catalog.set(
+    PDFName.of("AcroForm"),
+    pdfDoc.context.obj({
+      Fields: [sigFieldRef],
+      SigFlags: 3,
+    }),
+  );
+
+  // 5. Attach annotation to last page
+  const existingAnnots = lastPage.node.Annots();
+  if (existingAnnots) {
+    existingAnnots.push(sigFieldRef);
+  } else {
+    lastPage.node.set(PDFName.of("Annots"), pdfDoc.context.obj([sigFieldRef]));
+  }
+
+  let pdfWithHole = Buffer.from(await pdfDoc.save({ useObjectStreams: false }));
+
+  // 6. Locate /Contents < to compute ByteRange
+  const contentsMarker = Buffer.from("/Contents <");
+  let markerIdx = pdfWithHole.indexOf(contentsMarker);
+  let markerLen = contentsMarker.length;
+  if (markerIdx === -1) {
+    const altMarker = Buffer.from("/Contents<");
+    markerIdx = pdfWithHole.indexOf(altMarker);
+    markerLen = altMarker.length;
+  }
+  if (markerIdx === -1) throw new Error("Could not locate /Contents in PDF");
+
+  const hexStart = markerIdx + markerLen; // byte index of first hex char after '<'
+
+  // Locate open bracket '<' (at hexStart - 1) and closing bracket '>' (at hexStart + HOLE_SIZE * 2)
+  // PDF ISO 32000-1 specification requires BOTH '<' and '>' to be EXCLUDED from ByteRange!
+  const range1_len = hexStart - 1;                       // Range 1 stops right BEFORE '<'
+  const range2_offset = hexStart + HOLE_SIZE * 2 + 1;    // Range 2 starts right AFTER '>'
+  const range2_len = pdfWithHole.length - range2_offset;
+  const byteRange = [0, range1_len, range2_offset, range2_len];
+
+  // 7. Patch ByteRange in-place using fixed-size placeholder
+  //    pdf-lib writes [9999999999 9999999999 9999999999 9999999999] as a PDF array
+  //    We search for that exact byte sequence and overwrite it safely.
+  const brMarker = Buffer.from(BR_PLACEHOLDER);
+  const brIdx = pdfWithHole.indexOf(brMarker);
+  if (brIdx === -1) {
+    // Fallback: log what's near /ByteRange for debugging
+    const brDebugIdx = pdfWithHole.indexOf(Buffer.from("/ByteRange"));
+    const snippet = brDebugIdx !== -1
+      ? pdfWithHole.subarray(brDebugIdx, brDebugIdx + 60).toString("ascii")
+      : "(not found)";
+    throw new Error(`ByteRange placeholder not found. /ByteRange area: ${snippet}`);
+  }
+
+  const actualBrStr = `[${byteRange[0]} ${byteRange[1]} ${byteRange[2]} ${byteRange[3]}]`;
+  const paddedBrStr = actualBrStr.padEnd(BR_PLACEHOLDER_LEN, " ");
+  Buffer.from(paddedBrStr, "ascii").copy(pdfWithHole, brIdx);
+
+  // 8. Compute SHA-256 hash over the two ByteRange segments
+  const part1 = pdfWithHole.subarray(byteRange[0], byteRange[1]);
+  const part2 = pdfWithHole.subarray(byteRange[2], byteRange[2] + byteRange[3]);
+
+  const documentHash = crypto
+    .createHash("sha256")
+    .update(part1)
+    .update(part2)
+    .digest("base64"); // Base64 required by Signer.Digital
+
+  return { pdfWithHole, documentHash };
+}
+
+/**
+ * Overwrites /Contents placeholder with the real PKCS#7 signature hex.
+ * Writes exactly HOLE_SIZE*2 ASCII hex characters into the hole.
+ */
+export function injectSignatureIntoPdf(pdfBuffer, pkcs7SignatureBase64) {
+  const pdfBuf = Buffer.from(pdfBuffer);
+
+  const sigHex = Buffer.from(pkcs7SignatureBase64, "base64")
+    .toString("hex");
+
+  if (sigHex.length > HOLE_SIZE * 2) {
+    throw new Error(
+      `PKCS7 signature (${sigHex.length / 2} bytes) exceeds HOLE_SIZE (${HOLE_SIZE} bytes). Increase HOLE_SIZE.`
+    );
+  }
+
+  const padded = sigHex.padEnd(HOLE_SIZE * 2, "0");
+  const sigHexBuffer = Buffer.from(padded, "ascii");
+
+  const contentsMarker = Buffer.from("/Contents <");
+  let markerIdx = pdfBuf.indexOf(contentsMarker);
+  let markerLen = contentsMarker.length;
+  if (markerIdx === -1) {
+    const altMarker = Buffer.from("/Contents<");
+    markerIdx = pdfBuf.indexOf(altMarker);
+    markerLen = altMarker.length;
+  }
+  if (markerIdx === -1) throw new Error("Could not locate /Contents in PDF");
+
+  sigHexBuffer.copy(pdfBuf, markerIdx + markerLen);
+  return pdfBuf;
+}
+
