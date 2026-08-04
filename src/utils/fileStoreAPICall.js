@@ -56,14 +56,33 @@ export const fileStoreAPICall = async function (filename, tenantId, fileData) {
   return get(response.data, "files[0].fileStoreId");
 };
 
-export async function getFilestoreUrl(filestoreid, tenantId) {
+export async function getFilestoreUrl(filestoreid, tenantId, returnFullUrl = false) {
   const fileHost = rewriteHostIfNeeded(egovFileHost);
   var url = `${fileHost}/filestore/v1/files/url?tenantId=${tenantId}&fileStoreIds=${filestoreid}`;
   let response = await axios.get(url);
   let data = response.data;
   var fileURL = data['fileStoreIds'][0]['url'].split(",");
+  if(returnFullUrl){
+    return fileURL[0];
+  }
   var shorteningUrl = getShortneningUrl(fileURL[0]);
   return shorteningUrl;
+}
+export async function downloadFileFromFilestore(
+  fileStoreId,
+  tenantId
+) {
+  const downloadUrl = await getFilestoreUrl(
+    fileStoreId,
+    tenantId,
+    true
+  );
+
+  const response = await axios.get(downloadUrl, {
+    responseType: "arraybuffer",
+  });
+
+  return Buffer.from(response.data);
 }
 
 export async function getShortneningUrl(actualUrl) {

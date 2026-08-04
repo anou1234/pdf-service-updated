@@ -453,3 +453,48 @@ export function injectSignatureIntoPdf(pdfBuffer, pkcs7SignatureBase64) {
   return pdfBuf;
 }
 
+export async function createHash(
+  pdfBuffer,
+  {
+    signerName,
+    reason,
+    location,
+    contactInfo,
+    tenantId,
+    key,
+    PDFDocument,
+    PDFHexString,
+    PDFString,
+    PDFName,
+    crypto,
+    fileStoreAPICall,
+  }
+) {
+  const { pdfWithHole, documentHash } = await preparePdfForSigning(
+    pdfBuffer,
+    PDFDocument,
+    PDFHexString,
+    PDFString,
+    PDFName,
+    crypto,
+    {
+      signerName,
+      reason,
+      location,
+      contactInfo,
+    }
+  );
+
+  const holeFilename = `${key}-hole-${Date.now()}.pdf`;
+
+  const signatureId = await fileStoreAPICall(
+    holeFilename,
+    tenantId,
+    pdfWithHole
+  );
+
+  return {
+    signatureId,
+    documentHash,
+  };
+}

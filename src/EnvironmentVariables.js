@@ -1,8 +1,8 @@
 const envVariables = {
   MAX_NUMBER_PAGES: process.env.MAX_NUMBER_PAGES || 80,
-  EGOV_HOST: process.env.EGOV_HOST || "https://test.one1sewa.com/",
+  EGOV_HOST: process.env.EGOV_HOST || "https://mseva-dev.lgpunjab.gov.in/",
   EGOV_LOCALISATION_HOST:
-    process.env.EGOV_LOCALISATION_HOST || "https://test.one1sewa.com/",
+    process.env.EGOV_LOCALISATION_HOST || "https://mseva-dev.lgpunjab.gov.in/",
   EGOV_LOCALISATION_SEARCH:
     process.env.EGOV_LOCALISATION_SEARCH || "/localization/messages/v2/_search",
   EGOV_FILESTORE_SERVICE_HOST:
@@ -56,8 +56,9 @@ const envVariables = {
   //C:/Users/anoushkas1/OneDrive - KPMG/Documents/GitHub/chips_rainmaker/rainmaker-customization/configs/pdf-service/format-config/ownerconsent.json
 
   DATA_CONFIG_URLS:
-    "C:/Users/KPMG/OneDrive - BML MUNJAL UNIVERSITY/Documents/Github/chips-rainmaker-customization/configs/pdf-service/data-config/layout-shortfall-letter.json",
-  FORMAT_CONFIG_URLS:
-    "C:/Users/KPMG/OneDrive - BML MUNJAL UNIVERSITY/Documents/Github/chips-rainmaker-customization/configs/pdf-service/format-config/layout-shortfall-letter.json",
-};
+  "file://C:/Users/KPMG/OneDrive - BML MUNJAL UNIVERSITY/Documents/Github/punjab-rainmaker-customization/configs/pdf-service/data-config/communityhallowner.json",
+FORMAT_CONFIG_URLS:
+  "file://C:/Users/KPMG/OneDrive - BML MUNJAL UNIVERSITY/Documents/Github/punjab-rainmaker-customization/configs/pdf-service/format-config/communityhallowner.json",};
 export default envVariables;
+
+

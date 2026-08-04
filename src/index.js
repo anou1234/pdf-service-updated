@@ -15,7 +15,7 @@ import * as pdfmake from "pdfmake/build/pdfmake";
 import * as pdfFonts from "pdfmake/build/vfs_fonts";
 import get from "lodash/get";
 import set from "lodash/set";
-import { fileStoreAPICall } from "./utils/fileStoreAPICall";
+import { fileStoreAPICall,downloadFileFromFilestore } from "./utils/fileStoreAPICall";
 import { directMapping } from "./utils/directMapping";
 import { externalAPIMapping } from "./utils/externalAPIMapping";
 import envVariables from "./EnvironmentVariables";
@@ -24,6 +24,7 @@ import {
   getValue,
   preparePdfForSigning,
   injectSignatureIntoPdf,
+  createHash
 } from "./utils/commons";
 import {
   getFileStoreIds,
@@ -96,9 +97,8 @@ var datafileLength = dataConfigUrls
   : 0;
 let unregisteredLocalisationCodes = [];
 const crypto = require("crypto");
-const NodeCache = require("node-cache");
-const { PDFDocument, PDFName, PDFString, PDFHexString } = require("pdf-lib");
-const sigPdfCache = new NodeCache({ stdTTL: 900, checkperiod: 120 });
+const { PDFDocument, PDFHexString, PDFString, PDFName } = require('pdf-lib');
+
 
 var fontDescriptors = {
   Cambay: {
@@ -432,106 +432,188 @@ app.post(
   "/pdf-service/v1/_createnosave",
   asyncHandler(async (req, res) => {
     let requestInfo;
+
     try {
-      var starttime = new Date().getTime();
-      let key = req.query.key;
-      let tenantId = req.query.tenantId;
-      var formatconfig = formatConfigMap[key];
-      var dataconfig = dataConfigMap[key];
+      const key = req.query.key;
+      const tenantId = req.query.tenantId;
+      const fileStoreId =
+        req.query.dxfFileStoreId || req.body.filestoreid;
+      const { signerName, reason, location, contactInfo } = req.body || {};
+
+      const formatconfig = formatConfigMap[key];
+      const dataconfig = dataConfigMap[key];
+
       logger.info("received createnosave request on key: " + key);
+
       requestInfo = get(req.body, "RequestInfo");
+
+      const valid = validateRequest(
+        req,
+        res,
+        key,
+        tenantId,
+        requestInfo
+      );
+
+      if (!valid) return;
+
       //
-
-      var valid = validateRequest(req, res, key, tenantId, requestInfo);
-
-      if (valid) {
-        let [formatConfigByFile, totalobjectcount, entityIds] =
-          await prepareBegin(
-            key,
-            req,
-            requestInfo,
-            true,
-            formatconfig,
-            dataconfig,
-          );
-        // restoring footer function
-        formatConfigByFile[0].footer = convertFooterStringtoFunctionIfExist(
-          formatconfig.footer,
+      // Existing PDF (DXF flow)
+      //
+      if (fileStoreId) {
+        const dxfFileTenant = tenantId.split(".")[1];
+        logger.info(
+          `Downloading existing PDF from filestore: ${fileStoreId} and tenantid : ${dxfFileTenant}`
         );
-        const doc = printer.createPdfKitDocument(formatConfigByFile[0]);
-        let fileNameAppend = "-" + new Date().getTime();
-        let filename = key + "" + fileNameAppend + ".pdf";
 
-        var chunks = [];
-        doc.on("data", function (chunk) {
-          chunks.push(chunk);
-        });
-        doc.on("end", async function () {
-          // console.log("enddddd "+cr++);
-          var data = Buffer.concat(chunks);
-          if (req.query.createHash === "true") {
-            console.log(
-              "[SIGN][1] createHash triggered. PDF buffer size:",
-              data.length,
+        let pdfBuffer;
+
+        try {
+          pdfBuffer = await downloadFileFromFilestore(
+            fileStoreId,
+            dxfFileTenant
+          );
+        } catch (e) {
+          return res.status(404).json({
+            ResponseInfo: requestInfo,
+            message: "Unable to download DXF PDF from filestore.",
+          });
+        }
+
+        if (req.query.createHash === "true") {
+          const { signatureId, documentHash } =
+            await createHash(
+              pdfBuffer, {
+              signerName,
+              reason,
+              location,
+              contactInfo,
+              tenantId,
+              key,
+              PDFDocument,
+              PDFHexString,
+              PDFString,
+              PDFName,
+              crypto,
+              fileStoreAPICall,
+            }
             );
-            try {
-              const { signerName, reason, location, contactInfo } =
-                req.body || {};
-              const { pdfWithHole, documentHash } = await preparePdfForSigning(
-                data,
+
+          return res.status(200).json({
+            ResponseInfo: requestInfo,
+            signatureId,
+            documentHash,
+            status: "SUCCESS",
+          });
+        }
+
+        return res.end(pdfBuffer);
+      }
+
+      //
+      // Generate fresh PDF
+      //
+      const [formatConfigByFile, totalobjectcount, entityIds] =
+        await prepareBegin(
+          key,
+          req,
+          requestInfo,
+          true,
+          formatconfig,
+          dataconfig
+        );
+
+      formatConfigByFile[0].footer =
+        convertFooterStringtoFunctionIfExist(
+          formatconfig.footer
+        );
+
+      const doc =
+        printer.createPdfKitDocument(formatConfigByFile[0]);
+
+      const filename = `${key}-${Date.now()}.pdf`;
+
+      const chunks = [];
+
+      doc.on("data", (chunk) => chunks.push(chunk));
+
+      doc.on("end", async () => {
+        try {
+          const pdfBuffer = Buffer.concat(chunks);
+
+          if (req.query.createHash === "true") {
+            const { signatureId, documentHash } =
+              await createHash(
+                pdfBuffer, {
+                signerName,
+                reason,
+                location,
+                contactInfo,
+                tenantId,
+                key,
                 PDFDocument,
                 PDFHexString,
                 PDFString,
                 PDFName,
                 crypto,
-                { signerName, reason, location, contactInfo },
+                fileStoreAPICall,
+              }
               );
-              const signatureId = `SIG_${Date.now()}_${uuidv4()}`;
-              sigPdfCache.set(signatureId, {
-                pdfBuffer: pdfWithHole,
-                tenantId,
-                key,
-              });
-              return res.status(200).json({
-                ResponseInfo: requestInfo,
-                signatureId,
-                documentHash,
-                status: "SUCCESS",
-              });
-            } catch (err) {
-              logger.error("[SIGN] Error in createHash: " + (err.stack || err));
-              return res.status(500).json({
-                message: "Error creating signature hash: " + err.message,
-              });
-            }
+
+            return res.status(200).json({
+              ResponseInfo: requestInfo,
+              signatureId,
+              documentHash,
+              status: "SUCCESS",
+            });
           }
+
           res.writeHead(201, {
-            // 'Content-Type': mimetype,
-            "Content-disposition": "attachment;filename=" + filename,
-            "Content-Length": data.length,
+            "Content-disposition":
+              "attachment;filename=" + filename,
+            "Content-Length": pdfBuffer.length,
           });
+
           logger.info(
-            `createnosave success for pdf with key: ${key}, entityId ${entityIds}`,
+            `createnosave success for pdf with key: ${key}, entityId ${entityIds}`
           );
-          res.end(Buffer.from(data, "binary"));
-        });
-        doc.end();
-      }
+
+          res.end(Buffer.from(pdfBuffer, "binary"));
+        } catch (err) {
+          logger.error(err.stack || err);
+
+          return res.status(500).json({
+            message:
+              "Error creating signature hash: " +
+              err.message,
+          });
+        }
+      });
+
+      doc.end();
     } catch (error) {
       logger.error(error.stack || error);
-      res.status(400);
-      res.json({
-        message: "some unknown error while creating: " + error.message,
+
+      res.status(400).json({
+        message:
+          "some unknown error while creating: " +
+          error.message,
       });
     }
-  }),
+  })
 );
 
 app.post(
   "/pdf-service/v1/_injectSignature",
   asyncHandler(async (req, res) => {
-    let requestInfo = get(req.body, "RequestInfo");
-    const { signatureId, pkcs7Signature } = req.body;
+    const requestInfo = get(req.body, "RequestInfo");
+
+    const {
+      signatureId,
+      pkcs7Signature,
+      tenantId,
+      key,
+    } = req.body;
 
     if (!signatureId || !pkcs7Signature) {
       return res.status(400).json({
@@ -540,41 +622,68 @@ app.post(
       });
     }
 
-    const cached = sigPdfCache.get(signatureId);
-    if (!cached) {
-      return res.status(404).json({
-        ResponseInfo: requestInfo,
-        message: "Signature session expired or not found.",
-      });
-    }
+    let signedPdfBuf;
 
-    const { pdfBuffer, tenantId, key } = cached;
-
-    // Inject ASCII Hex signature
-    const signedPdfBuf = injectSignatureIntoPdf(pdfBuffer, pkcs7Signature);
-
-    // Save copy locally to src/newdoc.pdf for inspection
     try {
-      fs.writeFileSync(path.join(__dirname, "newdoc.pdf"), signedPdfBuf);
-      console.log("[INJECT] Saved copy to src/newdoc.pdf");
+  let holePdf;
+
+  try {
+    holePdf = await downloadFileFromFilestore(
+      signatureId,
+      tenantId
+    );
+  } catch (err) {
+    // Fallback to parent tenant if applicable
+    const dxfTenant = tenantId.split(".")[1];
+
+    if (dxfTenant && dxfTenant !== tenantId) {
+      logger.warn(
+        `Download failed for tenant ${tenantId}. Retrying with ${dxfTenant}`
+      );
+
+      holePdf = await downloadFileFromFilestore(
+        signatureId,
+        dxfTenant
+      );
+    } else {
+      throw `error came in this tenant too ${err}`;
+    }
+  }
+
+  signedPdfBuf = injectSignatureIntoPdf(
+    holePdf,
+    pkcs7Signature
+  );
     } catch (e) {
-      console.error("[INJECT] Could not write newdoc.pdf:", e);
+  return res.status(404).json({
+    ResponseInfo: requestInfo,
+    message: `Signature session expired or not found. ${e}`,
+  });
+}
+
+    try {
+      fs.writeFileSync(
+        path.join(__dirname, "newdoc.pdf"),
+        signedPdfBuf
+      );
+    } catch (e) {
+      logger.error(e);
     }
 
-    // Upload to UPYOG Filestore
     const filename = `${key}-signed-${Date.now()}.pdf`;
+
     const fileStoreId = await fileStoreAPICall(
       filename,
       tenantId,
-      signedPdfBuf,
+      signedPdfBuf
     );
 
-    sigPdfCache.del(signatureId);
-
-    return res
-      .status(200)
-      .json({ ResponseInfo: requestInfo, fileStoreId, status: "SUCCESS" });
-  }),
+    return res.status(200).json({
+      ResponseInfo: requestInfo,
+      fileStoreId,
+      status: "SUCCESS",
+    });
+  })
 );
 
 app.post(
